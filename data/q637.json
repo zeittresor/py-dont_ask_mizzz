@@ -1,0 +1,14 @@
+{
+  "question": "Welche Bemerkung ist harmlos zweideutig, aber nicht anzüglich?",
+  "options": {
+    "A": "„Das hat gesessen.“",
+    "B": "„Zeig mir mehr… Beweise.“",
+    "C": "„Du kannst gern… meine Steuer machen.“"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Klingt gut – passt fast immer.",
+    "B": "Hm, könnte falsch verstanden werden. (Richtig: A)",
+    "C": "Das ist kein Flirt, das ist Arbeit. (Richtig: A)"
+  }
+}

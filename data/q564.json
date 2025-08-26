@@ -1,0 +1,14 @@
+{
+  "question": "Welche Kurzbeschreibung passt am besten zu Prince of Persia (1989)?",
+  "options": {
+    "A": "Sci-Fi, Erkundung, Backtracking",
+    "B": "Shoot ’em up mit Formationsangriffen",
+    "C": "Filmreife Animation per Rotoskopie"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Das beschreibt ein anderes Spiel.",
+    "B": "Nope – falsche Assoziation. (Richtig: A)",
+    "C": "Korrekt – das ist Prince of Persia (1989) in einem Satz. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Wer bzw. was gehört als Hauptfigur zu Super Mario Bros.?",
+  "options": {
+    "A": "Guybrush Threepwood",
+    "B": "Pac-Man",
+    "C": "Mario"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Klingt vertraut – nur nicht aus Super Mario Bros..",
+    "B": "Nette Figur, aber nicht die Hauptrolle in Super Mario Bros.. (Richtig: A)",
+    "C": "Genau – Mario ist ikonisch für Super Mario Bros.. (Richtig: A)"
+  }
+}

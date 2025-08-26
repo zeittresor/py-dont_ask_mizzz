@@ -1,0 +1,14 @@
+{
+  "question": "Welche Methode beruhigt einen Rauchmelder legitimerweise?",
+  "options": {
+    "A": "Batterie wechseln / Ursache beheben",
+    "B": "Mit Topflappen draufhauen",
+    "C": "Mit Toastbrotscheiben füttern"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Sicherheit first.",
+    "B": "Bringt nix und ist laut. (Richtig: A)",
+    "C": "Er isst nicht. (Richtig: A)"
+  }
+}

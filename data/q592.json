@@ -1,0 +1,14 @@
+{
+  "question": "Wie spart man verlässlich Strom?",
+  "options": {
+    "A": "Mehr Steckdosen kaufen",
+    "B": "Bildschirmhelligkeit auf 110%",
+    "C": "Geräte ausschalten statt Standby"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Mehr Löcher heißt nicht weniger Strom.",
+    "B": "Das ist kein Sparmodus. (Richtig: A)",
+    "C": "Kleinvieh macht auch Mist. (Richtig: A)"
+  }
+}

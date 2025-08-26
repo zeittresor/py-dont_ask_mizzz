@@ -1,0 +1,14 @@
+{
+  "question": "Du hast drei Möglichkeiten, einen Kuchen zu teilen. Was ist garantiert fair bei zwei Personen?",
+  "options": {
+    "A": "Der Bäcker entscheidet spontan",
+    "B": "Eine schneidet, die/der andere wählt",
+    "C": "Würfeln und hoffen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Menschliche Laune ist kein Fairnessbeweis.",
+    "B": "Alter Fairness-Trick: Incentives sind perfekt ausbalanciert. (Richtig: A)",
+    "C": "Kann fair sein, garantiert aber keine faire Portion. (Richtig: A)"
+  }
+}

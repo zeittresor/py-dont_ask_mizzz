@@ -1,0 +1,14 @@
+{
+  "question": "Wer bzw. was gehört als Hauptfigur zu Pac-Man?",
+  "options": {
+    "A": "Pac-Man",
+    "B": "Bomberman",
+    "C": "Space Marine (Doomguy)"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Genau – Pac-Man ist ikonisch für Pac-Man.",
+    "B": "Klingt vertraut – nur nicht aus Pac-Man.",
+    "C": "Nette Figur, aber nicht die Hauptrolle in Pac-Man."
+  }
+}

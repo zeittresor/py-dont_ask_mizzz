@@ -1,0 +1,14 @@
+{
+  "question": "Was ist echte Energiezufuhr?",
+  "options": {
+    "A": "Einen Sonnenstrahl anschauen",
+    "B": "Kalorien essen",
+    "C": "Einen Akku auf die Stirn legen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Sehen lädt Menschen nicht auf.",
+    "B": "Chemische Energie rein – basic Physio. (Richtig: A)",
+    "C": "Placebo für Cyborgs. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche dieser Kreaturen ist ein echtes Tier?",
+  "options": {
+    "A": "Greif",
+    "B": "Nessie",
+    "C": "Nacktmull"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Mythos – Adler-Löwen-Mix gibt’s nur im Wappen.",
+    "B": "Nettes Meme, aber wissenschaftlich nicht belegt. (Richtig: A)",
+    "C": "Sieht aus wie ein Glibberwiesel, ist aber höchst real. (Richtig: A)"
+  }
+}

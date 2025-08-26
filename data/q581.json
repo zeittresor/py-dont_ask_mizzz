@@ -1,0 +1,14 @@
+{
+  "question": "Welche Option ist die realistischste Superkraft für einen normalen Menschen?",
+  "options": {
+    "A": "Sich entschuldigen können",
+    "B": "Unsichtbar werden beim Niesen",
+    "C": "Gedanken lesen von Katzen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Heilt mehr Konflikte als Laseraugen.",
+    "B": "Kompliziert – und unhygienisch. (Richtig: A)",
+    "C": "Die denken nur 'Futter'. (Richtig: A)"
+  }
+}

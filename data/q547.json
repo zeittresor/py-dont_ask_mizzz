@@ -1,0 +1,14 @@
+{
+  "question": "Wer bzw. was gehört als Hauptfigur zu Space Invaders?",
+  "options": {
+    "A": "Mega Man",
+    "B": "Pac-Man",
+    "C": "Kanone am unteren Bildschirmrand"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Klingt vertraut – nur nicht aus Space Invaders.",
+    "B": "Nette Figur, aber nicht die Hauptrolle in Space Invaders. (Richtig: A)",
+    "C": "Genau – Kanone am unteren Bildschirmrand ist ikonisch für Space Invaders. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Wie vermeidest du 100% sicher Missverständnisse in einem Chat?",
+  "options": {
+    "A": "Du kannst es nicht 100% – aber du kannst klar & freundlich sein",
+    "B": "ALLES IN GROSSSCHRIFT!!",
+    "C": "Nur Emojis senden"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Menschen bleiben Menschen – aber Klarheit hilft.",
+    "B": "Wirkt wie Anschreien. (Richtig: A)",
+    "C": "🧠❓ (Richtig: A)"
+  }
+}

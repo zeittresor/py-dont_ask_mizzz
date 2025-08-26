@@ -1,0 +1,14 @@
+{
+  "question": "Welche Kurzbeschreibung passt am besten zu Sonic the Hedgehog?",
+  "options": {
+    "A": "Hochgeschwindigkeit, Ringe sammeln",
+    "B": "Hyrule, Dungeons, Triforce",
+    "C": "Vampirjagd, Peitsche, Dracula"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt – das ist Sonic the Hedgehog in einem Satz.",
+    "B": "Das beschreibt ein anderes Spiel. (Richtig: A)",
+    "C": "Nope – falsche Assoziation. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche dieser 'Ernährungsweisen' ist wirklich sinnvoll?",
+  "options": {
+    "A": "Ausgewogen essen",
+    "B": "Nur Luft und Liebe",
+    "C": "100% Schokolade"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Basics first – Gemüse etc.",
+    "B": "Romantisch, aber ungesund. (Richtig: A)",
+    "C": "Herz sagt ja, Körper sagt irgendwann nein. (Richtig: A)"
+  }
+}

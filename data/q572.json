@@ -1,0 +1,14 @@
+{
+  "question": "Welche Technik funktioniert wirklich ohne direkten Kontakt mit dem Instrument?",
+  "options": {
+    "A": "Theremin spielen",
+    "B": "Akustikgitarre spielen ohne Schwingen",
+    "C": "Saxofon spielen ohne reinzupusten"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Handbewegungen im elektromagnetischen Feld – kein Anblasen, kein Zupfen.",
+    "B": "Ohne Schwingen der Saiten kein Ton. (Richtig: A)",
+    "C": "Ohne Luft bleibt es stumm. (Richtig: A)"
+  }
+}

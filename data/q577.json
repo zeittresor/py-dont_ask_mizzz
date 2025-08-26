@@ -1,0 +1,14 @@
+{
+  "question": "Wie erzeugst du zuverlässig runden Toast?",
+  "options": {
+    "A": "Rundes Brot toasten",
+    "B": "Eckiges Brot mit Zirkel zeichnen",
+    "C": "Quadrat toasten und an den Ecken pusten"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Form folgt Vorlage – crazy, ich weiß.",
+    "B": "Der Toaster versteht Zirkel nicht. (Richtig: A)",
+    "C": "Aerodynamik hilft hier nicht. (Richtig: A)"
+  }
+}

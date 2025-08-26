@@ -1,0 +1,14 @@
+{
+  "question": "Wer bzw. was gehört als Hauptfigur zu Pong?",
+  "options": {
+    "A": "Bomberman",
+    "B": "Schläger und Pixelball",
+    "C": "Der namenlose Prinz"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nette Figur, aber nicht die Hauptrolle in Pong.",
+    "B": "Genau – Schläger und Pixelball ist ikonisch für Pong. (Richtig: A)",
+    "C": "Klingt vertraut – nur nicht aus Pong. (Richtig: A)"
+  }
+}

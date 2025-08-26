@@ -1,0 +1,14 @@
+{
+  "question": "Wie kommst du am sichersten trocken nach Hause?",
+  "options": {
+    "A": "Regen verhandeln",
+    "B": "Regenschirm benutzen",
+    "C": "Den Regen anschreien"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Er lässt sich ungern umstimmen.",
+    "B": "Altmodisch, aber effektiv. (Richtig: A)",
+    "C": "Pädagogisch schwierig. (Richtig: A)"
+  }
+}

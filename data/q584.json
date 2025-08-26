@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Alltagsgegenstand ist tatsächlich ein Messinstrument?",
+  "options": {
+    "A": "Wasserwaage",
+    "B": "Glückskatze",
+    "C": "Selfiestick"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nivellieren for the win.",
+    "B": "Schön, aber kein Messgerät. (Richtig: A)",
+    "C": "Misst gar nix – außer Eitelkeit. (Richtig: A)"
+  }
+}

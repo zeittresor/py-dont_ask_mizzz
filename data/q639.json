@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Spruch bleibt spielerisch, ohne Grenzen zu übertreten?",
+  "options": {
+    "A": "„Ich geb dir ’nen Kuss…code.“",
+    "B": "„Komm her, du Genie, ich…“",
+    "C": "„Heißer Tipp – und er war richtig.“"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Auch zu suggestiv.",
+    "B": "Stopp, zu viel. (Richtig: A)",
+    "C": "Wortspiel, aber PG. (Richtig: A)"
+  }
+}

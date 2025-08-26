@@ -1,0 +1,14 @@
+{
+  "question": "Wie hältst du Essen im Kühlschrank frisch?",
+  "options": {
+    "A": "In Boxen abdecken",
+    "B": "Tür offen lassen für Frischluft",
+    "C": "Mit dem Föhn kalt pusten"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Weniger Austrocknen & Gerüche.",
+    "B": "Dann ist es kein Kühlschrank mehr. (Richtig: A)",
+    "C": "Physikalisch … nein. (Richtig: A)"
+  }
+}

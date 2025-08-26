@@ -1,0 +1,14 @@
+{
+  "question": "Welche Kurzbeschreibung passt am besten zu Wolfenstein 3D?",
+  "options": {
+    "A": "Filmreife Animation per Rotoskopie",
+    "B": "Früher Egoshooter im Labyrinth",
+    "C": "Reihenweise Aliens rücken nach unten"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Das beschreibt ein anderes Spiel.",
+    "B": "Korrekt – das ist Wolfenstein 3D in einem Satz. (Richtig: A)",
+    "C": "Nope – falsche Assoziation. (Richtig: A)"
+  }
+}

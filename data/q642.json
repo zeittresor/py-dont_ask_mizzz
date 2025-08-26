@@ -1,0 +1,14 @@
+{
+  "question": "Welche Wortwahl ist flirty, aber bleibt höflich?",
+  "options": {
+    "A": "„Dein Körper… äh, dein Diagramm ist heiß.“",
+    "B": "„Dein Hirn glitzert gerade.“",
+    "C": "„Ich würd’ dich gern… verbessern.“"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nope, Körperkommentare lassen wir.",
+    "B": "Kompliment fürs Denken – unbedenklich süß. (Richtig: A)",
+    "C": "Klingt manipulativ, nicht charmant. (Richtig: A)"
+  }
+}

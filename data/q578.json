@@ -1,0 +1,14 @@
+{
+  "question": "Welche Strategie lässt eine Topfpflanze wirklich wachsen?",
+  "options": {
+    "A": "Täglich 'Wachse!' flüstern",
+    "B": "Gießen und Licht geben",
+    "C": "Motivationsposter aufhängen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Sympathisch, aber wirkungslos.",
+    "B": "Wasser + Licht = Fotosynthese-Party. (Richtig: A)",
+    "C": "Pflanzen lesen ungern. (Richtig: A)"
+  }
+}

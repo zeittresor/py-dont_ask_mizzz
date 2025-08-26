@@ -1,0 +1,14 @@
+{
+  "question": "Was ist die charmanteste Art, jemandem zu signalisieren, dass die Antwort korrekt war?",
+  "options": {
+    "A": "Ein freches 'Genau so!'",
+    "B": "Ein 17-seitiges Gutachten",
+    "C": "Dreimaliges Räuspern"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Kurz, warm, positiv – ohne Kitsch.",
+    "B": "Korrekt, aber… unflirty. (Richtig: A)",
+    "C": "Wirkt eher wie Krümel im Hals. (Richtig: A)"
+  }
+}

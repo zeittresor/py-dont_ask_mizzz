@@ -1,0 +1,14 @@
+{
+  "question": "Welche Reaktion ist freundlich nach einer falschen Antwort?",
+  "options": {
+    "A": "„Das war… interessant.“ mit Augenrollen",
+    "B": "„Alles gut, weiter geht’s.“",
+    "C": "„So falsch, ich ruf deine Eltern an.“"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Passiv-aggressiv.",
+    "B": "Respektvoll, leicht, motivierend. (Richtig: A)",
+    "C": "Nope. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Kurzbeschreibung passt am besten zu Castlevania?",
+  "options": {
+    "A": "Städtebau, Zonen & Strom",
+    "B": "Labyrinthe sprengen",
+    "C": "Vampirjagd, Peitsche, Dracula"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nope – falsche Assoziation.",
+    "B": "Das beschreibt ein anderes Spiel. (Richtig: A)",
+    "C": "Korrekt – das ist Castlevania in einem Satz. (Richtig: A)"
+  }
+}

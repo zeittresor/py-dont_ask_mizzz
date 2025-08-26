@@ -1,0 +1,14 @@
+{
+  "question": "Was vermeidet Kaffeeflecken am besten?",
+  "options": {
+    "A": "Deckel/Becher mit Deckel",
+    "B": "Weißes Hemd anziehen",
+    "C": "Tasse schräg in der Hosentasche tragen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Verschütten erschwert.",
+    "B": "Das lädt Flecken ein. (Richtig: A)",
+    "C": "Das lädt Katastrophen ein. (Richtig: A)"
+  }
+}

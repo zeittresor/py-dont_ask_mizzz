@@ -1,0 +1,14 @@
+{
+  "question": "Welche Geste ist in Ordnung, wenn jemand eine richtige Antwort liefert?",
+  "options": {
+    "A": "Lippen schürzen und pfeifen",
+    "B": "Daumen hoch",
+    "C": "Augenzwinkern + Schnalzen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Kann unangemessen wirken.",
+    "B": "Universell verständlich – und safe. (Richtig: A)",
+    "C": "Zu viel Boulevard. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Kurzbeschreibung passt am besten zu Sonic the Hedgehog?",
+  "options": {
+    "A": "Egoshooter, Dämonen, Marsmonde",
+    "B": "Sci-Fi, Erkundung, Backtracking",
+    "C": "Hochgeschwindigkeit, Ringe sammeln"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nope – falsche Assoziation.",
+    "B": "Das beschreibt ein anderes Spiel. (Richtig: A)",
+    "C": "Korrekt – das ist Sonic the Hedgehog in einem Satz. (Richtig: A)"
+  }
+}

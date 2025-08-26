@@ -1,0 +1,14 @@
+{
+  "question": "Welche Entscheidung ist langfristig sinnvoller?",
+  "options": {
+    "A": "Rentenbeitrag zahlen",
+    "B": "Alles in Haustulpen investieren",
+    "C": "Nur Rubbellose kaufen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Zukunft-Du sagt danke.",
+    "B": "Tulpenblasen sind historisch fragwürdig. (Richtig: A)",
+    "C": "Mathematik weint leise. (Richtig: A)"
+  }
+}

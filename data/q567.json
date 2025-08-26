@@ -1,0 +1,14 @@
+{
+  "question": "Welche Kurzbeschreibung passt am besten zu Galaga?",
+  "options": {
+    "A": "Labyrinthe sprengen",
+    "B": "Shoot ’em up mit Formationsangriffen",
+    "C": "Sci-Fi, Erkundung, Backtracking"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nope – falsche Assoziation.",
+    "B": "Korrekt – das ist Galaga in einem Satz. (Richtig: A)",
+    "C": "Das beschreibt ein anderes Spiel. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Du willst als Zaubertrick 'eine Minute verschwinden'. Was klappt legal?",
+  "options": {
+    "A": "Zeit einfrieren",
+    "B": "Den Kopf in eine Kiste teleportieren",
+    "C": "Kurz den Raum verlassen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Physik sagt: nö.",
+    "B": "Teleportation ist leider ausverkauft. (Richtig: A)",
+    "C": "Abrakadabra: Flur. (Richtig: A)"
+  }
+}
