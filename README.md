@@ -9,7 +9,7 @@ Die Fragen sind zwar weitestgehend optimiert aber dennoch können sich natürlic
 sofern irgendeine der LLMs holloziniert hat :-) Also bitte nicht so "ganz" ernst nehmen wenn irgendwas nicht stimmt
 aber gern in den Issues reporten wenn das der Fall sein sollte ;-)
 
-Zur Zeit hat das Quiz etwa 450 Fragen und zum Teil dreist, lustige Antworten.
+Zur Zeit hat das Quiz etwa 400 Fragen und zum Teil dreist, lustige Antworten.
 
 Fragen / Antworten lassen sich ganz einfach austauschen und/oder ergänzen in dem die Dateien im Data Verzeichnis
 ergänzt oder gar ersetzt werden, diese sind einfach aufgebaut.. einfach mal ansehen dann wirds sicher klar.
