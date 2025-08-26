@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage über IPv6 stimmt?",
+  "options": {
+    "A": "Adressen sind 128 Bit lang",
+    "B": "Jede Adresse hat Punkte",
+    "C": "Es ersetzt TLS"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! 128 Bit: genug für Kühlschrank, Toaster und deine smarten Socken.",
+    "B": "Punkte hat IPv4. IPv6 liebt Doppelpunkte. (Richtig: A)",
+    "C": "IPv6 regelt Adressierung, nicht Verschlüsselung. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welcher dieser Planeten ist der größte im Sonnensystem?",
+  "options": {
+    "A": "Mars – der rote Planet",
+    "B": "Jupiter – der gasförmige Gigant",
+    "C": "Neptun – der blaue König"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Mars ist klein – er ist die zweitkleinste terrestrische Planeten.",
+    "B": "Richtig! Jupiter ist der größte Planet in unserem Sonnensystem. (Richtig: A)",
+    "C": "Neptun ist ein Gasplanet, aber nicht der größte. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welches Tier ist in der deutschen Nationalhymne erwähnt?",
+  "options": {
+    "A": "Schwan – weil er elegant auf dem Fluss schwimmt",
+    "B": "Reiher – weil er die Luft liebt",
+    "C": "Schildkröte – weil sie die Zeit misst"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Der Schwan ist nicht in der Hymne, sondern in vielen Gedichten erwähnt.",
+    "B": "Der Reiher taucht im Text nicht auf. (Richtig: A)",
+    "C": "Richtig! Die deutsche Nationalhymne enthält die Zeile „… und der Schildkröte.“ (Richtig: A)"
+  }
+}

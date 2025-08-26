@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage über Unicode ist korrekt?",
+  "options": {
+    "A": "Unicode kann theoretisch Zeichen aus nahezu allen Schriftsystemen abbilden",
+    "B": "Unicode ist dasselbe wie ASCII",
+    "C": "Unicode verhindert automatisch alle Darstellungsprobleme"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Vom Emoji bis zum altkirchenslawischen ‚Ж‘ – Unicode ist die große WG der Zeichen.",
+    "B": "ASCII ist ein 7‑Bit-Relikt – Unicode ist der große Bruder mit Platz für alle. (Richtig: A)",
+    "C": "Unicode hilft, aber Fonts und Encoding können trotzdem Drama machen. (Richtig: A)"
+  }
+}

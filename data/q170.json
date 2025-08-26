@@ -1,0 +1,14 @@
+{
+  "question": "Was macht ein Compiler?",
+  "options": {
+    "A": "Übersetzt Quellcode in ausführbaren Code",
+    "B": "Formatiert Textdateien",
+    "C": "Komprimiert Bilder"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Vom Menschen- zum Maschinenkauderwelsch – mit Optimierungen und Fehlermeckern.",
+    "B": "Das machen Formatter, nicht Compiler. (Richtig: A)",
+    "C": "Bilder schrumpfen andere Tools – nicht der Compiler. (Richtig: A)"
+  }
+}

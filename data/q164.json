@@ -1,0 +1,14 @@
+{
+  "question": "Was ist Git im Kern?",
+  "options": {
+    "A": "Verteiltes Versionskontrollsystem",
+    "B": "Zentraler Dateiserver",
+    "C": "Nur Cloud-Backup"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Git ist dezentral: jeder Clone ein volles Repo. Offline committen wie ein Einsiedlerkönig.",
+    "B": "Zentral geht, muss aber nicht – das ist nur Hosting-Mode. (Richtig: A)",
+    "C": "Backups sind nett, aber Git ist vor allem Historien-Magie. (Richtig: A)"
+  }
+}

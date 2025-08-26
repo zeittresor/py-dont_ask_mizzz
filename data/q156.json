@@ -1,0 +1,14 @@
+{
+  "question": "Welche Einheit ist die SI-Einheit für magnetische Flussdichte?",
+  "options": {
+    "A": "Tesla",
+    "B": "Weber",
+    "C": "Gauss"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Tesla: die magnetische 'Dichte'. Nein, kein Auto – obwohl beides mit Feldern spielt.",
+    "B": "Weber misst den magnetischen Fluss – nicht dessen Dichte. (Richtig: A)",
+    "C": "Gauss ist eine alternative Einheit (CGS), oldschool-schick. (Richtig: A)"
+  }
+}

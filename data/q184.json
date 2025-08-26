@@ -1,0 +1,14 @@
+{
+  "question": "Was beschreibt die DNA?",
+  "options": {
+    "A": "Träger der genetischen Information",
+    "B": "Zellatmung",
+    "C": "Proteinverdau im Magen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! DNA ist dein Bauplan – eine lange Geschichte in vier Buchstaben.",
+    "B": "Zellatmung ist biochemisch – aber nicht das Genarchiv. (Richtig: A)",
+    "C": "Proteinverdau ist Magensache – Pepsin, nicht Purin. (Richtig: A)"
+  }
+}

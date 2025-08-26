@@ -1,0 +1,14 @@
+{
+  "question": "Welcher dieser Filme erhielt 1997 den Oscar für den besten Film?",
+  "options": {
+    "A": "Titanic – der Untergang mit einer Prise Liebe",
+    "B": "Der König der Löwen – das wilde Reiten der Tiere",
+    "C": "Se7en – ein Thriller, der dich in den Abgrund zieht"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Richtig! „Titanic“ gewann 1997 den Oscar für den besten Film.",
+    "B": "Der König der Löwen erhielt zwar viele Nominierungen, gewann aber nicht den Hauptpreis. (Richtig: A)",
+    "C": "Se7en war ein erfolgreicher Thriller, aber kein Oscar‑Gewinner. (Richtig: A)"
+  }
+}

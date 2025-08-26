@@ -1,0 +1,14 @@
+{
+  "question": "Welche Einheit ist KEINE SI-Basiseinheit?",
+  "options": {
+    "A": "Newton",
+    "B": "Ampere",
+    "C": "Kelvin"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Newton ist abgeleitet (kg·m/s²). Basiseinheit ist z. B. Kilogramm, Meter, Sekunde, Ampere, Kelvin…",
+    "B": "Ampere ist eine SI-Basiseinheit – Stromstärke in elegant. (Richtig: A)",
+    "C": "Kelvin – die SI-Basiseinheit für Temperatur, heiß geliebt von Kältemaschinen. (Richtig: A)"
+  }
+}

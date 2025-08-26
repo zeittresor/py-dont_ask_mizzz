@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage über das Bier nach deutschem Reinheitsgebot ist korrekt?",
+  "options": {
+    "A": "Es besteht traditionell aus Wasser, Malz, Hopfen, Hefe",
+    "B": "Zucker ist Pflichtbestandteil",
+    "C": "Kakao gehört immer rein, sonst ist es nur Limo"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Die vier apokalyptischen Reiter des Dursts – und doch so harmonisch.",
+    "B": "Zucker kann im Brauprozess vorkommen, ist aber keine Pflicht im Reinheitsgebot. (Richtig: A)",
+    "C": "Kakao ist köstlich – im Stout vielleicht als Aroma, aber nicht als Pflichtfeld. (Richtig: A)"
+  }
+}

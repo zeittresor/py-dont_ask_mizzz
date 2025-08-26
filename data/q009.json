@@ -1,0 +1,14 @@
+{
+  "question": "Was ist das nationale Symbol von Schweden?",
+  "options": {
+    "A": "Der Schmetterling – weil er die Freiheit verkündet",
+    "B": "Der Fuchs – weil er die Cleverness repräsentiert",
+    "C": "Die Sonne – die die kalte Landschaft erleuchtet"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Der Schmetterling ist kein offizielles Symbol Schwedens.",
+    "B": "Der Fuchs steht für List, aber nicht für das nationale Symbol. (Richtig: A)",
+    "C": "Richtig! Die Sonne (Sveriges flagge) ist das Symbol des Landes. (Richtig: A)"
+  }
+}

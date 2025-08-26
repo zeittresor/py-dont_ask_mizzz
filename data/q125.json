@@ -1,0 +1,14 @@
+{
+  "question": "Welche dieser Dateien war unter DOS/Windows klassisch für 'Startprogramme bei Anmeldung'?",
+  "options": {
+    "A": "AUTOEXEC.BAT",
+    "B": "config.sys",
+    "C": "system32.dll"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! AUTOEXEC.BAT: Der Morgenmuffel-Butler, der bei jedem Start die gleichen Rituale abspult.",
+    "B": "config.sys war für Treiber und Konfiguration – die Werkbank im Hintergrund. (Richtig: A)",
+    "C": "system32.dll ist generisch – eine einzelne DLL hebt keine Autostarts an. (Richtig: A)"
+  }
+}

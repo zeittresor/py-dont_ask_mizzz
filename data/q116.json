@@ -1,0 +1,14 @@
+{
+  "question": "Welche Musikrichtung ist historisch mit dem Begriff 'Four on the floor' verbunden?",
+  "options": {
+    "A": "Disco/House",
+    "B": "Barock",
+    "C": "Free Jazz"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Durchgehender Kick auf jeder Zählzeit – die Bassdrum marschiert, bis die Socken glühen.",
+    "B": "Barock hat viel Verzierungen – aber keine 909. (Richtig: A)",
+    "C": "Free Jazz: frei ist richtig – frei von durchgehender Bassdrum auch. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Planet ist berühmt für sein ausgeprägtes Ringsystem?",
+  "options": {
+    "A": "Saturn",
+    "B": "Mars",
+    "C": "Venus"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Saturn trägt die Bling-Bling-Krone. Andere haben auch Ringe, aber nicht so Vogue.",
+    "B": "Mars hat Staub und Laune – keine Riesenringe. (Richtig: A)",
+    "C": "Venus hat Wolken, keine Glitzerreifen. (Richtig: A)"
+  }
+}

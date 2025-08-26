@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Planet kugelt quasi auf der Seite, weil seine Rotationsachse ~98° gekippt ist?",
+  "options": {
+    "A": "Uranus",
+    "B": "Merkur",
+    "C": "Mars"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Uranus’ Achse ist so schräg, er braucht eigentlich eine Nackenstütze. Jahreszeiten? Extreme!",
+    "B": "Merkur ist sonnennah und brav – schmelzpunktnah, aber brav. (Richtig: A)",
+    "C": "Mars hat Neigungen, aber nicht die Drama-Queen-Variante. (Richtig: A)"
+  }
+}

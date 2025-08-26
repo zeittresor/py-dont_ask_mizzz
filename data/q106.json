@@ -1,0 +1,14 @@
+{
+  "question": "Welche Zahl ist eine Primzahl?",
+  "options": {
+    "A": "97",
+    "B": "95",
+    "C": "93"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! 97 ist störrisch und nur durch 1 und 97 teilbar. Ein echter Einzelgänger.",
+    "B": "95 = 5 × 19. So viele Faktoren, so wenig Privatsphäre. (Richtig: A)",
+    "C": "93 = 3 × 31. Nett, aber nicht prim. (Richtig: A)"
+  }
+}

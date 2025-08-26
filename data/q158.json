@@ -1,0 +1,14 @@
+{
+  "question": "Welche Einheit misst die Beleuchtungsstärke?",
+  "options": {
+    "A": "Lux",
+    "B": "Lumen",
+    "C": "Candela"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Lux: Wie viel Licht pro Fläche ankommt – die Realität am Schreibtisch.",
+    "B": "Lumen ist der Lichtstrom – was die Lampe insgesamt ausspuckt. (Richtig: A)",
+    "C": "Candela ist Lichtstärke – die Kerzenpower in eine Richtung. (Richtig: A)"
+  }
+}

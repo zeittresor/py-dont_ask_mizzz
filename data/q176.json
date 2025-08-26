@@ -1,0 +1,14 @@
+{
+  "question": "Was ist ein Weißer Zwerg?",
+  "options": {
+    "A": "Kleiner, dichter Sternrest",
+    "B": "Baby-Stern vor der Zündung",
+    "C": "Schwarzes Loch im Frühstadium"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Der ausgebrannte Kern eines Sterns – heiß, dicht, aber ohne Fusionsparty.",
+    "B": "Das wäre ein Protostern – anderer Lebensabschnitt. (Richtig: A)",
+    "C": "Schwarze Löcher spielen in einer ganz eigenen Liga. (Richtig: A)"
+  }
+}

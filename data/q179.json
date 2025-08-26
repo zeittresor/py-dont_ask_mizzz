@@ -1,0 +1,14 @@
+{
+  "question": "Welches Teleskop arbeitet vor allem im Radiobereich?",
+  "options": {
+    "A": "Arecibo/FAST (Radioteleskop)",
+    "B": "Hubble (optisch/UV)",
+    "C": "Chandra (Röntgen)"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Radioteleskope lauschen den kosmischen Funk – riesige Schüsseln, große Ohren.",
+    "B": "Hubble sieht scharf im Optischen/UV, nicht primär Radio. (Richtig: A)",
+    "C": "Chandra liebt Röntgen – Hochenergie statt Langwelle. (Richtig: A)"
+  }
+}

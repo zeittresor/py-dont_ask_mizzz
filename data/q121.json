@@ -1,0 +1,14 @@
+{
+  "question": "Welche dieser Aussagen über DNS ist korrekt?",
+  "options": {
+    "A": "DNS löst Namen in IP-Adressen auf",
+    "B": "DNS verschlüsselt HTTP-Verbindungen",
+    "C": "DNS ist ein Backup deiner Festplatte"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Telefonbuch des Netzes. Ohne DNS müsstest du IPs auswendig können – und niemand will das wirklich.",
+    "B": "HTTPS verschlüsselt. DNS kann höchstens via DoH/DoT etwas Privatsphäre beisteuern. (Richtig: A)",
+    "C": "DNS speichert keine Katzenbilder (leider). (Richtig: A)"
+  }
+}

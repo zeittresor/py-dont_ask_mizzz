@@ -1,0 +1,14 @@
+{
+  "question": "Welche Insel ist die größte der Welt (ohne Kontinentstatus)?",
+  "options": {
+    "A": "Grönland",
+    "B": "Neuguinea",
+    "C": "Borneo"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Grönland ist der Endgegner der Insel-Ligen. Kontinent? Nein. Groß? Aber hallo.",
+    "B": "Neuguinea ist Platz 2 – immer noch massiv. (Richtig: A)",
+    "C": "Borneo ist Platz 3 – Orang-Utan-Home, aber nicht der Endboss. (Richtig: A)"
+  }
+}

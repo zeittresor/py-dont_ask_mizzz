@@ -1,0 +1,14 @@
+{
+  "question": "Welche Einheit steht für den elektrischen Widerstand?",
+  "options": {
+    "A": "Ohm",
+    "B": "Henry",
+    "C": "Siemens"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Ohm ist der Klassiker – 'wie sehr wehrt sich die Leitung'.",
+    "B": "Henry misst Induktivität – Spulenmagie. (Richtig: A)",
+    "C": "Siemens ist die Leitfähigkeit – quasi das Gegenteil von Ohm."
+  }
+}

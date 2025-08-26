@@ -1,0 +1,14 @@
+{
+  "question": "Was ist streng genommen KEIN Elementarteilchen?",
+  "options": {
+    "A": "Elektron",
+    "B": "Proton",
+    "C": "Neutrino"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Elektronen sind in der Standardtheorie grundlegend – nicht weiter zerlegt. Kein Überraschungs-Hack nötig.",
+    "B": "Das Proton besteht aus Quarks, die wiederum von Gluonen zusammengeklebt werden. Es ist also ein zusammengesetztes Teilchen mit innerem Partyservice. (Richtig: A)",
+    "C": "Neutrinos sind elementar, winzig, und gehen ungern Bindungen ein – quasi die Ghoster des Universums. (Richtig: A)"
+  }
+}

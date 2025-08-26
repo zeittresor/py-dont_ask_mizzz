@@ -1,0 +1,14 @@
+{
+  "question": "Welches Protokoll läuft üblicherweise auf Port 22 (Standard)?",
+  "options": {
+    "A": "SSH",
+    "B": "HTTP",
+    "C": "DNS"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! SSH – die sichere Hülle zum Server. Port 22 ist sein Stammkneipenplatz.",
+    "B": "HTTP ist meist Port 80/443 – unverschlüsselt/verschlüsselt. (Richtig: A)",
+    "C": "DNS nistet klassisch auf Port 53. (Richtig: A)"
+  }
+}

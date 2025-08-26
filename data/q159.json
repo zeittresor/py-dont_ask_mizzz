@@ -1,0 +1,14 @@
+{
+  "question": "Welche Einheit beschreibt die Kapazität eines Kondensators?",
+  "options": {
+    "A": "Farad",
+    "B": "Henry",
+    "C": "Ohm"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Farad: Wie viel Ladung pro Volt reingeht. Der Elefant im Porzellanladen der Elektronen.",
+    "B": "Henry ist Induktivität – das Reich der Spulen. (Richtig: A)",
+    "C": "Ohm ist Widerstand – bremsen statt speichern. (Richtig: A)"
+  }
+}

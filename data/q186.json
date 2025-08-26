@@ -1,0 +1,14 @@
+{
+  "question": "Was machen Ribosomen?",
+  "options": {
+    "A": "Proteinsynthese",
+    "B": "ATP-Produktion",
+    "C": "Signalweitergabe"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Ribosomen lesen mRNA und ketten Aminosäuren – 3D-Drucker der Biologie.",
+    "B": "ATP kommt primär aus Mitochondrien. (Richtig: A)",
+    "C": "Signale leiten viele – Ribosomen texten eher nicht. (Richtig: A)"
+  }
+}

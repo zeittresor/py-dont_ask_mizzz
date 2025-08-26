@@ -1,0 +1,14 @@
+{
+  "question": "Was ist ein Komet typischerweise?",
+  "options": {
+    "A": "Eisiger Körper mit Schweif bei Sonnennähe",
+    "B": "Asteroid mit Metallkern",
+    "C": "Kleiner Planet ohne Atmosphäre"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Schmutziger Schneeball: Bei Wärme sublimiert Eis, der Sonnenwind kämmt den Schweif.",
+    "B": "Das ist eher ein bestimmter Asteroidentyp. (Richtig: A)",
+    "C": "Planetoiden sind was anderes; viele haben keine Schweife. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Programmiersprache wird traditionell mit einer Tasse in ihrem Logo assoziiert?",
+  "options": {
+    "A": "Java",
+    "B": "Python",
+    "C": "Rust"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Java – Kaffee! Die Laufzeitumgebung brüht dir Bytecode, egal ob du wach bist oder nur so tust.",
+    "B": "Python hat eine Schlange. Koffein gibt’s dort nur im Kommentar. (Richtig: A)",
+    "C": "Rust hat ein Zahnrad. Wenn du Kaffee brauchst, bist du beim Borrow Checker richtig – der hält dich wach. (Richtig: A)"
+  }
+}

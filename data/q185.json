@@ -1,0 +1,14 @@
+{
+  "question": "Welches Organ filtert Blut und produziert Galle?",
+  "options": {
+    "A": "Leber",
+    "B": "Niere",
+    "C": "Lunge"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Leber: Chemiepark des Körpers – Detox, Synthese, Galleproduktion.",
+    "B": "Niere filtert auch, aber macht Urin – nicht Galle. (Richtig: A)",
+    "C": "Lunge tauscht Gase – O₂ rein, CO₂ raus. (Richtig: A)"
+  }
+}

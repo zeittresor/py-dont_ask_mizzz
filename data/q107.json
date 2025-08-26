@@ -1,0 +1,14 @@
+{
+  "question": "Welche Schrift ist KEIN serifenloser Klassiker?",
+  "options": {
+    "A": "Helvetica",
+    "B": "Times New Roman",
+    "C": "Futura"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Helvetica – so neutral, dass sie selbst im Streit moderiert.",
+    "B": "Times New Roman ist serifenBEHAFTET. Ein Gentleman mit Schnörkelbart. (Richtig: A)",
+    "C": "Futura: Geometrisch, modern, serifenlos – Bauhaus auf Diet. (Richtig: A)"
+  }
+}

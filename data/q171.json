@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Planet ist der größte im Sonnensystem?",
+  "options": {
+    "A": "Jupiter",
+    "B": "Saturn",
+    "C": "Neptun"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Jupiter ist der Chef im Ring – massig, stürmisch, mit großem roten Pickel.",
+    "B": "Saturn hat die schöneren Ringe, aber weniger Masse. (Richtig: A)",
+    "C": "Neptun ist stürmisch, doch deutlich kleiner. (Richtig: A)"
+  }
+}

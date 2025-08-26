@@ -1,0 +1,14 @@
+{
+  "question": "Welches Protokoll ist verbindungslos?",
+  "options": {
+    "A": "UDP",
+    "B": "TCP",
+    "C": "TLS"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! UDP schmeißt Pakete wie Konfetti – ohne Händedruck, ohne Tränen.",
+    "B": "TCP baut ordentlich auf, Handshake inklusive. (Richtig: A)",
+    "C": "TLS sitzt über TCP und kümmert sich um Verschlüsselung. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Galaxie ist unsere Heimat?",
+  "options": {
+    "A": "Milchstraße",
+    "B": "Andromeda",
+    "C": "Triangulum"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Die Milchstraße ist unser sterniges Reihenhaus im Kosmos.",
+    "B": "Andromeda ist die große Nachbarin – kommt zum Kaffeekranz in ein paar Milliarden Jahren. (Richtig: A)",
+    "C": "Triangulum ist kleiner und weiter weg – nette Bekanntschaft. (Richtig: A)"
+  }
+}

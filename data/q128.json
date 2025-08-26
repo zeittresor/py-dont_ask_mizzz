@@ -1,0 +1,14 @@
+{
+  "question": "Welcher dieser Sterne ist unsere Sonne?",
+  "options": {
+    "A": "G2V-Hauptreihenstern",
+    "B": "Roter Überriese",
+    "C": "Weißer Zwerg"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! G2V = gelber Zwerg, Hauptreihe. Stabil wie ein deutsches Pflichtenheft.",
+    "B": "Roter Überriese – vielleicht später mal (Stichwort: andere Sterne), aber nicht unsere Sonne. (Richtig: A)",
+    "C": "Weißer Zwerg ist Spätstadium – erst wenn die Sonne die Rentenphase erreicht hat. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Einheit misst elektrische Kapazität?",
+  "options": {
+    "A": "Farad",
+    "B": "Ohm",
+    "C": "Tesla"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Farad sagt dir, wie viel Ladung ein Kondensator hortet – dein Sparschwein für Elektronen.",
+    "B": "Ohm ist Widerstand – also der Typ, der an der Tür steht und fragt: ‚Hast du gelötet?‘ (Richtig: A)",
+    "C": "Tesla ist magnetische Flussdichte – nicht das Auto, obwohl das auch ziemlich geladen ist. (Richtig: A)"
+  }
+}

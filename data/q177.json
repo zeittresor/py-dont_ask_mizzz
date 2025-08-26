@@ -1,0 +1,14 @@
+{
+  "question": "Welches ist der Mond der Erde?",
+  "options": {
+    "A": "Der Mond",
+    "B": "Phobos",
+    "C": "Titan"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Manchmal ist die Antwort wirklich so simpel. Ja: der Mond heißt… Mond.",
+    "B": "Phobos gehört zum Mars. (Richtig: A)",
+    "C": "Titan gehört zu Saturn – Methan-Wetter inklusive. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche chemische Verbindung macht Chili scharf?",
+  "options": {
+    "A": "Capsaicin",
+    "B": "Menthol",
+    "C": "Glucose"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Capsaicin aktiviert deine Schmerzrezeptoren – dein Mund schreit, dein Hirn grinst: 'Mehr davon!'",
+    "B": "Menthol kühlt – das Afterparty-Feeling für Atemwege. (Richtig: A)",
+    "C": "Glucose macht süß und wach – aber nicht scharf. (Richtig: A)"
+  }
+}

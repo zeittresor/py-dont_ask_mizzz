@@ -1,0 +1,14 @@
+{
+  "question": "Wer gilt als Erfinder des Buchdrucks mit beweglichen Metall-Lettern in Europa?",
+  "options": {
+    "A": "Johannes Gutenberg",
+    "B": "Leonardo da Vinci",
+    "C": "Albrecht Dürer"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Gutenberg in Mainz – die Patch-Notes der Wissensverbreitung wurden plötzlich massentauglich.",
+    "B": "Leonardo hat vieles – aber keine Druckerei-Franchise eröffnet. (Richtig: A)",
+    "C": "Dürer war Grafiker/ Künstler – Holzschnitt statt Metallletter. (Richtig: A)"
+  }
+}

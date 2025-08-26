@@ -1,0 +1,14 @@
+{
+  "question": "Welche Programmiersprache steht hinter der Arduino-IDE (typisch)?",
+  "options": {
+    "A": "C/C++",
+    "B": "Ruby",
+    "C": "PHP"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Arduino skizziert in einer C++-Variante – Pins blinken am liebsten in geschweiften Klammern.",
+    "B": "Ruby ist liebenswert, aber nicht Arduinos Muttersprache. (Richtig: A)",
+    "C": "PHP ist im Web zu Hause, nicht auf dem Breadboard. (Richtig: A)"
+  }
+}

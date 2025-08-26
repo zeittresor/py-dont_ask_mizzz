@@ -1,0 +1,14 @@
+{
+  "question": "Was bedeutet RAM?",
+  "options": {
+    "A": "Random Access Memory",
+    "B": "Read Always Memory",
+    "C": "Rapid Array Module"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Flüchtiger Arbeitsspeicher mit fixe Laune – schnell, aber vergesslich.",
+    "B": "Klingt nice, ist aber frei erfunden. (Richtig: A)",
+    "C": "Klingt schnell, ist aber ebenfalls Fantasie. (Richtig: A)"
+  }
+}

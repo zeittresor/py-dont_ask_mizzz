@@ -1,0 +1,14 @@
+{
+  "question": "Welche Einheit misst die Lichtstärke?",
+  "options": {
+    "A": "Candela",
+    "B": "Lumen",
+    "C": "Lux"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Candela ist die SI-Basiseinheit für Lichtstärke. Ein Kerzen-Throwback im Namen.",
+    "B": "Lumen misst den Lichtstrom – wie viel Licht insgesamt aus dem Ding kommt. (Richtig: A)",
+    "C": "Lux misst Beleuchtungsstärke auf einer Fläche – also wie hell’s dich wirklich trifft. (Richtig: A)"
+  }
+}

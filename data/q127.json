@@ -1,0 +1,14 @@
+{
+  "question": "Welche Programmiersprache ist statisch typisiert?",
+  "options": {
+    "A": "Go",
+    "B": "Python",
+    "C": "JavaScript"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Go: Types sind früh festgelegt. Der Compiler ist wie ein strenger Türsteher mit Clipboard.",
+    "B": "Python: dynamisch – freundlich, aber dafür gibt’s mypy als Sicherheitsgurt. (Richtig: A)",
+    "C": "JavaScript: chaotisch charmant, aber dynamisch. ‚==‘ lässt grüßen. (Richtig: A)"
+  }
+}

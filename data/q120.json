@@ -1,0 +1,14 @@
+{
+  "question": "Welche Zahl ist die kleinste vollkommene Zahl?",
+  "options": {
+    "A": "6",
+    "B": "8",
+    "C": "12"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! 1+2+3=6. Mathe sagt: 'Perfekt.' Du sagst: 'Ok, und was bringt’s?' – Eleganz, mein Herz.",
+    "B": "8 ist nett, aber nicht vollkommen – nur würfelig. (Richtig: A)",
+    "C": "12 hat viele Teiler, aber die Summe ihrer echten Teiler ist 16. Zu viel des Guten."
+  }
+}

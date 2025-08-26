@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage zur Fotografie ist korrekt?",
+  "options": {
+    "A": "ISO beschreibt die Lichtempfindlichkeit des Sensors/Films",
+    "B": "Blende beschreibt ausschließlich die Belichtungszeit",
+    "C": "Verschlusszeit hat nichts mit Bewegungsschärfe zu tun"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Höhere ISO = empfindlicher = mehr Rauschen = mehr Moody-Look, wenn du es schön redest.",
+    "B": "Die Blende bestimmt Öffnung/Schärfentiefe – die Zeit tickt woanders. (Richtig: A)",
+    "C": "Die Verschlusszeit friert Bewegung ein – oder verwischt sie künstlerisch. (Richtig: A)"
+  }
+}

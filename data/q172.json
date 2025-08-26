@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Planet ist wegen seiner dichten Atmosphäre am heißesten?",
+  "options": {
+    "A": "Venus",
+    "B": "Merkur",
+    "C": "Mars"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Treibhaus deluxe: Venus backt Blei – romantisch nur dem Namen nach.",
+    "B": "Merkur ist näher an der Sonne, aber ohne Decke kühlt die Nacht brutal aus. (Richtig: A)",
+    "C": "Mars ist chillig – eher Frost- als Sauna-Programm. (Richtig: A)"
+  }
+}

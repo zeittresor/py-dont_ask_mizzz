@@ -1,0 +1,14 @@
+{
+  "question": "Welche Einheit beschreibt die elektrische Leistung?",
+  "options": {
+    "A": "Watt",
+    "B": "Volt",
+    "C": "Ampere"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Watt = Volt × Ampere. Leistung ist die Party, wenn Druck und Fluss tanzen.",
+    "B": "Volt ist nur der Druck. (Richtig: A)",
+    "C": "Ampere ist nur der Fluss. (Richtig: A)"
+  }
+}

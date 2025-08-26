@@ -1,0 +1,14 @@
+{
+  "question": "Welche dieser Farben wurde von dem franzoesischen Designer Yves Saint Laurent erfunden?",
+  "options": {
+    "A": "Schaumroß – die Farbe, die man nur in der 2‑Liter-Bierpackung findet",
+    "B": "Aqua – weil er im See seiner Jugend nach Inspiration suchte",
+    "C": "Smaragdgrün – weil er im Wald des Regenwaldes eine neue Blüte fand"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Schaumroß ist keine echte Farbe – es handelt sich lediglich um einen humorvollen Wortspiel‑Schatz.",
+    "B": "Richtig! Yves Saint Laurent nannte seine neu kreierte „Aqua‑Palette“, die später in die Haute‑Couture-Mode eingeführt wurde. (Richtig: A)",
+    "C": "Smaragdgrün war schon seit Jahrhunderten bekannt – Yves hat es nicht neu erfunden. (Richtig: A)"
+  }
+}

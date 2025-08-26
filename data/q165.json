@@ -1,0 +1,14 @@
+{
+  "question": "Welcher HTTP-Status steht für 'dauerhafte Umleitung'?",
+  "options": {
+    "A": "301",
+    "B": "404",
+    "C": "302"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! 301 = Umzug mit Nachsendeauftrag. Bitte merken.",
+    "B": "404 = weg. Kein Nachsendeantrag, nur Leere. (Richtig: A)",
+    "C": "302 = temporär. Ferienwohnung, keine neue Heimat. (Richtig: A)"
+  }
+}

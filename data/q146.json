@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage über DNSSEC ist korrekt?",
+  "options": {
+    "A": "DNSSEC signiert DNS-Antworten kryptographisch",
+    "B": "DNSSEC verschlüsselt den Inhalt der Website",
+    "C": "DNSSEC ersetzt HTTP/3"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Authentizität statt Vertraulichkeit: Du weißt, dass die Antwort echt ist – nicht, dass sie geheim ist.",
+    "B": "Dafür ist TLS/HTTPS zuständig. DNSSEC ist der Ausweis, nicht die Sonnenbrille. (Richtig: A)",
+    "C": "HTTP/3 ist Transport/Protokoll – völlig andere Baustelle. (Richtig: A)"
+  }
+}

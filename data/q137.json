@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage über Git ist korrekt?",
+  "options": {
+    "A": "Git ist ein verteiltes Versionskontrollsystem",
+    "B": "Git speichert nur auf einem zentralen Server",
+    "C": "Git kann nur Textdateien, keine Binärdateien"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Dezentral – jeder Clone ist ein vollständiges Repo. Offline-Committen like a pro.",
+    "B": "Zentral geht via Hosting, aber Git selbst ist nicht darauf festgenagelt. (Richtig: A)",
+    "C": "Git kann Binärdateien – nur diffen ist weniger romantisch. (Richtig: A)"
+  }
+}

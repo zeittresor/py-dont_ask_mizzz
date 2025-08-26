@@ -1,0 +1,14 @@
+{
+  "question": "Wer schrieb den Roman „Der Stechpalmenfluch“?",
+  "options": {
+    "A": "Heinrich Böll – der Fluch kam aus seiner Nachbarschaft",
+    "B": "Günter Grass – der Fluch kam aus dem Buchenwald",
+    "C": "Thomas Mann – der Fluch kam aus dem Ruderboot"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Heinrich Böll hat zwar viele Romane geschrieben, aber keinen mit diesem Titel.",
+    "B": "Günter Grass schrieb „Der Untertan“, nicht „Der Stechpalmenfluch“. (Richtig: A)",
+    "C": "Richtig! Thomas Mann verfasste 1954 den Roman, der sich mit einem mystischen Fluch befasst. (Richtig: A)"
+  }
+}

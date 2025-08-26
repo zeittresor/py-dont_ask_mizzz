@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Blutfarbstoff transportiert Sauerstoff?",
+  "options": {
+    "A": "Hämoglobin",
+    "B": "Melanin",
+    "C": "Chlorophyll"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Hämoglobin bindet O₂ über Eisen – dein innerer Lieferservice.",
+    "B": "Melanin färbt Haut/Haar – Sonnenschirm, kein Kurier. (Richtig: A)",
+    "C": "Chlorophyll ist grün – aber nur im Blatt, nicht im Blut. (Richtig: A)"
+  }
+}

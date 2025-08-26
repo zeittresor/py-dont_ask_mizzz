@@ -1,0 +1,14 @@
+{
+  "question": "Wofür steht die Abkürzung 'CPU'?",
+  "options": {
+    "A": "Central Processing Unit",
+    "B": "Compute Power Utility",
+    "C": "Central Power Usage"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Das Herz des Rechners, das Instruktionen kaut und spuckt.",
+    "B": "Klingt nach Marketingbroschüre für Steckdosen. (Richtig: A)",
+    "C": "Klingt nach Stromrechnung, nicht nach Rechenwerk. (Richtig: A)"
+  }
+}

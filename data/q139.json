@@ -1,0 +1,14 @@
+{
+  "question": "Was bedeutet 'RAM' im Computer?",
+  "options": {
+    "A": "Random Access Memory",
+    "B": "Read Always Memory",
+    "C": "Rapid Array Module"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Zugriff in beliebiger Reihenfolge – schnell wie deine Finger auf Alt+Tab.",
+    "B": "Klingt plausibel, ist aber Fantasie aus der Abteilung Marketing-Mythen. (Richtig: A)",
+    "C": "Rapid Array Module – hübsch, aber ausgedacht. (Richtig: A)"
+  }
+}

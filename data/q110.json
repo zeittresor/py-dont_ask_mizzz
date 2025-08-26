@@ -1,0 +1,14 @@
+{
+  "question": "Was bezeichnet in der Physik das Pauli-Prinzip?",
+  "options": {
+    "A": "Zwei Elektronen können nicht denselben Quantenzustand teilen",
+    "B": "Teilchen dürfen nur in Paaren erscheinen",
+    "C": "Alle Felder müssen orthogonal sein, sonst weint die Symmetrie"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Exklusivitäts-Club für Elektronen: Gleiche Quantenzahlen am selben Ort? Hausordnung sagt: Nö.",
+    "B": "Klingt nach Paartherapie für Fermionen – ist aber was anderes. (Richtig: A)",
+    "C": "Orthogonalität ist sexy, aber kein Pauli-Gebot. (Richtig: A)"
+  }
+}

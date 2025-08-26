@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage zur Quantenmechanik ist korrekt?",
+  "options": {
+    "A": "Heisenbergs Unschärfeprinzip begrenzt gleichzeitige Genauigkeit von Ort und Impuls",
+    "B": "Unschärfe kommt nur durch Messfehler zustande",
+    "C": "Teilchen sind eigentlich kleine Billardkugeln, nur sehr schnell"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nicht Messschlamperei, sondern fundamentales Prinzip. Das Universum hat eingebaute Privatsphäre.",
+    "B": "Messfehler sind menschlich – Unschärfe ist physikalisch. (Richtig: A)",
+    "C": "Billardkugeln? Eher Wellenpakete mit Identitätskrise. (Richtig: A)"
+  }
+}

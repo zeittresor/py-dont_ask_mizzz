@@ -1,0 +1,14 @@
+{
+  "question": "Welche Disziplin gehört NICHT zu den drei großen klassischen griechischen Säulen der Rhetorik nach Aristoteles?",
+  "options": {
+    "A": "Pathos",
+    "B": "Logos",
+    "C": "Kryptos"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Pathos = Emotion. Tränen im Publikum sind Feature, kein Bug.",
+    "B": "Logos = Argumente, Beweise, Struktur – der Reason-Parser im Kopf. (Richtig: A)",
+    "C": "Kryptos ist aus der Kryptographie – die Rhetorik verschlüsselt höchstens Absichten, nicht Nachrichten. (Richtig: A)"
+  }
+}

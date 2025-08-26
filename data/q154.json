@@ -1,0 +1,14 @@
+{
+  "question": "Welche Einheit ist die SI-Einheit der Frequenz?",
+  "options": {
+    "A": "Hertz",
+    "B": "Newton",
+    "C": "Joule"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Hertz: Schwingungen pro Sekunde. Vom Bass bis zur CPU.",
+    "B": "Newton ist Kraft. Andere Baustelle. (Richtig: A)",
+    "C": "Joule ist Energie. Ende der Durchsage. (Richtig: A)"
+  }
+}

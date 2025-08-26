@@ -1,0 +1,14 @@
+{
+  "question": "Welche dieser Sprüche stammt von Albert Einstein?",
+  "options": {
+    "A": "Zeit ist ein Irrleuchtspektakel.",
+    "B": "Die Einzigartigkeit des Menschen liegt in seiner Unvollkommenheit.",
+    "C": "Alles ist relativ – selbst die Lust am Lachen."
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Dieser Spruch ist ein modernes Meme, nicht aus Einsteins Schriften.",
+    "B": "Einstein schrieb etwas Ähnliches, aber nicht exakt so. (Richtig: A)",
+    "C": "Richtig! Ein klassischer Einsteins‑Satz: „Alles ist relativ.“ (Richtig: A)"
+  }
+}

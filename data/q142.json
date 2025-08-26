@@ -1,0 +1,14 @@
+{
+  "question": "Wofür steht die Abkürzung 'GPU'?",
+  "options": {
+    "A": "Graphics Processing Unit",
+    "B": "General Power Unit",
+    "C": "Global Processing Utility"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Die Pixel-Schubkarre deines Systems. Heute auch KI-Bohnenzähler vom Dienst.",
+    "B": "General Power Unit klingt nach Superheldenakku. (Richtig: A)",
+    "C": "Global Processing Utility – nur in Paralleluniversen erhältlich. (Richtig: A)"
+  }
+}

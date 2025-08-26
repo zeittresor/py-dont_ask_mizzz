@@ -1,0 +1,14 @@
+{
+  "question": "Welches Tier kann seine Augen unabhängig voneinander bewegen?",
+  "options": {
+    "A": "Chamäleon",
+    "B": "Eule",
+    "C": "Kaninchen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Chamäleons machen Split-Screen-Mode ab Werk – creepy, praktisch, genial.",
+    "B": "Eulen drehen lieber den ganzen Kopf – 270° – Hardware-Rotation deluxe. (Richtig: A)",
+    "C": "Kaninchen sind aufmerksam, aber nicht im Panorama-Modus. (Richtig: A)"
+  }
+}
