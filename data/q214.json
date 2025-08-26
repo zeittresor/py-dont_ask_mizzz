@@ -1,0 +1,14 @@
+{
+  "question": "Welches Satzzeichen beendet eine direkte Frage?",
+  "options": {
+    "A": "Fragezeichen",
+    "B": "Punkt",
+    "C": "Semikolon"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Klar. Oder? Eben.",
+    "B": "Der Punkt ist schlicht – aber nicht neugierig genug. (Richtig: A)",
+    "C": "Das Semikolon ist das Snob-Komma – kein Fragefreund. (Richtig: A)"
+  }
+}

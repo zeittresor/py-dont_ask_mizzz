@@ -1,0 +1,14 @@
+{
+  "question": "Welches Metall ist flüssig bei Raumtemperatur?",
+  "options": {
+    "A": "Quecksilber",
+    "B": "Eisen",
+    "C": "Kupfer"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Quecksilber ist der Trickbetrüger im Periodensystem.",
+    "B": "Eisen bleibt fest – bis zur Schmiede. (Richtig: A)",
+    "C": "Kupfer leitet gern, fließt aber nicht. (Richtig: A)"
+  }
+}

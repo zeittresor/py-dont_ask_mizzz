@@ -1,0 +1,14 @@
+{
+  "question": "Was ist ein Palindrom?",
+  "options": {
+    "A": "Ein Wort/Satz, der vorwärts wie rückwärts gleich ist",
+    "B": "Ein besonders langer Satz",
+    "C": "Ein Zungenbrecher"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Level, Otto, Reliefpfeiler – Spiegelspaß für Buchstaben.",
+    "B": "Länger hilft nicht beim Spiegeln. (Richtig: A)",
+    "C": "Zungenbrecher drehen Zungen, nicht Wörter. (Richtig: A)"
+  }
+}

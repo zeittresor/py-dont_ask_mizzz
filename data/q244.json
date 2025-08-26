@@ -1,0 +1,14 @@
+{
+  "question": "Welche Bohne liefert Espresso die dunkle Seele?",
+  "options": {
+    "A": "Kaffeebohne",
+    "B": "Kakaobohne",
+    "C": "Sojabohne"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Druck, Hitze, Crema – das schwarze Ritual.",
+    "B": "Kakao macht Schokolade, nicht Espresso. (Richtig: A)",
+    "C": "Soja macht Tofu, nicht Tassenkrawall. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Ozean ist der größte?",
+  "options": {
+    "A": "Pazifik",
+    "B": "Atlantik",
+    "C": "Indischer Ozean"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Der Pazifik ist das Blaumonster – Ring of Fire inklusive.",
+    "B": "Atlantik ist groß, aber zweiter Platz. (Richtig: A)",
+    "C": "Der Indische Ozean ist beeindruckend, doch kleiner. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welches System steuert Hormone übers Blut?",
+  "options": {
+    "A": "Endokrines System",
+    "B": "Exokrines System",
+    "C": "Lymphsystem"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Endokrin: Fernwirkung via Blutbahn – Funk statt Haustür.",
+    "B": "Exokrin schickt Sekrete nach draußen (z. B. Schweiß). (Richtig: A)",
+    "C": "Lymphe: Abfluss/Immun – kein Hormonradio. (Richtig: A)"
+  }
+}

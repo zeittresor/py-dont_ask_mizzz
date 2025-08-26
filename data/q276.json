@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage zur Andromedagalaxie stimmt?",
+  "options": {
+    "A": "Sie nähert sich der Milchstraße an",
+    "B": "Sie entfernt sich von der Milchstraße",
+    "C": "Sie kreist als Satellit um die Milchstraße"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Blauverschiebung verrät: Rendezvous in ein paar Milliarden Jahren – bring Kuchen mit.",
+    "B": "Nope, ausnahmsweise mal nicht weg. (Richtig: A)",
+    "C": "Sie ist selbst eine große Nachbarin, kein Satellit. (Richtig: A)"
+  }
+}

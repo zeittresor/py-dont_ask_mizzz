@@ -1,0 +1,14 @@
+{
+  "question": "Welche fiktive Figur sagt 'Live long and prosper'?",
+  "options": {
+    "A": "Spock",
+    "B": "Kirk",
+    "C": "Picard"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Vulkanischer Gruß und Handgymnastik inklusive.",
+    "B": "Kirk küsst eher Aliens. (Richtig: A)",
+    "C": "Picard hebt lieber die Teetasse: 'Earl Grey, heiß.' (Richtig: A)"
+  }
+}

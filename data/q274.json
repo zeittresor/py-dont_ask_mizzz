@@ -1,0 +1,14 @@
+{
+  "question": "Wie nennt man den Übergang fest → gasförmig ohne flüssig?",
+  "options": {
+    "A": "Sublimation",
+    "B": "Kondensation",
+    "C": "Schmelzen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Feststoff geht direkt in die Freiheit – Trockeneis winkt.",
+    "B": "Gas → Flüssig ist Kondensation – Regen in fancy. (Richtig: A)",
+    "C": "Fest → Flüssig: der Eis-am-Stiel-Moment. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage zu REST trifft am ehesten zu?",
+  "options": {
+    "A": "Zustandslosigkeit der Server-Interaktionen",
+    "B": "Server speichert Sessionzustand für jeden Request",
+    "C": "Nur über UDP möglich"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! REST setzt auf zustandslose Requests – jeder Call kommt allein zum Vorstellungsgespräch.",
+    "B": "Das ist das Gegenteil von REST-Idee. (Richtig: A)",
+    "C": "HTTP/REST läuft typischerweise über TCP – UDP wäre ein Experiment mit Nervenkitzel. (Richtig: A)"
+  }
+}

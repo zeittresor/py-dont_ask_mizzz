@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage zu Containern ist korrekt?",
+  "options": {
+    "A": "Container teilen sich den Kernel des Hostsystems",
+    "B": "Container enthalten ihren eigenen Kernel wie VMs",
+    "C": "Container laufen nur auf Windows"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Richtig: Container isolieren Prozesse, nutzen aber denselben Kernel – leicht wie Salat ohne Dressing.",
+    "B": "Das ist das VM-Prinzip – schwerer, vollständiger, aber nicht dasselbe. (Richtig: A)",
+    "C": "Nope. Sie laufen auch auf Linux, macOS (über Linux-VM) und in der Cloud. (Richtig: A)"
+  }
+}

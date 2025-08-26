@@ -1,0 +1,14 @@
+{
+  "question": "Welche Sauce ist klassisch Eigelb + Butter + Säure emulgiert?",
+  "options": {
+    "A": "Hollandaise",
+    "B": "Béchamel",
+    "C": "Tomatensauce"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Hollandaise ist eine Diva – warm, luftig, anfällig. Aber wenn sie sitzt: oho!",
+    "B": "Béchamel ist Milch + Mehlschwitze – andere Emulsion. (Richtig: A)",
+    "C": "Tomatensauce ist tomatig, nicht emulgiert. (Richtig: A)"
+  }
+}

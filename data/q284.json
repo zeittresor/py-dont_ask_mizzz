@@ -1,0 +1,14 @@
+{
+  "question": "Wie heißt der Regisseur von 'Inception' (2010)?",
+  "options": {
+    "A": "Christopher Nolan",
+    "B": "Denis Villeneuve",
+    "C": "Ridley Scott"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nolan mag verschachtelte Träume und tickende Uhren.",
+    "B": "Villeneuve hat 'Arrival' und 'Dune' – andere Wüsten, andere Würmer. (Richtig: A)",
+    "C": "Ridley Scott: 'Alien', 'Blade Runner' – andere Sci-Fi-Legenden. (Richtig: A)"
+  }
+}

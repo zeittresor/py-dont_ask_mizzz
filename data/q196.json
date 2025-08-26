@@ -1,0 +1,14 @@
+{
+  "question": "Welcher See ist flächenmäßig der größte der Welt?",
+  "options": {
+    "A": "Kaspisches Meer",
+    "B": "Oberer See",
+    "C": "Baikalsee"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Das Kaspische Meer ist ein Binnenmeer – zählt aber als größter See.",
+    "B": "Der Obere See ist der größte Süßwassersee nach Fläche. (Richtig: A)",
+    "C": "Baikal ist am tiefsten und wasserreich – aber kleiner in Fläche. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Serie stammt NICHT aus dem Star-Wars-Universum?",
+  "options": {
+    "A": "The Expanse",
+    "B": "The Mandalorian",
+    "C": "Ahsoka"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! The Expanse ist eigenständige Hard-Sci-Fi – null Jedi, viel Politik.",
+    "B": "Mando fliegt mit Baby Yoda durchs Western-Weltall. (Richtig: A)",
+    "C": "Ahsoka ist Jedi-Geschichte nach Clone Wars. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Wer gilt als Erfinder des Buchdrucks mit beweglichen Metall-Lettern in Europa?",
+  "options": {
+    "A": "Johannes Gutenberg",
+    "B": "Albrecht Dürer",
+    "C": "Isaac Newton"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Gutenberg revolutionierte Wissen wie ein Open-Source-Commit ins 15. Jahrhundert.",
+    "B": "Dürer druckte Holzschnitte – Kunst statt Massenbuch. (Richtig: A)",
+    "C": "Newton druckte Gravitation, keine Bücher. (Richtig: A)"
+  }
+}

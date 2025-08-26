@@ -1,0 +1,14 @@
+{
+  "question": "Woraus wird Tofu hergestellt?",
+  "options": {
+    "A": "Sojabohnen",
+    "B": "Weizen",
+    "C": "Kartoffeln"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Sojamilch geronnen – das Käse-Äquivalent der Bohnenwelt.",
+    "B": "Seitan ist Weizenprotein – anderes Baustellenteil. (Richtig: A)",
+    "C": "Kartoffeln sind für Knödel zuständig. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welches Fremdwort bedeutet wörtlich 'Bücherliebe'?",
+  "options": {
+    "A": "Bibliophilie",
+    "B": "Bibliohass",
+    "C": "Biblionomie"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Bibliophilie – wenn der SUB (Stapel ungelesener Bücher) dein Haustier ist.",
+    "B": "Das wäre eine düstere Parallelwelt. (Richtig: A)",
+    "C": "Klingt wissenschaftlich, ist hier aber nicht das gemeinte Wort. (Richtig: A)"
+  }
+}

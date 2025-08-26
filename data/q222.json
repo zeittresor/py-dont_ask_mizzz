@@ -1,0 +1,14 @@
+{
+  "question": "Welche Serie stammt aus dem Star-Trek-Universum?",
+  "options": {
+    "A": "Deep Space Nine",
+    "B": "The Expanse",
+    "C": "Battlestar Galactica"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! DS9: Politik, Wurmloch, großartige Station-Soap.",
+    "B": "The Expanse: Sci-Fi-Gold, aber anderes Franchise. (Richtig: A)",
+    "C": "Battlestar: Zylonenstress – auch nicht Trek. (Richtig: A)"
+  }
+}

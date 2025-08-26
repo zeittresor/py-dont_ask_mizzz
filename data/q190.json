@@ -1,0 +1,14 @@
+{
+  "question": "Wie nennt man die Photosynthese-Fabriken in Pflanzenzellen?",
+  "options": {
+    "A": "Chloroplasten",
+    "B": "Mitochondrien",
+    "C": "Lysosomen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Chloroplasten – Sonnenlicht rein, Zucker raus. Grüner Alchemiezirkel.",
+    "B": "Mitochondrien verbrennen, was reinkommt – andere Abteilung. (Richtig: A)",
+    "C": "Lysosomen verdauen – Hausmeisterservice. (Richtig: A)"
+  }
+}

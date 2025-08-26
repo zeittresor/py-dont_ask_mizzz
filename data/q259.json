@@ -1,0 +1,14 @@
+{
+  "question": "Welche Sprache wird in Brasilien offiziell gesprochen?",
+  "options": {
+    "A": "Portugiesisch",
+    "B": "Spanisch",
+    "C": "Französisch"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Portugiesisch, mit Samba im Klang.",
+    "B": "Spanisch dominiert drumherum – Brasilien tanzt anders. (Richtig: A)",
+    "C": "Französisch liegt in Guayana nebenan. (Richtig: A)"
+  }
+}

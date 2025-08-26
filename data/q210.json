@@ -1,0 +1,14 @@
+{
+  "question": "Welche Stadt wurde 79 n. Chr. durch einen Vulkanausbruch verschüttet?",
+  "options": {
+    "A": "Pompeji",
+    "B": "Athen",
+    "C": "Karthago"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Vesuv sagte 'Überraschung' – Asche konservierte Alltagsdrama für die Nachwelt.",
+    "B": "Athen hatte andere Krisen, aber keinen Vesuv. (Richtig: A)",
+    "C": "Karthago ging in Kriegen unter, nicht in Asche. (Richtig: A)"
+  }
+}

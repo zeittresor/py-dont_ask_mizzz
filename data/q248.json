@@ -1,0 +1,14 @@
+{
+  "question": "Welche Nuss ist botanisch eigentlich eine Hülsenfrucht?",
+  "options": {
+    "A": "Erdnuss",
+    "B": "Haselnuss",
+    "C": "Walnuss"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Erdnuss wächst unter der Erde und ist botanisch eine Hülsenfrucht. Überraschung!",
+    "B": "Haselnuss ist eine echte Nuss. (Richtig: A)",
+    "C": "Walnuss ist eine Steinfrucht – komplizierter Verwandtschaftsbaum. (Richtig: A)"
+  }
+}

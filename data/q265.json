@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage über Regular Expressions ist korrekt?",
+  "options": {
+    "A": "Der Quantor '+' bedeutet 'mindestens einmal'",
+    "B": "Der Quantor '*' bedeutet 'genau zweimal'",
+    "C": "Das Fragezeichen '?' bedeutet 'mindestens dreimal'"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! ‘+’ ist gierig und will mindestens einen Treffer – wie ich bei Kaffee.",
+    "B": "‘*’ heißt 'null oder mehr' – flexibel wie Kaugummi. (Richtig: A)",
+    "C": "‘?’ heißt 'null oder eins' – sehr unentschlossen. (Richtig: A)"
+  }
+}

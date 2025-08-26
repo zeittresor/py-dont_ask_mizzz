@@ -1,0 +1,14 @@
+{
+  "question": "Welche Form ist Standardsprache?",
+  "options": {
+    "A": "wegen des Wetters",
+    "B": "wegen dem Wetter",
+    "C": "wegen das Wetter"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Genitiv rockt hier die Bühne.",
+    "B": "Umgangssprachlich geduldet, aber nicht Standard. (Richtig: A)",
+    "C": "Das tut dem Duden weh. (Richtig: A)"
+  }
+}

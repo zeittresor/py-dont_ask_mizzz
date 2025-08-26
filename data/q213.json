@@ -1,0 +1,14 @@
+{
+  "question": "Welche Mehrzahl ist korrekt?",
+  "options": {
+    "A": "die Atlanten",
+    "B": "die Atlasen",
+    "C": "die Atlass"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Fiese Pluralfalle – Atlanten ist richtig (bei Landkartenbänden).",
+    "B": "Klingt wie Möbelhaus-Kataloge. (Richtig: A)",
+    "C": "Das ist eine stylische Jacke, kein Plural. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Was macht eine Hashfunktion idealerweise NICHT?",
+  "options": {
+    "A": "Kollisionen leicht erzeugen",
+    "B": "Fixe Ausgabelänge produzieren",
+    "C": "Schon kleine Änderungen stark ändern (Lawineneffekt)"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Kollisionen sollen selten und schwer zu finden sein – sonst wäre es 'Crashfunktion'.",
+    "B": "Ja, Hashes geben eine feste Länge aus – egal wie lange der Input ist. (Richtig: A)",
+    "C": "Genau: Eine kleine Änderung → völlig anderes Ergebnis – sehr dramatisch, sehr gewollt. (Richtig: A)"
+  }
+}

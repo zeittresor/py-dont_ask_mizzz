@@ -1,0 +1,14 @@
+{
+  "question": "Welches Tier ist ein Säugetier?",
+  "options": {
+    "A": "Fledermaus",
+    "B": "Pinguin",
+    "C": "Forelle"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Fledermäuse sind die Nachteulen unter den Säugern – nur ohne Kaffee.",
+    "B": "Pinguine sind Vögel in Frack. (Richtig: A)",
+    "C": "Forellen sind Fische – überraschend nass. (Richtig: A)"
+  }
+}

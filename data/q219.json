@@ -1,0 +1,14 @@
+{
+  "question": "Welches Wort ist ein Homonym?",
+  "options": {
+    "A": "Bank (Sitzmöbel/Geldinstitut)",
+    "B": "Auto",
+    "C": "Telefon"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Ein Wort, zwei Bedeutungen – und mindestens doppelt so viele Gebühren.",
+    "B": "Auto ist… Auto. (Richtig: A)",
+    "C": "Telefon hat viele Modelle, aber eine Bedeutung. (Richtig: A)"
+  }
+}

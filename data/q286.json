@@ -1,0 +1,14 @@
+{
+  "question": "Welche Spielfigur trägt die Klinge 'Buster Sword'?",
+  "options": {
+    "A": "Cloud Strife",
+    "B": "Geralt von Riva",
+    "C": "Master Chief"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Clouds Schwert ist so groß, es braucht eigene Postleitzahl.",
+    "B": "Geralt schwingt Stahl & Silberschwert – zwei Stück, aber schlanker. (Richtig: A)",
+    "C": "Master Chief bevorzugt Schusswaffen und Energie-Schwerter anderer Art. (Richtig: A)"
+  }
+}

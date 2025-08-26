@@ -1,0 +1,14 @@
+{
+  "question": "Welche Zahl ist römisch 'X'?",
+  "options": {
+    "A": "10",
+    "B": "5",
+    "C": "50"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! X = zehn. So viele Finger, so viel Kreuz.",
+    "B": "V = fünf. (Richtig: A)",
+    "C": "L = fünfzig. (Richtig: A)"
+  }
+}

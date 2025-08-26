@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Fluss gilt traditionell als längster der Welt (je nach Messung umstritten)?",
+  "options": {
+    "A": "Nil",
+    "B": "Amazonas",
+    "C": "Jangtse"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Der Nil beansprucht oft den Titel – mit Cartography-Drama am Rand.",
+    "B": "Amazonas hat mehr Wasser und konkurriert um die Länge. (Richtig: A)",
+    "C": "Jangtse ist lang, aber nicht Weltrekord. (Richtig: A)"
+  }
+}

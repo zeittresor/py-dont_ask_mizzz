@@ -1,0 +1,14 @@
+{
+  "question": "Wer schrieb 'Faust'?",
+  "options": {
+    "A": "Johann Wolfgang von Goethe",
+    "B": "Friedrich Schiller",
+    "C": "Thomas Mann"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Goethe, der Mann für Deals mit dem Teufel und schöne Verse.",
+    "B": "Schiller gab uns Räuber, Glocke und Freiheitspoesie. (Richtig: A)",
+    "C": "Thomas Mann kommt später – Zauberberg statt Teufelspakt. (Richtig: A)"
+  }
+}

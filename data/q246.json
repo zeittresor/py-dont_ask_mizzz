@@ -1,0 +1,14 @@
+{
+  "question": "Welches Kraut ist klassisch in Pesto alla Genovese?",
+  "options": {
+    "A": "Basilikum",
+    "B": "Petersilie",
+    "C": "Koriander"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Basilikum, Pinienkerne, Parmesan, Knoblauch, Öl – grüner Smoothie für Nudeln.",
+    "B": "Petersilie hat eigene Auftritte – nicht hier in der Hauptrolle. (Richtig: A)",
+    "C": "Koriander spaltet Familien – aber nicht in Genua. (Richtig: A)"
+  }
+}

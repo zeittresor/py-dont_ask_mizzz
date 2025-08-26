@@ -1,0 +1,14 @@
+{
+  "question": "Wer malte die 'Mona Lisa'?",
+  "options": {
+    "A": "Leonardo da Vinci",
+    "B": "Michelangelo",
+    "C": "Raphael"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Leonardo: Erfinder, Künstler, Bart-Influencer.",
+    "B": "Michelangelo meißelte gern – David sagt hallo. (Richtig: A)",
+    "C": "Raphael war Renaissancestar, aber nicht der Mona-Lisa-Papa. (Richtig: A)"
+  }
+}

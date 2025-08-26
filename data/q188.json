@@ -1,0 +1,14 @@
+{
+  "question": "Welche Zellen sind primär für Antikörper zuständig?",
+  "options": {
+    "A": "B-Lymphozyten/Plasmazellen",
+    "B": "Erythrozyten",
+    "C": "Neuronale Glia"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! B-Zellen reifen zu Antikörperfabriken – Kugelhagel gegen Antigene.",
+    "B": "Erythrozyten tragen O₂, keine Ig-Geschenke. (Richtig: A)",
+    "C": "Gliazellen supporten Neuronen – andere Front. (Richtig: A)"
+  }
+}

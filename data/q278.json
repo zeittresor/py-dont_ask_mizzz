@@ -1,0 +1,14 @@
+{
+  "question": "Welches Land ist flächenmäßig das größte der Welt?",
+  "options": {
+    "A": "Russland",
+    "B": "Kanada",
+    "C": "China"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Russland zieht sich wie Kaugummi über Eurasien – viel Platz für Wetter.",
+    "B": "Kanada ist groß, hat aber mehr Elche als Quadratkilometer… gefühlt. (Richtig: A)",
+    "C": "China ist riesig, aber nicht Platz 1. (Richtig: A)"
+  }
+}

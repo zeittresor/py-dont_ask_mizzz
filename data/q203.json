@@ -1,0 +1,14 @@
+{
+  "question": "Was ist die Magna Carta von 1215?",
+  "options": {
+    "A": "Rechtsdokument, das Königsmacht begrenzte",
+    "B": "Kirchliches Dogma",
+    "C": "Steuerformular"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Adel zwang Rechte ab – Frühform von ‚niemand steht über dem Gesetz‘.",
+    "B": "Dogmen kommen aus Konzilien, nicht aus Runnymede. (Richtig: A)",
+    "C": "Steuern gab’s auch, aber nicht so romantisch verfasst. (Richtig: A)"
+  }
+}

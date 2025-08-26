@@ -1,0 +1,14 @@
+{
+  "question": "Welche Sportart nutzt ein Shuttlecock?",
+  "options": {
+    "A": "Badminton",
+    "B": "Tennis",
+    "C": "Squash"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Federball auf Speed – feinsinnig und fies schnell.",
+    "B": "Tennis hat Bälle, keine Federn. (Richtig: A)",
+    "C": "Squash prügelt Wände, nicht Federn. (Richtig: A)"
+  }
+}

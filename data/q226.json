@@ -1,0 +1,14 @@
+{
+  "question": "Welche Spielkonsole nutzte Cartridges statt CDs im Hauptmodell?",
+  "options": {
+    "A": "Nintendo 64",
+    "B": "PlayStation 2",
+    "C": "Sega Dreamcast"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! N64 blieb bei Modulen – schnell, aber platzarm.",
+    "B": "PS2 liebte DVDs. (Richtig: A)",
+    "C": "Dreamcast fuhr GD-ROM – Scheiben-Party. (Richtig: A)"
+  }
+}

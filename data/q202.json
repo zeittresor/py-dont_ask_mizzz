@@ -1,0 +1,14 @@
+{
+  "question": "In welchem Jahr fiel die Berliner Mauer?",
+  "options": {
+    "A": "1989",
+    "B": "1991",
+    "C": "1985"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! 1989: Menschen, Tränen, Mauerspechte – Geschichts-Gänsehaut.",
+    "B": "1991 ist der Zerfall der UdSSR – anderes Kapitel. (Richtig: A)",
+    "C": "1985 ist zu früh – die Mauer stand noch. (Richtig: A)"
+  }
+}

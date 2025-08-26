@@ -1,0 +1,14 @@
+{
+  "question": "Welche Waffe ist ikonisch für Jedi in Star Wars?",
+  "options": {
+    "A": "Lichtschwert",
+    "B": "Phaser",
+    "C": "Tricorder"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Laser-Schwert mit Familienproblemen.",
+    "B": "Phaser gehört zu Star Trek – falsches Universum, Captain. (Richtig: A)",
+    "C": "Tricorder ist ein Scanner – auch Trek-Territorium. (Richtig: A)"
+  }
+}

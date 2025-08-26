@@ -1,0 +1,14 @@
+{
+  "question": "Welche Farbe hat eine Natriumdampflampe typisch?",
+  "options": {
+    "A": "Gelb/Orange",
+    "B": "Blaugrün",
+    "C": "Purpur"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Natrium macht Straßen gelb – Retrofilter gratis.",
+    "B": "Blaugrün – das wäre eher Quecksilber/Halogen-Mix. (Richtig: A)",
+    "C": "Purpur ist romantisch, aber nicht natriumtypisch. (Richtig: A)"
+  }
+}

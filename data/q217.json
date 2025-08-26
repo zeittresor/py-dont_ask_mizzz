@@ -1,0 +1,14 @@
+{
+  "question": "Was ist ein Diphthong?",
+  "options": {
+    "A": "Doppellaut wie 'au'/'ei'",
+    "B": "Konsonantenhäufung",
+    "C": "Stummes h"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Zwei Vokale, ein Laut – die WG des Klangs.",
+    "B": "Konsonantenhäufung ist 'Strumpf' & Co. (Richtig: A)",
+    "C": "Das stumme h macht Länge – keine WG. (Richtig: A)"
+  }
+}

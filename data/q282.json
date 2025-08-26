@@ -1,0 +1,14 @@
+{
+  "question": "Welche Redewendung bedeutet 'jemandem schmeicheln'?",
+  "options": {
+    "A": "Jemandem Honig ums Maul schmieren",
+    "B": "Jemandem den Bären aufbinden",
+    "C": "Jemandem die kalte Schulter zeigen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Süße Worte statt klebriger Finger – du weißt schon.",
+    "B": "Das heißt 'jemanden anlügen'. (Richtig: A)",
+    "C": "Das heißt 'jemanden ignorieren'. (Richtig: A)"
+  }
+}

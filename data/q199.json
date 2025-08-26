@@ -1,0 +1,14 @@
+{
+  "question": "Welche Stadt wird oft für ihre vielen Brücken gerühmt (mehr als Venedig)?",
+  "options": {
+    "A": "Hamburg",
+    "B": "Rom",
+    "C": "Oslo"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Hamburg hat Brückenfetisch. Wasserwege wollen rüber.",
+    "B": "Rom hat Geschichte – aber nicht die Brückendichte. (Richtig: A)",
+    "C": "Oslo glänzt anders – nicht mit Brückenrekorden. (Richtig: A)"
+  }
+}

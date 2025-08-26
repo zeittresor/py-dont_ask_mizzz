@@ -1,0 +1,14 @@
+{
+  "question": "Welches Gebirge liegt zwischen Frankreich und Spanien?",
+  "options": {
+    "A": "Pyrenäen",
+    "B": "Alpen",
+    "C": "Karpaten"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Pyrenäen – natürliche Grenze mit Wanderbonus.",
+    "B": "Alpen trennen u. a. Italien/Österreich/Schweiz, nicht FR/ES. (Richtig: A)",
+    "C": "Karpaten sind weiter im Osten unterwegs. (Richtig: A)"
+  }
+}

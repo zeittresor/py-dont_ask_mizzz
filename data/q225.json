@@ -1,0 +1,14 @@
+{
+  "question": "Welches Jahr gilt als Release von 'The Dig' (LucasArts)?",
+  "options": {
+    "A": "1995",
+    "B": "1999",
+    "C": "1989"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Artefakt, Asteroid, Audiokommentar der 90er – 1995 passt.",
+    "B": "1999 gab’s schon andere 3D-Sorgen. (Richtig: A)",
+    "C": "1989 war Ron-Gilbert-Ära – aber 'The Dig' kam später. (Richtig: A)"
+  }
+}

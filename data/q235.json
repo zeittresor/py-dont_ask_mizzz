@@ -1,0 +1,14 @@
+{
+  "question": "Wie nennt man eine Folge, bei der jedes Glied Summe der zwei vorherigen ist?",
+  "options": {
+    "A": "Fibonacci-Folge",
+    "B": "Primfolge",
+    "C": "Harmonische Folge"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! 1,1,2,3,5,8… der Mathe-Hit mit goldener Nebenwirkung.",
+    "B": "Prim ist ein anderes Hobby. (Richtig: A)",
+    "C": "Harmonisch hat 1/n-Feeling – nicht Fibonacci. (Richtig: A)"
+  }
+}

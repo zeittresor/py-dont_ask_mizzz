@@ -1,0 +1,14 @@
+{
+  "question": "Welche Phase zeigt der Mond bei Sonne–Erde–Mond in einer Linie (Mond außen)?",
+  "options": {
+    "A": "Vollmond",
+    "B": "Neumond",
+    "C": "Erstes Viertel"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Wenn die Erde zwischen Sonne und Mond steht, leuchtet uns die volle Scheibe an.",
+    "B": "Neumond ist, wenn der Mond zwischen Sonne und Erde steht. (Richtig: A)",
+    "C": "Erstes Viertel ist die Halbzeit im Leuchtprogramm. (Richtig: A)"
+  }
+}

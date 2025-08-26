@@ -1,0 +1,14 @@
+{
+  "question": "Welche Farbe entsteht additiv aus Rot und Grün?",
+  "options": {
+    "A": "Gelb",
+    "B": "Magenta",
+    "C": "Cyan"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Additiv (Licht): Rot+Grün=Gelb – dein Monitor nickt.",
+    "B": "Magenta = Rot+Blau. (Richtig: A)",
+    "C": "Cyan = Grün+Blau. (Richtig: A)"
+  }
+}

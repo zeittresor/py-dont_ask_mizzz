@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Fluss fließt durch Budapest?",
+  "options": {
+    "A": "Donau",
+    "B": "Rhein",
+    "C": "Seine"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Budapest sitzt an der Donau – Postkartenmotiv inklusive.",
+    "B": "Rhein grüßt Köln und Basel – aber nicht Budapest. (Richtig: A)",
+    "C": "Seine kuschelt Paris, nicht Ungarn. (Richtig: A)"
+  }
+}

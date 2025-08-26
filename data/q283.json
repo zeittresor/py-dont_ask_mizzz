@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Versfuß hat die Abfolge betont–unbetont?",
+  "options": {
+    "A": "Trochäus",
+    "B": "Jambus",
+    "C": "Daktylus"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Trochäus: FALLend, FALLend – so stolziert die Betonung.",
+    "B": "Jambus ist unbetont–betont (verSTAND). (Richtig: A)",
+    "C": "Daktylus ist betont–unbetont–unbetont (TANzenDE). (Richtig: A)"
+  }
+}

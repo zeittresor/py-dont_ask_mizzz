@@ -1,0 +1,14 @@
+{
+  "question": "Woraus besteht klassische Guacamole hauptsächlich?",
+  "options": {
+    "A": "Avocado",
+    "B": "Erbsen",
+    "C": "Zucchini"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Avocado + Limette + Salz + optional Drama – fertig.",
+    "B": "Erbsen-Guac ist ein Skandal für Puristen. (Richtig: A)",
+    "C": "Zucchini macht anderes Gemüse glücklich. (Richtig: A)"
+  }
+}

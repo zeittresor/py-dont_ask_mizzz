@@ -1,0 +1,14 @@
+{
+  "question": "Wie heißt Marios Bruder im Nintendo-Universum?",
+  "options": {
+    "A": "Luigi",
+    "B": "Wario",
+    "C": "Toad"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Der mit der grünen Mütze und dem heimlichen Höhenvorteil.",
+    "B": "Wario ist der feiste Rivale, nicht der Bruder. (Richtig: A)",
+    "C": "Toad ist Pilz-Management, kein Klempner. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Kontinent hat die geringste Einwohnerzahl?",
+  "options": {
+    "A": "Antarktika",
+    "B": "Australien",
+    "C": "Europa"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Antarktika hat Forschende und Pinguine, aber keine Einwohnermeldeämter.",
+    "B": "Australien ist dünn besiedelt, aber bewohnt. (Richtig: A)",
+    "C": "Europa ist voller Menschen und Museen. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Zahl ist irrational?",
+  "options": {
+    "A": "π (Pi)",
+    "B": "1/3",
+    "C": "0,125"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Pi hört nie auf – und wiederholt sich nicht. Ein poetischer Zahlenstrom.",
+    "B": "1/3 ist rational – endlos periodisch, aber als Bruch klar. (Richtig: A)",
+    "C": "0,125 = 1/8 – sehr rational, sehr brav. (Richtig: A)"
+  }
+}

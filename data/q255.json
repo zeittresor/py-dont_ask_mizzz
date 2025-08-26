@@ -1,0 +1,14 @@
+{
+  "question": "Welche Stadt nennt man 'Big Apple'?",
+  "options": {
+    "A": "New York City",
+    "B": "Los Angeles",
+    "C": "Chicago"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! NYC – die Stadt, die nie schläft, nur gähnt.",
+    "B": "LA ist die Stadt der Autos und Drehbücher. (Richtig: A)",
+    "C": "Chicago ist Wind und Jazz – anderer Obstkorb. (Richtig: A)"
+  }
+}

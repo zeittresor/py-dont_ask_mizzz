@@ -1,0 +1,14 @@
+{
+  "question": "Welche Revolution begann 1789?",
+  "options": {
+    "A": "Französische Revolution",
+    "B": "Industrielle Revolution",
+    "C": "Russische Revolution"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Liberté, Égalité, guillotiné… äh, Fraternité.",
+    "B": "Industrialisierung startete früher/später, aber nicht 1789 exakt. (Richtig: A)",
+    "C": "Russische Revolution: 1917 – anderer Kalender, anderes Drama. (Richtig: A)"
+  }
+}

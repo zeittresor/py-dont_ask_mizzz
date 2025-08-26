@@ -1,0 +1,14 @@
+{
+  "question": "Was ist die Ableitung von x²?",
+  "options": {
+    "A": "2x",
+    "B": "x",
+    "C": "x³"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Schulbuch-Glücksmoment: 2x.",
+    "B": "x ist von (1/2)x² – falsche Richtung. (Richtig: A)",
+    "C": "x³ ist weiter weg – so 3 Kilometer. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Spielfigur sammelt goldene Ringe?",
+  "options": {
+    "A": "Sonic",
+    "B": "Mario",
+    "C": "Crash Bandicoot"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Sonic, das blaue Supersprint-Emoji.",
+    "B": "Mario sammelt Münzen und Herzen – ok, Prinzessinnen. (Richtig: A)",
+    "C": "Crash sammelt Wumpa-Früchte – und Wutausbrüche. (Richtig: A)"
+  }
+}

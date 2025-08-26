@@ -1,0 +1,14 @@
+{
+  "question": "Was passierte 1066 in England?",
+  "options": {
+    "A": "Schlacht bei Hastings",
+    "B": "Magna Carta",
+    "C": "Große Pest"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Normannen kommen, Könige gehen – neue Dynastie, neue Steuerformulare.",
+    "B": "Magna Carta war 1215. (Richtig: A)",
+    "C": "Die Schwarze Pest wütete im 14. Jh. (Richtig: A)"
+  }
+}

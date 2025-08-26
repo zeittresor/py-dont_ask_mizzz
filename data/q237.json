@@ -1,0 +1,14 @@
+{
+  "question": "Welche Matrix hat Determinante 0?",
+  "options": {
+    "A": "Eine singuläre Matrix",
+    "B": "Eine orthogonale Matrix",
+    "C": "Eine Einheitsmatrix"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Singulär = nicht invertierbar, Determinante am Boden.",
+    "B": "Orthogonal hat Determinante ±1. (Richtig: A)",
+    "C": "Einheitsmatrix hat Determinante 1 – boring stabil. (Richtig: A)"
+  }
+}

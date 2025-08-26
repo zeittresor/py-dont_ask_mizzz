@@ -1,0 +1,14 @@
+{
+  "question": "Welche Stadt ist Hauptstadt von Australien?",
+  "options": {
+    "A": "Canberra",
+    "B": "Sydney",
+    "C": "Melbourne"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Canberra ist der Kompromiss zwischen Sydney und Melbourne – wie Geschwisterfrieden mit Akten.",
+    "B": "Sydney ist die Poster-Queen, aber nicht Hauptstadt. (Richtig: A)",
+    "C": "Melbourne ist Kaffee-Königin, aber ebenfalls nicht Hauptstadt. (Richtig: A)"
+  }
+}

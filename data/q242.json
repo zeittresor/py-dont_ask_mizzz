@@ -1,0 +1,14 @@
+{
+  "question": "Welches Getränk entsteht aus vergorenen Trauben?",
+  "options": {
+    "A": "Wein",
+    "B": "Bier",
+    "C": "Cider"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Wein: Trauben, Hefe, Geduld – und dann Philosophie im Glas.",
+    "B": "Bier ist Malz & Hopfen – anderes Rezept. (Richtig: A)",
+    "C": "Cider: Äpfel statt Trauben. (Richtig: A)"
+  }
+}

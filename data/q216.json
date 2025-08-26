@@ -1,0 +1,14 @@
+{
+  "question": "Welche Schreibung ist korrekt?",
+  "options": {
+    "A": "im Allgemeinen",
+    "B": "im allgemeinen",
+    "C": "Im Allgemeinen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Als Adverb groß? Nope. 'Allgemeinen' ist hier substantiviert – aber nach Präposition klein? Fiese Falle: korrekt ist 'im Allgemeinen' (Substantivierung groß).",
+    "B": "Kleinschreibung ist hier falsch. (Richtig: A)",
+    "C": "Satzanfang groß ginge – aber hier als Option nicht gemeint. (Richtig: A)"
+  }
+}

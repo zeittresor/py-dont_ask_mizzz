@@ -1,0 +1,14 @@
+{
+  "question": "Welche Größe beschreibt die Trägheit eines Körpers?",
+  "options": {
+    "A": "Masse",
+    "B": "Ladung",
+    "C": "Temperatur"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Masse sagt, wie sehr ein Körper Beschleunigung doof findet.",
+    "B": "Ladung ist Elektro-Drama, nicht Trägheit. (Richtig: A)",
+    "C": "Temperatur ist Bewegung auf Mikroebene, nicht Widerwille gegen Beschleunigung. (Richtig: A)"
+  }
+}

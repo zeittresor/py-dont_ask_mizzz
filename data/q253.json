@@ -1,0 +1,14 @@
+{
+  "question": "Welches Element hat das Symbol 'Na'?",
+  "options": {
+    "A": "Natrium",
+    "B": "Stickstoff",
+    "C": "Neon"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Natrium: reagiert wie ein Teenager – heftig, wenn du Wasser dazu gibst.",
+    "B": "Stickstoff = N. Viel in der Luft, wenig in 'Na'. (Richtig: A)",
+    "C": "Neon = Ne – Disco im Glas. (Richtig: A)"
+  }
+}

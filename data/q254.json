@@ -1,0 +1,14 @@
+{
+  "question": "Welche Sprache ist semitisch?",
+  "options": {
+    "A": "Arabisch",
+    "B": "Ungarisch",
+    "C": "Finnisch"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Arabisch gehört zur semitischen Familie – Wurzeln und Muster galore.",
+    "B": "Ungarisch ist uralisch. (Richtig: A)",
+    "C": "Finnisch ist auch uralisch. (Richtig: A)"
+  }
+}

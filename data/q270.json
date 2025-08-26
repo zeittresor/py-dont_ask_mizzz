@@ -1,0 +1,14 @@
+{
+  "question": "Welche Skala misst Erdbebenstärke als freigesetzte Energie (modern)?",
+  "options": {
+    "A": "Momenten-Magnituden-Skala (Mw)",
+    "B": "Beaufort-Skala",
+    "C": "Richter-PH"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Mw ist der aktuelle Standard für große Beben – Energiebilanz statt nur Ausschlag.",
+    "B": "Beaufort misst Windstärken – das rüttelt Segel, keine Plattentektonik. (Richtig: A)",
+    "C": "Das ist Fantasie – pH ist Chemie, Richter war früher die Beben-Skala. (Richtig: A)"
+  }
+}

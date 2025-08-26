@@ -1,0 +1,14 @@
+{
+  "question": "Welche Insel ist die größte der Welt (ohne Kontinentstatus)?",
+  "options": {
+    "A": "Grönland",
+    "B": "Borneo",
+    "C": "Neuguinea"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Grönland gewinnt – Weiß, weit, wetterlaunig.",
+    "B": "Borneo ist riesig, aber nicht Nummer 1. (Richtig: A)",
+    "C": "Neuguinea ist Nr. 2 – knapp dahinter. (Richtig: A)"
+  }
+}

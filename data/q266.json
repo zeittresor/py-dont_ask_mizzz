@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage zu Public-Key-Kryptographie stimmt?",
+  "options": {
+    "A": "Der öffentliche Schlüssel verschlüsselt, der private entschlüsselt (typisch)",
+    "B": "Beide Schlüssel müssen geheim bleiben",
+    "C": "Es gibt nur einen einzigen Schlüssel"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Im gängigen Szenario schickst du mit Public zu, entschlüsselst mit Private – wie Briefkasten vs. Wohnungsschlüssel.",
+    "B": "Public darf öffentlich sein, Überraschung. (Richtig: A)",
+    "C": "Das wäre symmetrisch – hier arbeiten zwei zusammen, nicht einer allein. (Richtig: A)"
+  }
+}

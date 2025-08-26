@@ -1,0 +1,14 @@
+{
+  "question": "Welche Umlaufbahn ist geostationär?",
+  "options": {
+    "A": "Eine über dem Äquator mit 24h Umlaufzeit",
+    "B": "Eine polare Bahn mit 90-min-Periode",
+    "C": "Eine elliptische Bahn, die den Mond kreuzt"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Über dem Äquator + gleiche Rotationsgeschwindigkeit = scheinbar am Himmel festgenagelt.",
+    "B": "Das ist eher LEO – schnell und fleißig. (Richtig: A)",
+    "C": "Klingt dramatisch, ist aber nicht geostationär. (Richtig: A)"
+  }
+}
