@@ -1,0 +1,14 @@
+{
+  "question": "Welche Wüste ist die größte heiße Wüste?",
+  "options": {
+    "A": "Sahara",
+    "B": "Gobi",
+    "C": "Atacama"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Sahara: heiß, weit, sandig – die Königin der Hitze.",
+    "B": "Gobi ist kaltgemäßigt. (Richtig: A)",
+    "C": "Atacama ist extrem trocken, aber kleiner. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Wer bzw. was gehört als Hauptfigur zu Pac-Man?",
+  "options": {
+    "A": "Guybrush Threepwood",
+    "B": "Pac-Man",
+    "C": "Space Marine (Doomguy)"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Klingt vertraut – nur nicht aus Pac-Man.",
+    "B": "Genau – Pac-Man ist ikonisch für Pac-Man. (Richtig: A)",
+    "C": "Nette Figur, aber nicht die Hauptrolle in Pac-Man. (Richtig: A)"
+  }
+}

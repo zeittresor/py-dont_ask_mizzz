@@ -1,0 +1,14 @@
+{
+  "question": "Welche Größe ist eine SI-Basiseinheit?",
+  "options": {
+    "A": "Ampere",
+    "B": "Newton",
+    "C": "Watt"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Ampere ist Basis – Stromstärke in elegant.",
+    "B": "Newton ist abgeleitet (Kraft). (Richtig: A)",
+    "C": "Watt ist abgeleitet (Leistung). (Richtig: A)"
+  }
+}

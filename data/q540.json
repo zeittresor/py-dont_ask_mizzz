@@ -1,0 +1,14 @@
+{
+  "question": "Wer bzw. was gehört als Hauptfigur zu SimCity?",
+  "options": {
+    "A": "B.J. Blazkowicz",
+    "B": "Billy/ Jimmy Lee",
+    "C": "Bürgermeister:in (du)"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Klingt vertraut – nur nicht aus SimCity.",
+    "B": "Nette Figur, aber nicht die Hauptrolle in SimCity. (Richtig: A)",
+    "C": "Genau – Bürgermeister:in (du) ist ikonisch für SimCity. (Richtig: A)"
+  }
+}

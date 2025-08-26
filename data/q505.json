@@ -1,0 +1,14 @@
+{
+  "question": "Zu welchem Hersteller/Studio gehört The Secret of Monkey Island ursprünglich am ehesten?",
+  "options": {
+    "A": "Lucasfilm Games",
+    "B": "Atari",
+    "C": "Sega"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt: The Secret of Monkey Island wird klassisch mit Lucasfilm Games verbunden.",
+    "B": "Nein – The Secret of Monkey Island gehört nicht zu diesem Publisher/Studio. (Richtig: A)",
+    "C": "Diese Firma steht eher für andere Klassiker, nicht für The Secret of Monkey Island. (Richtig: A)"
+  }
+}

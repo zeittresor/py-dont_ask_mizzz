@@ -1,0 +1,14 @@
+{
+  "question": "Zu welchem Hersteller/Studio gehört Wolfenstein 3D ursprünglich am ehesten?",
+  "options": {
+    "A": "id Software",
+    "B": "Taito",
+    "C": "Capcom"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt: Wolfenstein 3D wird klassisch mit id Software verbunden.",
+    "B": "Diese Firma steht eher für andere Klassiker, nicht für Wolfenstein 3D. (Richtig: A)",
+    "C": "Nein – Wolfenstein 3D gehört nicht zu diesem Publisher/Studio. (Richtig: A)"
+  }
+}

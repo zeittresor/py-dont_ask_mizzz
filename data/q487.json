@@ -1,0 +1,14 @@
+{
+  "question": "Wie heißt der Phasenübergang gasförmig → flüssig?",
+  "options": {
+    "A": "Kondensation",
+    "B": "Verdampfung",
+    "C": "Sublimation"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Gas kühlt ab und wird flüssig – Wolke trifft Regen.",
+    "B": "Verdampfung ist Flüssig → Gas. (Richtig: A)",
+    "C": "Sublimation ist Fest → Gas ohne flüssig. (Richtig: A)"
+  }
+}

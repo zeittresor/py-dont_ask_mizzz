@@ -1,0 +1,14 @@
+{
+  "question": "In welches Jahrzehnt fällt die (Erst-)Veröffentlichung von Tetris?",
+  "options": {
+    "A": "1990er",
+    "B": "1970er",
+    "C": "1980er"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Zu früh/spät: Tetris passt nicht in die 1990er.",
+    "B": "Auch daneben – Tetris stammt nicht aus den 1970er. (Richtig: A)",
+    "C": "Yep – Tetris kam in den 1980er auf die Welt. (Richtig: A)"
+  }
+}

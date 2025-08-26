@@ -1,0 +1,14 @@
+{
+  "question": "Wer ist der Held mit dem Master-Schwert?",
+  "options": {
+    "A": "Link",
+    "B": "Zelda",
+    "C": "Ganondorf"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Link schwingt das Ding, auch wenn die Serie nach Zelda heißt.",
+    "B": "Zelda ist die Prinzessin (und mehr) – nicht der Schwertträger. (Richtig: A)",
+    "C": "Ganondorf ist der Bösewicht – Finger weg vom Master-Schwert. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Zu welchem Hersteller/Studio gehört Space Invaders ursprünglich am ehesten?",
+  "options": {
+    "A": "Taito",
+    "B": "Technōs Japan",
+    "C": "Namco"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt: Space Invaders wird klassisch mit Taito verbunden.",
+    "B": "Nein – Space Invaders gehört nicht zu diesem Publisher/Studio. (Richtig: A)",
+    "C": "Diese Firma steht eher für andere Klassiker, nicht für Space Invaders. (Richtig: A)"
+  }
+}

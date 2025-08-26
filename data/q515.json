@@ -1,0 +1,14 @@
+{
+  "question": "Zu welchem Hersteller/Studio gehört Street Fighter II ursprünglich am ehesten?",
+  "options": {
+    "A": "Broderbund/Jordan Mechner",
+    "B": "Capcom",
+    "C": "Hudson Soft"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Diese Firma steht eher für andere Klassiker, nicht für Street Fighter II.",
+    "B": "Korrekt: Street Fighter II wird klassisch mit Capcom verbunden. (Richtig: A)",
+    "C": "Nein – Street Fighter II gehört nicht zu diesem Publisher/Studio. (Richtig: A)"
+  }
+}

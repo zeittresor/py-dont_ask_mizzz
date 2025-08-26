@@ -1,0 +1,14 @@
+{
+  "question": "In welches Jahrzehnt fällt die (Erst-)Veröffentlichung von Metroid?",
+  "options": {
+    "A": "1970er",
+    "B": "1980er",
+    "C": "1990er"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Zu früh/spät: Metroid passt nicht in die 1970er.",
+    "B": "Yep – Metroid kam in den 1980er auf die Welt. (Richtig: A)",
+    "C": "Auch daneben – Metroid stammt nicht aus den 1990er. (Richtig: A)"
+  }
+}

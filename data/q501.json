@@ -1,0 +1,14 @@
+{
+  "question": "Zu welchem Hersteller/Studio gehört Doom (1993) ursprünglich am ehesten?",
+  "options": {
+    "A": "Nintendo",
+    "B": "Taito",
+    "C": "id Software"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nein – Doom (1993) gehört nicht zu diesem Publisher/Studio.",
+    "B": "Diese Firma steht eher für andere Klassiker, nicht für Doom (1993). (Richtig: A)",
+    "C": "Korrekt: Doom (1993) wird klassisch mit id Software verbunden. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Wer schrieb 'Die Physiker'?",
+  "options": {
+    "A": "Friedrich Dürrenmatt",
+    "B": "Bertolt Brecht",
+    "C": "Thomas Mann"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Dürrenmatt: Schwarze Komödie mit Atomhintergrund.",
+    "B": "Brecht schrieb episch – aber andere Stücke. (Richtig: A)",
+    "C": "Thomas Mann ist Prosa-Koryphäe, nicht dieser Theatertext. (Richtig: A)"
+  }
+}

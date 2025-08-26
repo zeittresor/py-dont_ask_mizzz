@@ -1,0 +1,14 @@
+{
+  "question": "Zu welchem Hersteller/Studio gehört Sonic the Hedgehog ursprünglich am ehesten?",
+  "options": {
+    "A": "Sega",
+    "B": "Namco",
+    "C": "Lucasfilm Games"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt: Sonic the Hedgehog wird klassisch mit Sega verbunden.",
+    "B": "Nein – Sonic the Hedgehog gehört nicht zu diesem Publisher/Studio. (Richtig: A)",
+    "C": "Diese Firma steht eher für andere Klassiker, nicht für Sonic the Hedgehog. (Richtig: A)"
+  }
+}

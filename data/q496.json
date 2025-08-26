@@ -1,0 +1,14 @@
+{
+  "question": "Welche Spielereihe hat den Spruch 'Finish Him!' fest verankert?",
+  "options": {
+    "A": "Mortal Kombat",
+    "B": "Street Fighter",
+    "C": "Tekken"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Mortal Kombat – der Kampfschrei aller Fatalitäten.",
+    "B": "Street Fighter ruft eher 'Hadoken!'. (Richtig: A)",
+    "C": "Tekken prügelt anders, aber ohne die Phrase. (Richtig: A)"
+  }
+}

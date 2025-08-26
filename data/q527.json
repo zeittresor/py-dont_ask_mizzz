@@ -1,0 +1,14 @@
+{
+  "question": "In welches Jahrzehnt fällt die (Erst-)Veröffentlichung von Sonic the Hedgehog?",
+  "options": {
+    "A": "1970er",
+    "B": "1990er",
+    "C": "1980er"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Auch daneben – Sonic the Hedgehog stammt nicht aus den 1970er.",
+    "B": "Yep – Sonic the Hedgehog kam in den 1990er auf die Welt. (Richtig: A)",
+    "C": "Zu früh/spät: Sonic the Hedgehog passt nicht in die 1980er. (Richtig: A)"
+  }
+}

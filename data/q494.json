@@ -1,0 +1,14 @@
+{
+  "question": "Was misst ein Parsec?",
+  "options": {
+    "A": "Entfernung (≈ 3,26 Lichtjahre)",
+    "B": "Zeit (eine Sternsekunde)",
+    "C": "Masse eines Sterns"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Parallaxen-Sekunde – Geometrie macht Distanz zu Kosmos-Poesie.",
+    "B": "Keine Zeiteinheit. (Richtig: A)",
+    "C": "Sternmassen messen wir anders (Sonnenmassen). (Richtig: A)"
+  }
+}

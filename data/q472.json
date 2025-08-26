@@ -1,0 +1,14 @@
+{
+  "question": "Welche Pluralform ist korrekt?",
+  "options": {
+    "A": "Atlanten (für Kartenwerke)",
+    "B": "Atlasen",
+    "C": "Atlassen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Ja, Atlanten – fiese Ausnahme.",
+    "B": "So nicht gebräuchlich. (Richtig: A)",
+    "C": "So auch nicht. (Richtig: A)"
+  }
+}

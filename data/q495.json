@@ -1,0 +1,14 @@
+{
+  "question": "Was misst ein Barometer?",
+  "options": {
+    "A": "Luftdruck",
+    "B": "Luftfeuchtigkeit",
+    "C": "Temperatur"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Druck am Himmel. Dein Knie spürt’s manchmal zuerst.",
+    "B": "Feuchte misst das Hygrometer – schwitzige Nummer. (Richtig: A)",
+    "C": "Temperatur misst das Thermometer – klassischer Fieberfreund. (Richtig: A)"
+  }
+}

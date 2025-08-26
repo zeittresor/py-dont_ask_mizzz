@@ -1,0 +1,14 @@
+{
+  "question": "Was bedeutet 'Handshake' im Netzwerk-Kontext?",
+  "options": {
+    "A": "Aushandlung von Verbindungsparametern",
+    "B": "Begrüßung mit Handschuhen",
+    "C": "Ein höflicher E-Mail-Abschluss"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! SYN, SYN-ACK, ACK – Networking macht Knigge.",
+    "B": "Mit Handschuhen ist’s warm, aber nicht TCP. (Richtig: A)",
+    "C": "Grußformeln sind Layer 8. (Richtig: A)"
+  }
+}

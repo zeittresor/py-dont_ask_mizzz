@@ -1,0 +1,14 @@
+{
+  "question": "Wer bzw. was gehört als Hauptfigur zu Street Fighter II?",
+  "options": {
+    "A": "B.J. Blazkowicz",
+    "B": "Ryu",
+    "C": "Falling Blocks"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Klingt vertraut – nur nicht aus Street Fighter II.",
+    "B": "Genau – Ryu ist ikonisch für Street Fighter II. (Richtig: A)",
+    "C": "Nette Figur, aber nicht die Hauptrolle in Street Fighter II. (Richtig: A)"
+  }
+}

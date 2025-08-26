@@ -1,0 +1,14 @@
+{
+  "question": "Welche Option ist KEIN legitimer Git-Befehl?",
+  "options": {
+    "A": "git cuddle",
+    "B": "git push",
+    "C": "git pull"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! ‚git cuddle‘ existiert nicht (leider). Für Kuscheln ist der Readme-Hamster zuständig.",
+    "B": "Push gibt’s wirklich – raus mit den Commits. (Richtig: A)",
+    "C": "Pull gibt’s auch – rein mit fremden Änderungen. (Richtig: A)"
+  }
+}

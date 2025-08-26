@@ -1,0 +1,14 @@
+{
+  "question": "Zu welchem Hersteller/Studio gehört SimCity ursprünglich am ehesten?",
+  "options": {
+    "A": "Hudson Soft",
+    "B": "Capcom",
+    "C": "Maxis"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nein – SimCity gehört nicht zu diesem Publisher/Studio.",
+    "B": "Diese Firma steht eher für andere Klassiker, nicht für SimCity. (Richtig: A)",
+    "C": "Korrekt: SimCity wird klassisch mit Maxis verbunden. (Richtig: A)"
+  }
+}

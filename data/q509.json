@@ -1,0 +1,14 @@
+{
+  "question": "Zu welchem Hersteller/Studio gehört Super Mario Bros. ursprünglich am ehesten?",
+  "options": {
+    "A": "Nintendo",
+    "B": "Konami",
+    "C": "Alexei Pajitnow"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt: Super Mario Bros. wird klassisch mit Nintendo verbunden.",
+    "B": "Diese Firma steht eher für andere Klassiker, nicht für Super Mario Bros.. (Richtig: A)",
+    "C": "Nein – Super Mario Bros. gehört nicht zu diesem Publisher/Studio. (Richtig: A)"
+  }
+}

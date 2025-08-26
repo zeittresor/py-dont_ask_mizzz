@@ -1,0 +1,14 @@
+{
+  "question": "Welche Fernsehserie hat den Spruch 'Winter is coming'?",
+  "options": {
+    "A": "Game of Thrones",
+    "B": "Vikings",
+    "C": "The Witcher"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Stark(e) Familienweisheit – und viel Schnee.",
+    "B": "Vikings hat andere Sprüche – und Zöpfe. (Richtig: A)",
+    "C": "The Witcher sagt eher 'Hmm' und 'Münzen werfen'. (Richtig: A)"
+  }
+}

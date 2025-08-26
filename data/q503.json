@@ -1,0 +1,14 @@
+{
+  "question": "Zu welchem Hersteller/Studio gehört Super Mario Bros. ursprünglich am ehesten?",
+  "options": {
+    "A": "Nintendo",
+    "B": "Hudson Soft",
+    "C": "Namco"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt: Super Mario Bros. wird klassisch mit Nintendo verbunden.",
+    "B": "Nein – Super Mario Bros. gehört nicht zu diesem Publisher/Studio. (Richtig: A)",
+    "C": "Diese Firma steht eher für andere Klassiker, nicht für Super Mario Bros.. (Richtig: A)"
+  }
+}

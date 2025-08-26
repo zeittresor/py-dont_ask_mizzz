@@ -1,0 +1,14 @@
+{
+  "question": "Zu welchem Hersteller/Studio gehört Street Fighter II ursprünglich am ehesten?",
+  "options": {
+    "A": "Atari",
+    "B": "Namco",
+    "C": "Capcom"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nein – Street Fighter II gehört nicht zu diesem Publisher/Studio.",
+    "B": "Diese Firma steht eher für andere Klassiker, nicht für Street Fighter II. (Richtig: A)",
+    "C": "Korrekt: Street Fighter II wird klassisch mit Capcom verbunden. (Richtig: A)"
+  }
+}

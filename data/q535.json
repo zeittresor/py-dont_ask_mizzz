@@ -1,0 +1,14 @@
+{
+  "question": "Wer bzw. was gehört als Hauptfigur zu Bomberman?",
+  "options": {
+    "A": "Sternenjäger",
+    "B": "Bomberman",
+    "C": "Schläger und Pixelball"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Klingt vertraut – nur nicht aus Bomberman.",
+    "B": "Genau – Bomberman ist ikonisch für Bomberman. (Richtig: A)",
+    "C": "Nette Figur, aber nicht die Hauptrolle in Bomberman. (Richtig: A)"
+  }
+}

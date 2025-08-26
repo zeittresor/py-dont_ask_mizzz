@@ -1,0 +1,14 @@
+{
+  "question": "Was ist in der Astronomie ein 'Hot Jupiter'?",
+  "options": {
+    "A": "Ein massereicher Gasriese nahe am Stern",
+    "B": "Ein besonders heißer Bewohner des Planeten Jupiter",
+    "C": "Eine Disco in Florida"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Gasriese, sternnah, ordentlich aufgeheizt – keine Strandbar.",
+    "B": "Auf Jupiter wohnt niemand (außer Witzfiguren). (Richtig: A)",
+    "C": "Discos gibt’s, aber nicht im Teleskop. (Richtig: A)"
+  }
+}

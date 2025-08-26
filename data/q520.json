@@ -1,0 +1,14 @@
+{
+  "question": "In welches Jahrzehnt fällt die (Erst-)Veröffentlichung von Prince of Persia (1989)?",
+  "options": {
+    "A": "1980er",
+    "B": "1990er",
+    "C": "1970er"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Yep – Prince of Persia (1989) kam in den 1980er auf die Welt.",
+    "B": "Zu früh/spät: Prince of Persia (1989) passt nicht in die 1990er. (Richtig: A)",
+    "C": "Auch daneben – Prince of Persia (1989) stammt nicht aus den 1970er. (Richtig: A)"
+  }
+}

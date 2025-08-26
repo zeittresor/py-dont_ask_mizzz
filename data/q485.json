@@ -1,0 +1,14 @@
+{
+  "question": "Welche Identität stimmt?",
+  "options": {
+    "A": "cos²x + sin²x = 1",
+    "B": "cos²x − sin²x = 1",
+    "C": "tan x = sin x"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Der Pythagoras der Trigonometrie – immer wahr.",
+    "B": "Nur bei Spezialwinkeln mal zufällig. (Richtig: A)",
+    "C": "Nur wenn x sehr klein und du großzügig bist – offiziell falsch. (Richtig: A)"
+  }
+}
