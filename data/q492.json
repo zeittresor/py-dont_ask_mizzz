@@ -1,14 +1,14 @@
 {
   "question": "Welches Werkzeug ist in der Holzbearbeitung real?",
   "options": {
-    "A": "Schwanzfeder (Zinkenverbindung)",
-    "B": "Drahtwurm",
-    "C": "Kabelkuscheler"
+    "C": "Schwanzfeder (Zinkenverbindung)",
+    "A": "Drahtwurm",
+    "B": "Kabelkuscheler"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Die Schwanzfeder/Zinken ist echte Verbindung – klingt frech, ist handwerklich.",
-    "B": "Drahtwurm kennt die Elektrik, nicht Holz. (Richtig: A)",
-    "C": "Kabelkuscheler ist ein Spitzname, kein Werkzeug. (Richtig: A)"
+    "C": "Richtig. „Schwanzfeder (Zinkenverbindung)“ passt zur Frage.",
+    "A": "Nein. „Drahtwurm“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Schwanzfeder (Zinkenverbindung)“.",
+    "B": "Nein. „Kabelkuscheler“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Schwanzfeder (Zinkenverbindung)“."
   }
 }

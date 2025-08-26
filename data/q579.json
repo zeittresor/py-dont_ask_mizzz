@@ -1,14 +1,14 @@
 {
   "question": "Welche Methode kühlt ein Zimmer tatsächlich?",
   "options": {
-    "A": "Den Kühlschrank offen stehen lassen",
-    "B": "Ein blaues Licht anmachen",
-    "C": "Klimagerät/AC betreiben"
+    "A": "Klimagerät/AC betreiben",
+    "B": "Den Kühlschrank offen stehen lassen",
+    "C": "Ein blaues Licht anmachen"
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Der heizt den Raum insgesamt sogar.",
-    "B": "Farbe hat keine Temperaturwirkung. (Richtig: A)",
-    "C": "Kälte kommt vom Kühlsystem – nicht vom guten Willen. (Richtig: A)"
+    "A": "Richtig. „Klimagerät/AC betreiben“ passt zur Frage.",
+    "B": "Nein. „Den Kühlschrank offen stehen lassen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Klimagerät/AC betreiben“.",
+    "C": "Nein. „Ein blaues Licht anmachen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Klimagerät/AC betreiben“."
   }
 }

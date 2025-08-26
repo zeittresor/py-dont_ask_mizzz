@@ -1,14 +1,14 @@
 {
   "question": "Wer bzw. was gehört als Hauptfigur zu Galaga?",
   "options": {
-    "A": "Sternenjäger",
-    "B": "Bürgermeister:in (du)",
-    "C": "Ryu"
+    "C": "Sternenjäger",
+    "A": "Bürgermeister:in (du)",
+    "B": "Ryu"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Genau – Sternenjäger ist ikonisch für Galaga.",
-    "B": "Nette Figur, aber nicht die Hauptrolle in Galaga. (Richtig: A)",
-    "C": "Klingt vertraut – nur nicht aus Galaga. (Richtig: A)"
+    "C": "Richtig. „Sternenjäger“ passt zur Frage.",
+    "A": "Nein. „Bürgermeister:in (du)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Sternenjäger“.",
+    "B": "Nein. „Ryu“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Sternenjäger“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welche Bemerkung ist harmlos zweideutig, aber nicht anzüglich?",
   "options": {
-    "A": "„Das hat gesessen.“",
-    "B": "„Zeig mir mehr… Beweise.“",
-    "C": "„Du kannst gern… meine Steuer machen.“"
+    "C": "„Das hat gesessen.“",
+    "A": "„Zeig mir mehr... Beweise.“",
+    "B": "„Du kannst gern... meine Steuer machen.“"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Klingt gut – passt fast immer.",
-    "B": "Hm, könnte falsch verstanden werden. (Richtig: A)",
-    "C": "Das ist kein Flirt, das ist Arbeit. (Richtig: A)"
+    "C": "Richtig. „„Das hat gesessen.““ passt zur Frage.",
+    "A": "Nein. „„Zeig mir mehr... Beweise.““ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „„Das hat gesessen.““.",
+    "B": "Nein. „„Du kannst gern... meine Steuer machen.““ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „„Das hat gesessen.““."
   }
 }

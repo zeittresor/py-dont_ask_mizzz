@@ -1,14 +1,14 @@
 {
   "question": "Wer bzw. was gehört als Hauptfigur zu The Legend of Zelda?",
   "options": {
-    "A": "Belmont",
     "B": "Link",
+    "A": "Belmont",
     "C": "Ryu"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Nette Figur, aber nicht die Hauptrolle in The Legend of Zelda.",
-    "B": "Genau – Link ist ikonisch für The Legend of Zelda. (Richtig: A)",
-    "C": "Klingt vertraut – nur nicht aus The Legend of Zelda. (Richtig: A)"
+    "B": "Richtig. „Link“ passt zur Frage.",
+    "A": "Nein. „Belmont“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Link“.",
+    "C": "Nein. „Ryu“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Link“."
   }
 }

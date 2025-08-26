@@ -1,14 +1,14 @@
 {
   "question": "Womit verbindet man die frühe Veröffentlichung/Heimat von Bomberman am ehesten?",
   "options": {
+    "B": "Viele",
     "A": "Mega Drive/Genesis",
-    "B": "MS-DOS",
-    "C": "Viele"
+    "C": "MS-DOS"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Nah dran vielleicht – aber Bomberman ist nicht dafür berühmt.",
-    "B": "Passt hier nicht – andere Ära oder Reihe. (Richtig: A)",
-    "C": "Genau: Bomberman ist früh/klassisch stark mit „Viele“ verknüpft. (Richtig: A)"
+    "B": "Richtig. „Viele“ passt zur Frage.",
+    "A": "Nein. „Mega Drive/Genesis“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Viele“.",
+    "C": "Nein. „MS-DOS“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Viele“."
   }
 }

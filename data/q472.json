@@ -1,14 +1,14 @@
 {
   "question": "Welche Pluralform ist korrekt?",
   "options": {
-    "A": "Atlanten (für Kartenwerke)",
-    "B": "Atlasen",
-    "C": "Atlassen"
+    "C": "Atlanten (für Kartenwerke)",
+    "A": "Atlasen",
+    "B": "Atlassen"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Ja, Atlanten – fiese Ausnahme.",
-    "B": "So nicht gebräuchlich. (Richtig: A)",
-    "C": "So auch nicht. (Richtig: A)"
+    "C": "Richtig. „Atlanten (für Kartenwerke)“ passt zur Frage.",
+    "A": "Nein. „Atlasen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Atlanten (für Kartenwerke)“.",
+    "B": "Nein. „Atlassen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Atlanten (für Kartenwerke)“."
   }
 }

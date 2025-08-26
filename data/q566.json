@@ -1,14 +1,14 @@
 {
   "question": "Welche Kurzbeschreibung passt am besten zu Wolfenstein 3D?",
   "options": {
+    "C": "Früher Egoshooter im Labyrinth",
     "A": "Filmreife Animation per Rotoskopie",
-    "B": "Früher Egoshooter im Labyrinth",
-    "C": "Reihenweise Aliens rücken nach unten"
+    "B": "Reihenweise Aliens rücken nach unten"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Das beschreibt ein anderes Spiel.",
-    "B": "Korrekt – das ist Wolfenstein 3D in einem Satz. (Richtig: A)",
-    "C": "Nope – falsche Assoziation. (Richtig: A)"
+    "C": "Richtig. „Früher Egoshooter im Labyrinth“ passt zur Frage.",
+    "A": "Nein. „Filmreife Animation per Rotoskopie“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Früher Egoshooter im Labyrinth“.",
+    "B": "Nein. „Reihenweise Aliens rücken nach unten“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Früher Egoshooter im Labyrinth“."
   }
 }

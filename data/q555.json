@@ -1,14 +1,14 @@
 {
   "question": "Womit verbindet man die frühe Veröffentlichung/Heimat von Wolfenstein 3D am ehesten?",
   "options": {
-    "A": "Mega Drive/Genesis",
-    "B": "MS-DOS",
+    "A": "MS-DOS",
+    "B": "Mega Drive/Genesis",
     "C": "PC"
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Nah dran vielleicht – aber Wolfenstein 3D ist nicht dafür berühmt.",
-    "B": "Genau: Wolfenstein 3D ist früh/klassisch stark mit „MS-DOS“ verknüpft. (Richtig: A)",
-    "C": "Passt hier nicht – andere Ära oder Reihe. (Richtig: A)"
+    "A": "Richtig. „MS-DOS“ passt zur Frage.",
+    "B": "Nein. „Mega Drive/Genesis“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „MS-DOS“.",
+    "C": "Nein. „PC“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „MS-DOS“."
   }
 }

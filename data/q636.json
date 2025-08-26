@@ -1,14 +1,14 @@
 {
   "question": "Was ist die charmanteste Art, jemandem zu signalisieren, dass die Antwort korrekt war?",
   "options": {
-    "A": "Ein freches 'Genau so!'",
-    "B": "Ein 17-seitiges Gutachten",
+    "B": "Ein freches 'Genau so!'",
+    "A": "Ein 17-seitiges Gutachten",
     "C": "Dreimaliges Räuspern"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Kurz, warm, positiv – ohne Kitsch.",
-    "B": "Korrekt, aber… unflirty. (Richtig: A)",
-    "C": "Wirkt eher wie Krümel im Hals. (Richtig: A)"
+    "B": "Richtig. „Ein freches 'Genau so!'“ passt zur Frage.",
+    "A": "Nein. „Ein 17-seitiges Gutachten“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Ein freches 'Genau so!'“.",
+    "C": "Nein. „Dreimaliges Räuspern“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Ein freches 'Genau so!'“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Was vermeidet Kaffeeflecken am besten?",
   "options": {
-    "A": "Deckel/Becher mit Deckel",
-    "B": "Weißes Hemd anziehen",
-    "C": "Tasse schräg in der Hosentasche tragen"
+    "C": "Deckel/Becher mit Deckel",
+    "A": "Weißes Hemd anziehen",
+    "B": "Tasse schräg in der Hosentasche tragen"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Verschütten erschwert.",
-    "B": "Das lädt Flecken ein. (Richtig: A)",
-    "C": "Das lädt Katastrophen ein. (Richtig: A)"
+    "C": "Richtig. „Deckel/Becher mit Deckel“ passt zur Frage.",
+    "A": "Nein. „Weißes Hemd anziehen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Deckel/Becher mit Deckel“.",
+    "B": "Nein. „Tasse schräg in der Hosentasche tragen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Deckel/Becher mit Deckel“."
   }
 }

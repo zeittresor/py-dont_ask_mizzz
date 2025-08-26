@@ -1,14 +1,14 @@
 {
   "question": "Zu welchem Hersteller/Studio gehört The Legend of Zelda ursprünglich am ehesten?",
   "options": {
-    "A": "Nintendo",
-    "B": "Lucasfilm Games",
+    "B": "Nintendo",
+    "A": "Lucasfilm Games",
     "C": "Namco"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt: The Legend of Zelda wird klassisch mit Nintendo verbunden.",
-    "B": "Nein – The Legend of Zelda gehört nicht zu diesem Publisher/Studio. (Richtig: A)",
-    "C": "Diese Firma steht eher für andere Klassiker, nicht für The Legend of Zelda. (Richtig: A)"
+    "B": "Richtig. „Nintendo“ passt zur Frage.",
+    "A": "Nein. „Lucasfilm Games“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Nintendo“.",
+    "C": "Nein. „Namco“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Nintendo“."
   }
 }

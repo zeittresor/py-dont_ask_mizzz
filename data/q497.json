@@ -1,14 +1,14 @@
 {
   "question": "Welche Struktur eignet sich für Prioritäten-Jobs?",
   "options": {
-    "A": "Heap/Priority Queue",
-    "B": "Set ohne Ordnung",
-    "C": "Ein einfaches LIFO-Stack"
+    "C": "Heap/Priority Queue",
+    "A": "Set ohne Ordnung",
+    "B": "Ein einfaches LIFO-Stack"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Heaps wissen, wer wichtiger ist – die Drama-Queens zuerst.",
-    "B": "Set hat keine Reihenfolge – Party ohne DJ. (Richtig: A)",
-    "C": "Stack kennt nur 'neu zuerst' – nicht nach Wichtigkeit. (Richtig: A)"
+    "C": "Richtig. „Heap/Priority Queue“ passt zur Frage.",
+    "A": "Nein. „Set ohne Ordnung“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Heap/Priority Queue“.",
+    "B": "Nein. „Ein einfaches LIFO-Stack“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Heap/Priority Queue“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welche Maßnahme reduziert Lärm wirklich?",
   "options": {
-    "A": "Schreien, dass es leiser sein soll",
-    "B": "Mehr Spiegel aufhängen",
-    "C": "Dämmmaterial anbringen"
+    "A": "Dämmmaterial anbringen",
+    "B": "Schreien, dass es leiser sein soll",
+    "C": "Mehr Spiegel aufhängen"
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Ironie-Overkill.",
-    "B": "Spiegel reflektieren Licht, nicht Schalldruck. (Richtig: A)",
-    "C": "Physik gewinnt – Absorption/Sperre. (Richtig: A)"
+    "A": "Richtig. „Dämmmaterial anbringen“ passt zur Frage.",
+    "B": "Nein. „Schreien, dass es leiser sein soll“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Dämmmaterial anbringen“.",
+    "C": "Nein. „Mehr Spiegel aufhängen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Dämmmaterial anbringen“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welche Reaktion ist freundlich nach einer falschen Antwort?",
   "options": {
-    "A": "„Das war… interessant.“ mit Augenrollen",
     "B": "„Alles gut, weiter geht’s.“",
+    "A": "„Das war... interessant.“ mit Augenrollen",
     "C": "„So falsch, ich ruf deine Eltern an.“"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Passiv-aggressiv.",
-    "B": "Respektvoll, leicht, motivierend. (Richtig: A)",
-    "C": "Nope. (Richtig: A)"
+    "B": "Richtig. „„Alles gut, weiter geht’s.““ passt zur Frage.",
+    "A": "Nein. „„Das war... interessant.“ mit Augenrollen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „„Alles gut, weiter geht’s.““.",
+    "C": "Nein. „„So falsch, ich ruf deine Eltern an.““ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „„Alles gut, weiter geht’s.““."
   }
 }

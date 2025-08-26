@@ -1,14 +1,14 @@
 {
   "question": "Zu welchem Hersteller/Studio gehört SimCity ursprünglich am ehesten?",
   "options": {
-    "A": "Konami",
-    "B": "Lucasfilm Games",
-    "C": "Maxis"
+    "A": "Maxis",
+    "B": "Konami",
+    "C": "Lucasfilm Games"
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Nein – SimCity gehört nicht zu diesem Publisher/Studio.",
-    "B": "Diese Firma steht eher für andere Klassiker, nicht für SimCity. (Richtig: A)",
-    "C": "Korrekt: SimCity wird klassisch mit Maxis verbunden. (Richtig: A)"
+    "A": "Richtig. „Maxis“ passt zur Frage.",
+    "B": "Nein. „Konami“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Maxis“.",
+    "C": "Nein. „Lucasfilm Games“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Maxis“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Wie kommst du am sichersten trocken nach Hause?",
   "options": {
+    "C": "Regenschirm benutzen",
     "A": "Regen verhandeln",
-    "B": "Den Regen anschreien",
-    "C": "Regenschirm benutzen"
+    "B": "Den Regen anschreien"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Er lässt sich ungern umstimmen.",
-    "B": "Pädagogisch schwierig. (Richtig: A)",
-    "C": "Altmodisch, aber effektiv. (Richtig: A)"
+    "C": "Richtig. „Regenschirm benutzen“ passt zur Frage.",
+    "A": "Nein. „Regen verhandeln“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Regenschirm benutzen“.",
+    "B": "Nein. „Den Regen anschreien“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Regenschirm benutzen“."
   }
 }

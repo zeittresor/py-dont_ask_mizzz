@@ -1,14 +1,14 @@
 {
   "question": "Welche Kurzbeschreibung passt am besten zu Castlevania?",
   "options": {
+    "B": "Vampirjagd, Peitsche, Dracula",
     "A": "Städtebau, Zonen & Strom",
-    "B": "Labyrinthe sprengen",
-    "C": "Vampirjagd, Peitsche, Dracula"
+    "C": "Labyrinthe sprengen"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Nope – falsche Assoziation.",
-    "B": "Das beschreibt ein anderes Spiel. (Richtig: A)",
-    "C": "Korrekt – das ist Castlevania in einem Satz. (Richtig: A)"
+    "B": "Richtig. „Vampirjagd, Peitsche, Dracula“ passt zur Frage.",
+    "A": "Nein. „Städtebau, Zonen & Strom“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Vampirjagd, Peitsche, Dracula“.",
+    "C": "Nein. „Labyrinthe sprengen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Vampirjagd, Peitsche, Dracula“."
   }
 }

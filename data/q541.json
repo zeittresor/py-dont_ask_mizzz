@@ -1,14 +1,14 @@
 {
   "question": "Wer bzw. was gehört als Hauptfigur zu Prince of Persia (1989)?",
   "options": {
+    "C": "Der namenlose Prinz",
     "A": "Bürgermeister:in (du)",
-    "B": "Der namenlose Prinz",
-    "C": "Space Marine (Doomguy)"
+    "B": "Space Marine (Doomguy)"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Klingt vertraut – nur nicht aus Prince of Persia (1989).",
-    "B": "Genau – Der namenlose Prinz ist ikonisch für Prince of Persia (1989). (Richtig: A)",
-    "C": "Nette Figur, aber nicht die Hauptrolle in Prince of Persia (1989). (Richtig: A)"
+    "C": "Richtig. „Der namenlose Prinz“ passt zur Frage.",
+    "A": "Nein. „Bürgermeister:in (du)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Der namenlose Prinz“.",
+    "B": "Nein. „Space Marine (Doomguy)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Der namenlose Prinz“."
   }
 }

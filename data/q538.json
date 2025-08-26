@@ -1,14 +1,14 @@
 {
   "question": "Wer bzw. was gehört als Hauptfigur zu Street Fighter II?",
   "options": {
-    "A": "Ryu",
-    "B": "Bomberman",
+    "B": "Ryu",
+    "A": "Bomberman",
     "C": "Bürgermeister:in (du)"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Genau – Ryu ist ikonisch für Street Fighter II.",
-    "B": "Klingt vertraut – nur nicht aus Street Fighter II. (Richtig: A)",
-    "C": "Nette Figur, aber nicht die Hauptrolle in Street Fighter II. (Richtig: A)"
+    "B": "Richtig. „Ryu“ passt zur Frage.",
+    "A": "Nein. „Bomberman“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Ryu“.",
+    "C": "Nein. „Bürgermeister:in (du)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Ryu“."
   }
 }

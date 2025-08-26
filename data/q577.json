@@ -1,14 +1,14 @@
 {
   "question": "Wie erzeugst du zuverlässig runden Toast?",
   "options": {
-    "A": "Rundes Brot toasten",
-    "B": "Eckiges Brot mit Zirkel zeichnen",
-    "C": "Quadrat toasten und an den Ecken pusten"
+    "C": "Rundes Brot toasten",
+    "A": "Eckiges Brot mit Zirkel zeichnen",
+    "B": "Quadrat toasten und an den Ecken pusten"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Form folgt Vorlage – crazy, ich weiß.",
-    "B": "Der Toaster versteht Zirkel nicht. (Richtig: A)",
-    "C": "Aerodynamik hilft hier nicht. (Richtig: A)"
+    "C": "Richtig. „Rundes Brot toasten“ passt zur Frage.",
+    "A": "Nein. „Eckiges Brot mit Zirkel zeichnen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Rundes Brot toasten“.",
+    "B": "Nein. „Quadrat toasten und an den Ecken pusten“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Rundes Brot toasten“."
   }
 }

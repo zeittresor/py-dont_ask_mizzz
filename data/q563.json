@@ -1,14 +1,14 @@
 {
   "question": "Welche Kurzbeschreibung passt am besten zu The Secret of Monkey Island?",
   "options": {
-    "A": "Piraten-Adventure, Dialogwitz",
-    "B": "Hadouken, Combos, World Warriors",
+    "B": "Piraten-Adventure, Dialogwitz",
+    "A": "Hadouken, Combos, World Warriors",
     "C": "Digitales Tischtennis"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt – das ist The Secret of Monkey Island in einem Satz.",
-    "B": "Das beschreibt ein anderes Spiel. (Richtig: A)",
-    "C": "Nope – falsche Assoziation. (Richtig: A)"
+    "B": "Richtig. „Piraten-Adventure, Dialogwitz“ ist ein Land – genau das wird gefragt.",
+    "A": "Nein. „Hadouken, Combos, World Warriors“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Land). Richtig ist B – „Piraten-Adventure, Dialogwitz“.",
+    "C": "Nein. „Digitales Tischtennis“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Land). Richtig ist B – „Piraten-Adventure, Dialogwitz“."
   }
 }

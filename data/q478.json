@@ -1,14 +1,14 @@
 {
   "question": "Welche Hauptstadt gehört zu Kanada?",
   "options": {
-    "A": "Ottawa",
-    "B": "Toronto",
+    "B": "Ottawa",
+    "A": "Toronto",
     "C": "Vancouver"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Ottawa ist die Schaltzentrale – Toronto ist größer, aber nicht Hauptstadt.",
-    "B": "Toronto: groß, lebhaft, aber nicht Regierungssitz. (Richtig: A)",
-    "C": "Vancouver: schön, aber westlich entspannt. (Richtig: A)"
+    "B": "Richtig. „Ottawa“ ist die gesuchte Hauptstadt.",
+    "A": "Nein. „Toronto“ ist hier nicht die Hauptstadt von . Richtig ist B – „Ottawa“.",
+    "C": "Nein. „Vancouver“ ist hier nicht die Hauptstadt von . Richtig ist B – „Ottawa“."
   }
 }

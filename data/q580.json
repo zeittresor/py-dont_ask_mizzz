@@ -1,14 +1,14 @@
 {
   "question": "Wie vermeidest du 100% sicher Missverständnisse in einem Chat?",
   "options": {
-    "A": "Du kannst es nicht 100% – aber du kannst klar & freundlich sein",
-    "B": "ALLES IN GROSSSCHRIFT!!",
-    "C": "Nur Emojis senden"
+    "C": "Du kannst es nicht 100% – aber du kannst klar & freundlich sein",
+    "A": "ALLES IN GROSSSCHRIFT!!",
+    "B": "Nur Emojis senden"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Menschen bleiben Menschen – aber Klarheit hilft.",
-    "B": "Wirkt wie Anschreien. (Richtig: A)",
-    "C": "🧠❓ (Richtig: A)"
+    "C": "Richtig. „Du kannst es nicht 100% – aber du kannst klar & freundlich sein“ passt zur Frage.",
+    "A": "Nein. „ALLES IN GROSSSCHRIFT!!“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Du kannst es nicht 100% – aber du kannst klar & freundlich sein“.",
+    "B": "Nein. „Nur Emojis senden“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Du kannst es nicht 100% – aber du kannst klar & freundlich sein“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welche Kurzbeschreibung passt am besten zu Galaga?",
   "options": {
-    "A": "Labyrinthe sprengen",
     "B": "Shoot ’em up mit Formationsangriffen",
+    "A": "Labyrinthe sprengen",
     "C": "Sci-Fi, Erkundung, Backtracking"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Nope – falsche Assoziation.",
-    "B": "Korrekt – das ist Galaga in einem Satz. (Richtig: A)",
-    "C": "Das beschreibt ein anderes Spiel. (Richtig: A)"
+    "B": "Richtig. „Shoot ’em up mit Formationsangriffen“ passt zur Frage.",
+    "A": "Nein. „Labyrinthe sprengen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Shoot ’em up mit Formationsangriffen“.",
+    "C": "Nein. „Sci-Fi, Erkundung, Backtracking“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Shoot ’em up mit Formationsangriffen“."
   }
 }

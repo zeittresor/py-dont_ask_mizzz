@@ -1,14 +1,14 @@
 {
   "question": "Womit verbindet man die frühe Veröffentlichung/Heimat von Metroid am ehesten?",
   "options": {
+    "B": "NES",
     "A": "SNES",
-    "B": "MS-DOS",
-    "C": "NES"
+    "C": "MS-DOS"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Passt hier nicht – andere Ära oder Reihe.",
-    "B": "Nah dran vielleicht – aber Metroid ist nicht dafür berühmt. (Richtig: A)",
-    "C": "Genau: Metroid ist früh/klassisch stark mit „NES“ verknüpft. (Richtig: A)"
+    "B": "Richtig. „NES“ passt zur Frage.",
+    "A": "Nein. „SNES“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „NES“.",
+    "C": "Nein. „MS-DOS“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „NES“."
   }
 }

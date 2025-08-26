@@ -1,14 +1,14 @@
 {
   "question": "Wie hältst du Essen im Kühlschrank frisch?",
   "options": {
-    "A": "Tür offen lassen für Frischluft",
-    "B": "In Boxen abdecken",
+    "A": "In Boxen abdecken",
+    "B": "Tür offen lassen für Frischluft",
     "C": "Mit dem Föhn kalt pusten"
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Dann ist es kein Kühlschrank mehr.",
-    "B": "Weniger Austrocknen & Gerüche. (Richtig: A)",
-    "C": "Physikalisch … nein. (Richtig: A)"
+    "A": "Richtig. „In Boxen abdecken“ passt zur Frage.",
+    "B": "Nein. „Tür offen lassen für Frischluft“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „In Boxen abdecken“.",
+    "C": "Nein. „Mit dem Föhn kalt pusten“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „In Boxen abdecken“."
   }
 }

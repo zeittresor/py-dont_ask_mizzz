@@ -1,14 +1,14 @@
 {
   "question": "Zu welchem Hersteller/Studio gehört Metroid ursprünglich am ehesten?",
   "options": {
-    "A": "id Software",
-    "B": "Nintendo",
+    "A": "Nintendo",
+    "B": "id Software",
     "C": "Alexei Pajitnow"
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Diese Firma steht eher für andere Klassiker, nicht für Metroid.",
-    "B": "Korrekt: Metroid wird klassisch mit Nintendo verbunden. (Richtig: A)",
-    "C": "Nein – Metroid gehört nicht zu diesem Publisher/Studio. (Richtig: A)"
+    "A": "Richtig. „Nintendo“ passt zur Frage.",
+    "B": "Nein. „id Software“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Nintendo“.",
+    "C": "Nein. „Alexei Pajitnow“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Nintendo“."
   }
 }

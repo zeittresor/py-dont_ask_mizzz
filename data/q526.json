@@ -1,14 +1,14 @@
 {
   "question": "In welches Jahrzehnt fällt die (Erst-)Veröffentlichung von Space Invaders?",
   "options": {
+    "B": "1970er",
     "A": "1980er",
-    "B": "1990er",
-    "C": "1970er"
+    "C": "1990er"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Auch daneben – Space Invaders stammt nicht aus den 1980er.",
-    "B": "Zu früh/spät: Space Invaders passt nicht in die 1990er. (Richtig: A)",
-    "C": "Yep – Space Invaders kam in den 1970er auf die Welt. (Richtig: A)"
+    "B": "Richtig. „1970er“ ist ein Jahr – genau das wird gefragt.",
+    "A": "Nein. „1980er“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Jahr). Richtig ist B – „1970er“.",
+    "C": "Nein. „1990er“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Jahr). Richtig ist B – „1970er“."
   }
 }

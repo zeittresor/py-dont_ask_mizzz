@@ -1,14 +1,14 @@
 {
   "question": "Welche Wortwahl ist flirty, aber bleibt höflich?",
   "options": {
-    "A": "„Ich würd’ dich gern… verbessern.“",
-    "B": "„Dein Körper… äh, dein Diagramm ist heiß.“",
-    "C": "„Dein Hirn glitzert gerade.“"
+    "B": "„Dein Hirn glitzert gerade.“",
+    "A": "„Ich würd’ dich gern... verbessern.“",
+    "C": "„Dein Körper... äh, dein Diagramm ist heiß.“"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Klingt manipulativ, nicht charmant.",
-    "B": "Nope, Körperkommentare lassen wir. (Richtig: A)",
-    "C": "Kompliment fürs Denken – unbedenklich süß. (Richtig: A)"
+    "B": "Richtig. „„Dein Hirn glitzert gerade.““ passt zur Frage.",
+    "A": "Nein. „„Ich würd’ dich gern... verbessern.““ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „„Dein Hirn glitzert gerade.““.",
+    "C": "Nein. „„Dein Körper... äh, dein Diagramm ist heiß.““ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „„Dein Hirn glitzert gerade.““."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Was ist echte Energiezufuhr?",
   "options": {
-    "A": "Einen Sonnenstrahl anschauen",
     "B": "Kalorien essen",
+    "A": "Einen Sonnenstrahl anschauen",
     "C": "Einen Akku auf die Stirn legen"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Sehen lädt Menschen nicht auf.",
-    "B": "Chemische Energie rein – basic Physio. (Richtig: A)",
-    "C": "Placebo für Cyborgs. (Richtig: A)"
+    "B": "Richtig. „Kalorien essen“ passt zur Frage.",
+    "A": "Nein. „Einen Sonnenstrahl anschauen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Kalorien essen“.",
+    "C": "Nein. „Einen Akku auf die Stirn legen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Kalorien essen“."
   }
 }

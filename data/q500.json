@@ -1,14 +1,14 @@
 {
   "question": "Was ist eine Astronomische Einheit (AU)?",
   "options": {
-    "A": "Mittlerer Abstand Erde–Sonne",
-    "B": "Durchmesser der Erde",
-    "C": "Lichtgeschwindigkeit pro Stunde"
+    "C": "Mittlerer Abstand Erde–Sonne",
+    "A": "Durchmesser der Erde",
+    "B": "Lichtgeschwindigkeit pro Stunde"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Etwa 149,6 Mio. km – unsere kosmische Hausnummer.",
-    "B": "Das ist ein ganz anderer Wert. (Richtig: A)",
-    "C": "c/h ist eine Geschwindigkeit, nicht eine Einheit der Länge. (Richtig: A)"
+    "C": "Richtig. „Mittlerer Abstand Erde–Sonne“ passt zur Frage.",
+    "A": "Nein. „Durchmesser der Erde“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Mittlerer Abstand Erde–Sonne“.",
+    "B": "Nein. „Lichtgeschwindigkeit pro Stunde“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Mittlerer Abstand Erde–Sonne“."
   }
 }

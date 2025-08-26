@@ -1,14 +1,14 @@
 {
   "question": "Wer bzw. was gehört als Hauptfigur zu Tetris?",
   "options": {
-    "A": "Falling Blocks",
-    "B": "Bürgermeister:in (du)",
+    "B": "Falling Blocks",
+    "A": "Bürgermeister:in (du)",
     "C": "Sternenjäger"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Genau – Falling Blocks ist ikonisch für Tetris.",
-    "B": "Klingt vertraut – nur nicht aus Tetris. (Richtig: A)",
-    "C": "Nette Figur, aber nicht die Hauptrolle in Tetris. (Richtig: A)"
+    "B": "Richtig. „Falling Blocks“ passt zur Frage.",
+    "A": "Nein. „Bürgermeister:in (du)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Falling Blocks“.",
+    "C": "Nein. „Sternenjäger“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Falling Blocks“."
   }
 }

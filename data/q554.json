@@ -1,14 +1,14 @@
 {
   "question": "Womit verbindet man die frühe Veröffentlichung/Heimat von Space Invaders am ehesten?",
   "options": {
+    "C": "Arcade",
     "A": "SNES",
-    "B": "NES",
-    "C": "Arcade"
+    "B": "NES"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Passt hier nicht – andere Ära oder Reihe.",
-    "B": "Nah dran vielleicht – aber Space Invaders ist nicht dafür berühmt. (Richtig: A)",
-    "C": "Genau: Space Invaders ist früh/klassisch stark mit „Arcade“ verknüpft. (Richtig: A)"
+    "C": "Richtig. „Arcade“ passt zur Frage.",
+    "A": "Nein. „SNES“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Arcade“.",
+    "B": "Nein. „NES“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Arcade“."
   }
 }

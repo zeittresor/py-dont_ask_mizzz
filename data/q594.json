@@ -1,14 +1,14 @@
 {
   "question": "Welche Methode beruhigt einen Rauchmelder legitimerweise?",
   "options": {
+    "C": "Batterie wechseln / Ursache beheben",
     "A": "Mit Toastbrotscheiben füttern",
-    "B": "Batterie wechseln / Ursache beheben",
-    "C": "Mit Topflappen draufhauen"
+    "B": "Mit Topflappen draufhauen"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Er isst nicht.",
-    "B": "Sicherheit first. (Richtig: A)",
-    "C": "Bringt nix und ist laut. (Richtig: A)"
+    "C": "Richtig. „Batterie wechseln / Ursache beheben“ passt zur Frage.",
+    "A": "Nein. „Mit Toastbrotscheiben füttern“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Batterie wechseln / Ursache beheben“.",
+    "B": "Nein. „Mit Topflappen draufhauen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Batterie wechseln / Ursache beheben“."
   }
 }

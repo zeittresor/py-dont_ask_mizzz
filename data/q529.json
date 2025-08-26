@@ -1,14 +1,14 @@
 {
   "question": "In welches Jahrzehnt fällt die (Erst-)Veröffentlichung von Street Fighter II?",
   "options": {
-    "A": "1990er",
-    "B": "1970er",
+    "B": "1990er",
+    "A": "1970er",
     "C": "1980er"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Yep – Street Fighter II kam in den 1990er auf die Welt.",
-    "B": "Zu früh/spät: Street Fighter II passt nicht in die 1970er. (Richtig: A)",
-    "C": "Auch daneben – Street Fighter II stammt nicht aus den 1980er. (Richtig: A)"
+    "B": "Richtig. „1990er“ ist ein Jahr – genau das wird gefragt.",
+    "A": "Nein. „1970er“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Jahr). Richtig ist B – „1990er“.",
+    "C": "Nein. „1980er“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Jahr). Richtig ist B – „1990er“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welche Kurzbeschreibung passt am besten zu Street Fighter II?",
   "options": {
-    "A": "Beat ’em up im Seitenlauf",
     "B": "Hadouken, Combos, World Warriors",
+    "A": "Beat ’em up im Seitenlauf",
     "C": "Früher Egoshooter im Labyrinth"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Das beschreibt ein anderes Spiel.",
-    "B": "Korrekt – das ist Street Fighter II in einem Satz. (Richtig: A)",
-    "C": "Nope – falsche Assoziation. (Richtig: A)"
+    "B": "Richtig. „Hadouken, Combos, World Warriors“ passt zur Frage.",
+    "A": "Nein. „Beat ’em up im Seitenlauf“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Hadouken, Combos, World Warriors“.",
+    "C": "Nein. „Früher Egoshooter im Labyrinth“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Hadouken, Combos, World Warriors“."
   }
 }

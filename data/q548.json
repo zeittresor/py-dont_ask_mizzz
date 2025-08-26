@@ -1,14 +1,14 @@
 {
   "question": "Wer bzw. was gehört als Hauptfigur zu Super Mario Bros.?",
   "options": {
-    "A": "Sternenjäger",
-    "B": "Der namenlose Prinz",
-    "C": "Mario"
+    "A": "Mario",
+    "B": "Sternenjäger",
+    "C": "Der namenlose Prinz"
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Nette Figur, aber nicht die Hauptrolle in Super Mario Bros..",
-    "B": "Klingt vertraut – nur nicht aus Super Mario Bros.. (Richtig: A)",
-    "C": "Genau – Mario ist ikonisch für Super Mario Bros.. (Richtig: A)"
+    "A": "Richtig. „Mario“ passt zur Frage.",
+    "B": "Nein. „Sternenjäger“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Mario“.",
+    "C": "Nein. „Der namenlose Prinz“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Mario“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Was misst ein Barometer?",
   "options": {
-    "A": "Luftdruck",
-    "B": "Luftfeuchtigkeit",
-    "C": "Temperatur"
+    "C": "Luftdruck",
+    "A": "Luftfeuchtigkeit",
+    "B": "Temperatur"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Druck am Himmel. Dein Knie spürt’s manchmal zuerst.",
-    "B": "Feuchte misst das Hygrometer – schwitzige Nummer. (Richtig: A)",
-    "C": "Temperatur misst das Thermometer – klassischer Fieberfreund. (Richtig: A)"
+    "C": "Richtig. „Luftdruck“ passt zur Frage.",
+    "A": "Nein. „Luftfeuchtigkeit“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Luftdruck“.",
+    "B": "Nein. „Temperatur“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Luftdruck“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Zu welchem Hersteller/Studio gehört The Secret of Monkey Island ursprünglich am ehesten?",
   "options": {
+    "C": "Lucasfilm Games",
     "A": "Maxis",
-    "B": "Capcom",
-    "C": "Lucasfilm Games"
+    "B": "Capcom"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Nein – The Secret of Monkey Island gehört nicht zu diesem Publisher/Studio.",
-    "B": "Diese Firma steht eher für andere Klassiker, nicht für The Secret of Monkey Island. (Richtig: A)",
-    "C": "Korrekt: The Secret of Monkey Island wird klassisch mit Lucasfilm Games verbunden. (Richtig: A)"
+    "C": "Richtig. „Lucasfilm Games“ ist ein Land – genau das wird gefragt.",
+    "A": "Nein. „Maxis“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Land). Richtig ist C – „Lucasfilm Games“.",
+    "B": "Nein. „Capcom“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Land). Richtig ist C – „Lucasfilm Games“."
   }
 }

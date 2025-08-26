@@ -1,14 +1,14 @@
 {
   "question": "Welcher Spruch bleibt spielerisch, ohne Grenzen zu übertreten?",
   "options": {
-    "A": "„Ich geb dir ’nen Kuss…code.“",
-    "B": "„Komm her, du Genie, ich…“",
-    "C": "„Heißer Tipp – und er war richtig.“"
+    "C": "„Heißer Tipp – und er war richtig.“",
+    "A": "„Ich geb dir ’nen Kuss...code.“",
+    "B": "„Komm her, du Genie, ich...“"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Auch zu suggestiv.",
-    "B": "Stopp, zu viel. (Richtig: A)",
-    "C": "Wortspiel, aber PG. (Richtig: A)"
+    "C": "Richtig. „„Heißer Tipp – und er war richtig.““ passt zur Frage.",
+    "A": "Nein. „„Ich geb dir ’nen Kuss...code.““ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „„Heißer Tipp – und er war richtig.““.",
+    "B": "Nein. „„Komm her, du Genie, ich...““ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „„Heißer Tipp – und er war richtig.““."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welche Kurzbeschreibung passt am besten zu Prince of Persia (1989)?",
   "options": {
-    "A": "Sci-Fi, Erkundung, Backtracking",
-    "B": "Shoot ’em up mit Formationsangriffen",
-    "C": "Filmreife Animation per Rotoskopie"
+    "A": "Filmreife Animation per Rotoskopie",
+    "B": "Sci-Fi, Erkundung, Backtracking",
+    "C": "Shoot ’em up mit Formationsangriffen"
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Das beschreibt ein anderes Spiel.",
-    "B": "Nope – falsche Assoziation. (Richtig: A)",
-    "C": "Korrekt – das ist Prince of Persia (1989) in einem Satz. (Richtig: A)"
+    "A": "Richtig. „Filmreife Animation per Rotoskopie“ passt zur Frage.",
+    "B": "Nein. „Sci-Fi, Erkundung, Backtracking“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Filmreife Animation per Rotoskopie“.",
+    "C": "Nein. „Shoot ’em up mit Formationsangriffen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Filmreife Animation per Rotoskopie“."
   }
 }

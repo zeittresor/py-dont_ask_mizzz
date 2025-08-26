@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage ist korrekt?",
+  "options": {
+    "A": "Die Erde rotiert von West nach Ost",
+    "B": "Schatten sind Lichtquellen",
+    "C": "Schall ist schneller als Licht"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Richtig. „Die Erde rotiert von West nach Ost“ passt zur Frage.",
+    "B": "Nein. „Schatten sind Lichtquellen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Die Erde rotiert von West nach Ost“.",
+    "C": "Nein. „Schall ist schneller als Licht“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Die Erde rotiert von West nach Ost“."
+  }
+}

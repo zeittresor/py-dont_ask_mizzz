@@ -1,14 +1,14 @@
 {
   "question": "Welche Sprache kompiliert typischerweise zu JVM-Bytecode (neben Java)?",
   "options": {
-    "A": "Kotlin",
-    "B": "C",
-    "C": "Rust"
+    "C": "Kotlin",
+    "A": "C",
+    "B": "Rust"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Kotlin läuft super auf der JVM – und mag Nulls lieber mit Sicherheitsgurt.",
-    "B": "C ist Kompilat fürs OS – keine JVM. (Richtig: A)",
-    "C": "Rust kompiliert nativ – ohne JVM-Schlenker. (Richtig: A)"
+    "C": "Richtig. „Kotlin“ passt zur Frage.",
+    "A": "Nein. „C“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Kotlin“.",
+    "B": "Nein. „Rust“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Kotlin“."
   }
 }

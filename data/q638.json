@@ -1,14 +1,14 @@
 {
   "question": "Welche Geste ist in Ordnung, wenn jemand eine richtige Antwort liefert?",
   "options": {
-    "A": "Lippen schürzen und pfeifen",
-    "B": "Daumen hoch",
+    "A": "Daumen hoch",
+    "B": "Lippen schürzen und pfeifen",
     "C": "Augenzwinkern + Schnalzen"
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Kann unangemessen wirken.",
-    "B": "Universell verständlich – und safe. (Richtig: A)",
-    "C": "Zu viel Boulevard. (Richtig: A)"
+    "A": "Richtig. „Daumen hoch“ passt zur Frage.",
+    "B": "Nein. „Lippen schürzen und pfeifen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Daumen hoch“.",
+    "C": "Nein. „Augenzwinkern + Schnalzen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Daumen hoch“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Zu welchem Hersteller/Studio gehört Prince of Persia (1989) ursprünglich am ehesten?",
   "options": {
-    "A": "Taito",
     "B": "Broderbund/Jordan Mechner",
+    "A": "Taito",
     "C": "Namco"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Diese Firma steht eher für andere Klassiker, nicht für Prince of Persia (1989).",
-    "B": "Korrekt: Prince of Persia (1989) wird klassisch mit Broderbund/Jordan Mechner verbunden. (Richtig: A)",
-    "C": "Nein – Prince of Persia (1989) gehört nicht zu diesem Publisher/Studio. (Richtig: A)"
+    "B": "Richtig. „Broderbund/Jordan Mechner“ passt zur Frage.",
+    "A": "Nein. „Taito“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Broderbund/Jordan Mechner“.",
+    "C": "Nein. „Namco“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Broderbund/Jordan Mechner“."
   }
 }

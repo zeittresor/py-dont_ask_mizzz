@@ -1,14 +1,14 @@
 {
   "question": "Zu welchem Hersteller/Studio gehört Double Dragon ursprünglich am ehesten?",
   "options": {
-    "A": "Technōs Japan",
-    "B": "Nintendo",
-    "C": "id Software"
+    "C": "Technōs Japan",
+    "A": "Nintendo",
+    "B": "id Software"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt: Double Dragon wird klassisch mit Technōs Japan verbunden.",
-    "B": "Nein – Double Dragon gehört nicht zu diesem Publisher/Studio. (Richtig: A)",
-    "C": "Diese Firma steht eher für andere Klassiker, nicht für Double Dragon. (Richtig: A)"
+    "C": "Richtig. „Technōs Japan“ passt zur Frage.",
+    "A": "Nein. „Nintendo“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Technōs Japan“.",
+    "B": "Nein. „id Software“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Technōs Japan“."
   }
 }
