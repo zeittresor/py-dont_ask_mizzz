@@ -6,7 +6,7 @@ daher ist es vielleicht nicht ganz abwegig ein Spiel erstellen zu lassen das euc
 läßt, offline läuft und dennoch eine Sprachausgabe (und zwar die eingebaute von Windows) verwendet.
 
 Die Fragen sind zwar weitestgehend optimiert aber dennoch können sich natürlich Fehler eingeschlichen haben
-sofern irgendeine der LLMs holloziniert hat :-) Also bitte nicht so "ganz" ernst nehmen wenn irgendwas nicht stimmt
+sofern irgendeine der LLMs halloziniert hat :-) Also bitte nicht so "ganz" ernst nehmen wenn irgendwas nicht stimmt
 aber gern in den Issues reporten wenn das der Fall sein sollte ;-)
 
 Zur Zeit hat das Quiz etwa 400 Fragen und zum Teil dreist, lustige Antworten.
