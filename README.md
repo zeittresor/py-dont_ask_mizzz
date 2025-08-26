@@ -19,6 +19,3 @@ Viel Spaß.. :-)
 <img width="2560" height="1080" alt="2025-08-26 22_18_38-Greenshot" src="https://github.com/user-attachments/assets/c9d8f0a5-fed9-4aaf-bc0a-da570dfb9622" />
 
 Source: https://github.com/zeittresor/py-dont_ask_mizzz
-
-
-STOP - halt zurück .. da muß noch was geändert werden aktuell ist die richtige antwort immer A die LLMs haben mist gebaut.. :-) ich ändere das morgen.
