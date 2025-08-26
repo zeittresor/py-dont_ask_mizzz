@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Kasus folgt standardsprachlich auf 'trotz'?",
+  "options": {
+    "A": "Genitiv",
+    "B": "Dativ",
+    "C": "Akkusativ"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Trotz des Wetters – der Genitiv hat noch Muckis.",
+    "B": "Dativ hörst du oft – Standard ist Genitiv.",
+    "C": "Akkusativ passt hier nicht. (Richtig: A)"
+  }
+}

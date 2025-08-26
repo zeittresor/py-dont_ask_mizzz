@@ -1,0 +1,14 @@
+{
+  "question": "Welche Programmiersprache hat eine GIL in der CPython-Referenzimplementierung?",
+  "options": {
+    "A": "Python",
+    "B": "Go",
+    "C": "Rust"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Die Global Interpreter Lock regelt Threads – geliebt, gehasst, diskutiert.",
+    "B": "Go macht Goroutinen ohne GIL-Tamtam. (Richtig: A)",
+    "C": "Rust macht Ownership statt GIL. (Richtig: A)"
+  }
+}

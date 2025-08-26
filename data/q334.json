@@ -1,0 +1,14 @@
+{
+  "question": "Was ist die GIL in CPython?",
+  "options": {
+    "A": "Global Interpreter Lock, das Bytecode-Ausführung pro Prozess thread-serialisiert",
+    "B": "Ein Garbage Collector",
+    "C": "Ein Build-System"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Die GIL sorgt dafür, dass nicht mehrere Threads gleichzeitig Python-Bytecode knabbern.",
+    "B": "GC existiert auch, ist aber eine andere Baustelle. (Richtig: A)",
+    "C": "Build-Systeme heißen anders (setuptools, poetry, make). (Richtig: A)"
+  }
+}

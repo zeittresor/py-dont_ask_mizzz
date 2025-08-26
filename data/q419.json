@@ -1,0 +1,14 @@
+{
+  "question": "Welche Farbe zeigt Natriumflamme in der Analytik typischerweise?",
+  "options": {
+    "A": "Gelb",
+    "B": "Grün",
+    "C": "Violett"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Natrium schreit Gelb – die Straßenlaterne der Chemie.",
+    "B": "Grün machen eher Bor/Kupferverbindungen. (Richtig: A)",
+    "C": "Violett kommt z. B. bei Kalium vor. (Richtig: A)"
+  }
+}

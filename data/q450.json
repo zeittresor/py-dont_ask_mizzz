@@ -1,0 +1,14 @@
+{
+  "question": "Welche Strahlung hat die kürzeste Wellenlänge?",
+  "options": {
+    "A": "Gammastrahlung",
+    "B": "Infrarot",
+    "C": "Radiowellen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Gamma: ultrakurz, ultrakrass.",
+    "B": "IR ist kuschelig warm, aber nicht kurz. (Richtig: A)",
+    "C": "Radio ist die Langwelle des Vertrauens. (Richtig: A)"
+  }
+}

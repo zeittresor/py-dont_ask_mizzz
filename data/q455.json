@@ -1,0 +1,14 @@
+{
+  "question": "Welches Statement beendet eine Schleife in vielen Sprachen sofort?",
+  "options": {
+    "A": "break",
+    "B": "continue",
+    "C": "pass"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! break = raus hier! Schluss mit lustig.",
+    "B": "continue = nächster Durchlauf, bitte weitergehen. (Richtig: A)",
+    "C": "pass ist Python für 'mach nichts und schau unschuldig'. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Wer führte Regie bei 'Blade Runner' (1982)?",
+  "options": {
+    "A": "Ridley Scott",
+    "B": "James Cameron",
+    "C": "Steven Spielberg"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Neon, Regen, Replikanten – Ridley Scott.",
+    "B": "Cameron hat Terminator & Aliens 2. (Richtig: A)",
+    "C": "Spielberg hat E.T. & Jurassic – andere Dinos. (Richtig: A)"
+  }
+}

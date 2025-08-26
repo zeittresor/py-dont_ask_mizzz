@@ -1,0 +1,14 @@
+{
+  "question": "Wie lange dauert grob eine Erdumrundung der ISS?",
+  "options": {
+    "A": "Etwa 90 Minuten",
+    "B": "Etwa 24 Stunden",
+    "C": "Etwa 7 Tage"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! LEO-Formel 1 – alle ~90 Minuten ’ne neue Aussicht.",
+    "B": "24h ist geostationär – ISS ist tiefer und schneller. (Richtig: A)",
+    "C": "7 Tage würd’ die Crew verschlafen. (Richtig: A)"
+  }
+}

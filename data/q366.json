@@ -1,0 +1,14 @@
+{
+  "question": "Was ist ein Exoplanet?",
+  "options": {
+    "A": "Planet außerhalb unseres Sonnensystems",
+    "B": "Zwergplanet im Asteroidengürtel",
+    "C": "Komet mit zwei Schweifen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Alles, was einen fremden Stern umkreist.",
+    "B": "Zwergplaneten sind was anderes (Ceres & Co.). (Richtig: A)",
+    "C": "Kometen sind Eis-Klumpen auf heißer Tour. (Richtig: A)"
+  }
+}

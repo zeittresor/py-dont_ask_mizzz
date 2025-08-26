@@ -1,0 +1,14 @@
+{
+  "question": "Was ist ein 'Cronjob'?",
+  "options": {
+    "A": "Zeitgesteuerter Task unter Unix/Linux",
+    "B": "Backup-Datei von Chrome",
+    "C": "Name für Docker-Netzwerk"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! crontab singt dir Aufgaben im Takt – minütlich bis jährlich.",
+    "B": "Chrome hat eigene Caches, aber 'Cron' ist kein Browser. (Richtig: A)",
+    "C": "Docker hat Netzwerke, aber so heißen sie nicht. (Richtig: A)"
+  }
+}

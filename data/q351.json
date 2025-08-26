@@ -1,0 +1,14 @@
+{
+  "question": "Welche Größe ist Impuls p in der Mechanik?",
+  "options": {
+    "A": "p = m·v",
+    "B": "p = m·a",
+    "C": "p = F·t mit m=0"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Masse mal Geschwindigkeit – Bewegungs-Pass.",
+    "B": "m·a ist Kraft F – anderes Kapitel. (Richtig: A)",
+    "C": "F·t ist Impulsänderung – der Zusammenhang, nicht die Definition. (Richtig: A)"
+  }
+}

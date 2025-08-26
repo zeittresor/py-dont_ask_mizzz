@@ -1,0 +1,14 @@
+{
+  "question": "Wie heißt unser Heimatstern in der Spektralklasse?",
+  "options": {
+    "A": "G2V (gelber Zwerg)",
+    "B": "M1 (roter Riese)",
+    "C": "O3 (blauer Riese)"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! G2V – solide, zuverlässig, noch viel Saft im Tank.",
+    "B": "Roter Riese wird die Sonne erst später mal. (Richtig: A)",
+    "C": "O-Klasse ist viel massereicher und heißer. (Richtig: A)"
+  }
+}

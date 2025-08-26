@@ -1,0 +1,14 @@
+{
+  "question": "Was ist 'CIDR' im Netzwerk-Kontext?",
+  "options": {
+    "A": "Klassenlose Adressierung/Prefix-Notation (z. B. /24)",
+    "B": "Ein neues RAID-Level",
+    "C": "Ein SATA-Stecker"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Classless Inter-Domain Routing: 192.168.1.0/24 und die Welt wird logisch.",
+    "B": "RAID ist Speicher-Polygamie, kein Routing. (Richtig: A)",
+    "C": "SATA ist Hardware-Steckerei, kein IP-Plan. (Richtig: A)"
+  }
+}

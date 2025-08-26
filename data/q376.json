@@ -1,0 +1,14 @@
+{
+  "question": "Welcher See ist flächenmäßig der größte?",
+  "options": {
+    "A": "Kaspisches Meer",
+    "B": "Baikalsee",
+    "C": "Oberer See"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Das Kaspische Meer ist ein Binnenmeer – zählt als größter See.",
+    "B": "Baikal ist tief und wasserreich, aber kleiner in Fläche. (Richtig: A)",
+    "C": "Der Obere See ist größter Süßwassersee nach Fläche – nicht insgesamt. (Richtig: A)"
+  }
+}

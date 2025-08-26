@@ -1,0 +1,14 @@
+{
+  "question": "Was ist eine Metapher?",
+  "options": {
+    "A": "Übertragene, bildhafte Bedeutung",
+    "B": "Wörtliche Beschreibung",
+    "C": "Mathematische Funktion"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Wörter tragen Kostüm und spielen jemand anders.",
+    "B": "Wörtlich ist langweilig – hier nicht. (Richtig: A)",
+    "C": "Mathe hat ihre eigenen Kostümbälle. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Bohne ist botanisch eine Hülsenfrucht und wächst unter der Erde?",
+  "options": {
+    "A": "Erdnuss",
+    "B": "Haselnuss",
+    "C": "Walnuss"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Erdnuss – die Undercover-Nuss.",
+    "B": "Haselnuss ist echte Nuss. (Richtig: A)",
+    "C": "Walnuss ist Steinfrucht – tricky. (Richtig: A)"
+  }
+}

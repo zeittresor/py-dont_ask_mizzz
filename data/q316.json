@@ -1,0 +1,14 @@
+{
+  "question": "Was ist die Ableitung von sin(x)?",
+  "options": {
+    "A": "cos(x)",
+    "B": "−sin(x)",
+    "C": "tan(x)"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! sin → cos – die schönste WG der Analysis.",
+    "B": "Das ist die zweite Ableitung. (Richtig: A)",
+    "C": "tan ist ein Quotient – nicht die Ableitung. (Richtig: A)"
+  }
+}

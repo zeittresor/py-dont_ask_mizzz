@@ -1,0 +1,14 @@
+{
+  "question": "Welche Stadt hat besonders viele Brücken (mehr als Venedig)?",
+  "options": {
+    "A": "Hamburg",
+    "B": "Bremen",
+    "C": "Neapel"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Kanäle & Fleete: Hamburg liebt Brücken.",
+    "B": "Bremen ist hübsch, aber brückenärmer. (Richtig: A)",
+    "C": "Neapel hat Meer, Lava, Pizza – andere Stärken. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Planet hat das markante Ringsystem?",
+  "options": {
+    "A": "Saturn",
+    "B": "Mars",
+    "C": "Venus"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Saturns Ringe sind der Catwalk des Sonnensystems.",
+    "B": "Mars ringt eher mit Staubstürmen. (Richtig: A)",
+    "C": "Venus hat Wolken, keine Ringe. (Richtig: A)"
+  }
+}

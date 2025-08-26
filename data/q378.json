@@ -1,0 +1,14 @@
+{
+  "question": "Welches Teilchen hat negative Ladung?",
+  "options": {
+    "A": "Elektron",
+    "B": "Proton",
+    "C": "Neutron"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Elektron – klein, flink, schlecht gelaunt (negativ).",
+    "B": "Proton ist positiv – Sonnenschein im Kern. (Richtig: A)",
+    "C": "Neutron ist neutral – Schweiz des Atoms. (Richtig: A)"
+  }
+}

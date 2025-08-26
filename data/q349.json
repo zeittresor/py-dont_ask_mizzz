@@ -1,0 +1,14 @@
+{
+  "question": "Welche Struktur ist LIFO?",
+  "options": {
+    "A": "Stack",
+    "B": "Queue",
+    "C": "Array"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Last In, First Out – wie Wäschekörbe in chaotischen Haushalten.",
+    "B": "Queue ist FIFO – brav und fair. (Richtig: A)",
+    "C": "Array ist nur ein Regal – LIFO/ FIFO sind Organisationsfragen. (Richtig: A)"
+  }
+}

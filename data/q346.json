@@ -1,0 +1,14 @@
+{
+  "question": "Was macht 'traceroute' bzw. 'tracert'?",
+  "options": {
+    "A": "Zeigt die Stationen eines Pakets zum Ziel an",
+    "B": "Verschlüsselt Dateien auf der Festplatte",
+    "C": "Startet den Webserver neu"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Hop für Hop wird sichtbar – Internet aufgedeckt, Trenchcoat inklusive.",
+    "B": "Das übernimmt eher VeraCrypt/BitLocker & Co. (Richtig: A)",
+    "C": "Das ist eher Aufgabe des Service-Managers (systemctl, iisreset …). (Richtig: A)"
+  }
+}

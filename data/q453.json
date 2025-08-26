@@ -1,0 +1,14 @@
+{
+  "question": "Wer entdeckte das Penicillin 1928 (zufällig)?",
+  "options": {
+    "A": "Alexander Fleming",
+    "B": "Marie Curie",
+    "C": "Louis Pasteur"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Schimmelpilz im Labor – und plötzlich Antibiotika.",
+    "B": "Curie: Radioaktivität – großartig, aber anderes Feld. (Richtig: A)",
+    "C": "Pasteur: Impfungen/Keimtheorie – früher, anderer Fokus. (Richtig: A)"
+  }
+}

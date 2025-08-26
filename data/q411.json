@@ -1,0 +1,14 @@
+{
+  "question": "Was ist ein Diphthong?",
+  "options": {
+    "A": "Zwei Vokale, ein Laut (z. B. 'ei')",
+    "B": "Zwei Konsonanten, ein Laut",
+    "C": "Stummes h"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! au, ei, eu – WG der Vokale.",
+    "B": "Konsonantenhäufungen sind was anderes. (Richtig: A)",
+    "C": "Das h verlängert nur – meist schweigsam. (Richtig: A)"
+  }
+}

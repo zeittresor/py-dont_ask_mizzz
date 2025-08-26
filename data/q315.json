@@ -1,0 +1,14 @@
+{
+  "question": "Welche Gleichung hat unendlich viele Lösungen?",
+  "options": {
+    "A": "sin(x) = 0",
+    "B": "x^2 = -1 (in ℝ)",
+    "C": "e^x = 0"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! sin(x)=0 bei x = k·π, k ∈ ℤ – Nullstellenparty im Takt.",
+    "B": "In den reellen Zahlen gibt’s dafür keine Lösung – in ℂ schon. (Richtig: A)",
+    "C": "e^x ist niemals 0 – immer positiv, nie null. (Richtig: A)"
+  }
+}

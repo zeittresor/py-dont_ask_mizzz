@@ -1,0 +1,14 @@
+{
+  "question": "Was ist ein 'Nippel' in der Fahrradtechnik?",
+  "options": {
+    "A": "Teil der Speichenspannung",
+    "B": "Schutzkappe des Ventils",
+    "C": "Der Klingelknopf"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Der Speichennippel zieht fest – ganz unaufgeregt mechanisch.",
+    "B": "Ventilkappen heißen anders – können hübsch sein, sind aber nicht Nippel. (Richtig: A)",
+    "C": "Die Klingel hat keinen Nippel – nur gute Manieren. (Richtig: A)"
+  }
+}

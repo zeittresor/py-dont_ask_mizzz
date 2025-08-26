@@ -1,0 +1,14 @@
+{
+  "question": "Welche Hochkultur baute Machu Picchu?",
+  "options": {
+    "A": "Inka",
+    "B": "Maya",
+    "C": "Azteken"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Inka im peruanischen Anden-Hochland.",
+    "B": "Maya: Mesoamerika (Mexiko/Guatemala). (Richtig: A)",
+    "C": "Azteken: Zentralmexiko – Tenochtitlan. (Richtig: A)"
+  }
+}

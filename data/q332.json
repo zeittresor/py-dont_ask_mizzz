@@ -1,0 +1,14 @@
+{
+  "question": "Welches Getränk entsteht aus fermentierten Äpfeln?",
+  "options": {
+    "A": "Cider/Apfelwein",
+    "B": "Wein",
+    "C": "Bier"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Cider schäumt Apfel – prickelnd und frech.",
+    "B": "Wein will Trauben. (Richtig: A)",
+    "C": "Bier nimmt Malz & Hopfen. (Richtig: A)"
+  }
+}

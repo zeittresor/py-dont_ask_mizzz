@@ -1,0 +1,14 @@
+{
+  "question": "Was ist ein 'Hotplug' in der Hardware?",
+  "options": {
+    "A": "An-/Abstecken im laufenden Betrieb",
+    "B": "Ein Heizstecker im Toaster",
+    "C": "Ein Erotik-Gadget"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! USB, Thunderbolt & Co. lieben Hotplug (mit Vorsicht).",
+    "B": "Bitte nicht in den Toaster greifen. (Richtig: A)",
+    "C": "Andere Abteilung, anderes Regal – hier geht’s um Technik. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Was war die Renaissance?",
+  "options": {
+    "A": "Kulturelle Wiedergeburt der Antike ab 14./15. Jh.",
+    "B": "Ein römisches Steuerformular",
+    "C": "Ein Sonnenkult der Azteken"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Kunst, Wissenschaft, Perspektive – Europa blühte auf.",
+    "B": "Steuern gab’s immer, aber nicht so poetisch. (Richtig: A)",
+    "C": "Azteken hatten eigene Kulturen – andere Zeit, anderer Ort. (Richtig: A)"
+  }
+}

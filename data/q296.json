@@ -1,0 +1,14 @@
+{
+  "question": "Welches Betriebssystem ist Open-Source-Kernel-basiert und weit verbreitet auf Servern?",
+  "options": {
+    "A": "Linux",
+    "B": "Windows",
+    "C": "macOS"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Linux: Kernel frei, Distributionen überall – von Server bis Toaster.",
+    "B": "Windows ist proprietär – andere Lizenzparty. (Richtig: A)",
+    "C": "macOS basiert auf Darwin/BSD, aber ist nicht offen wie Linux."
+  }
+}

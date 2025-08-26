@@ -1,0 +1,14 @@
+{
+  "question": "Welche Sauce ist Emulsion aus Eigelb, Butter und Säure?",
+  "options": {
+    "A": "Hollandaise",
+    "B": "Béchamel",
+    "C": "Tomatensauce"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Hollandaise: Diva der Brunchwelt.",
+    "B": "Béchamel ist Milch + Mehlschwitze. (Richtig: A)",
+    "C": "Tomatensauce ist keine Emulsion. (Richtig: A)"
+  }
+}

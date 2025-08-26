@@ -1,0 +1,14 @@
+{
+  "question": "Welche Sprache gehört zur iranischen Gruppe der Indogermanischen?",
+  "options": {
+    "A": "Persisch (Farsi)",
+    "B": "Arabisch",
+    "C": "Türkisch"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Persisch: indogermanisch. Schöne Schrift, lange Geschichte.",
+    "B": "Arabisch: semitisch. (Richtig: A)",
+    "C": "Türkisch: turksprachig – eigene Familie. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Wer malte 'Die Sternennacht'?",
+  "options": {
+    "A": "Vincent van Gogh",
+    "B": "Claude Monet",
+    "C": "Pablo Picasso"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Van Gogh und der wirbelnde Himmel.",
+    "B": "Monet: Impression, Sonnenaufgang – anderer Stil. (Richtig: A)",
+    "C": "Picasso: Kubismus – andere Geometrie. (Richtig: A)"
+  }
+}

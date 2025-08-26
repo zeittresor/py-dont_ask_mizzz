@@ -1,0 +1,14 @@
+{
+  "question": "Was ist ein Schwarzes Loch?",
+  "options": {
+    "A": "Region, deren Fluchtgeschwindigkeit größer als Lichtgeschwindigkeit ist",
+    "B": "Ein Loch im Himmel",
+    "C": "Ein dunkler Planet"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Nichts entkommt dem Ereignishorizont – nicht mal Licht.",
+    "B": "Der Himmel hat keine Stofflichkeit mit Löchern. (Richtig: A)",
+    "C": "Planeten sind schwach im Vergleich – keine Lichtfallen. (Richtig: A)"
+  }
+}

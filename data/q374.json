@@ -1,0 +1,14 @@
+{
+  "question": "Welche dieser Bedeutungen hat 'Mount' im IT-Kontext?",
+  "options": {
+    "A": "Ein Dateisystem einhängen",
+    "B": "Jemanden tragen wie ein Fohlen",
+    "C": "Jemanden auf den Arm nehmen (wörtlich)"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! mount /mnt/backup – sehr unromantisch, sehr nützlich.",
+    "B": "Das ist Reiterei – im Rechenzentrum eher unüblich. (Richtig: A)",
+    "C": "Heben darfst du Server selten – Rücken sagt nein. (Richtig: A)"
+  }
+}

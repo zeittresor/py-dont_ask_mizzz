@@ -1,0 +1,14 @@
+{
+  "question": "Welches Gericht ist roher Fisch auf Reis (klassisch)?",
+  "options": {
+    "A": "Sushi",
+    "B": "Tartar",
+    "C": "Paella"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Sushi ist Reis-zentriert – roher Fisch ist ein beliebtes Topping.",
+    "B": "Tartar ist rohes Fleisch – andere Baustelle. (Richtig: A)",
+    "C": "Paella ist Pfannen-Party – durchgegart. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Schreibweise ist die korrekte Bezeichnung für eine UNIX-Sonderdatei?",
+  "options": {
+    "A": "tty",
+    "B": "titty",
+    "C": "tini"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! tty = Teletype – Terminal-Device. Oldschool sexy.",
+    "B": "Das andere Wort gehört, wenn überhaupt, in ganz andere Kontexte. (Richtig: A)",
+    "C": "tini ist ein Init in Containern – aber nicht die Sonderdatei. (Richtig: A)"
+  }
+}

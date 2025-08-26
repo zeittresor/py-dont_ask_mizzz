@@ -1,0 +1,14 @@
+{
+  "question": "Was bedeutet 'idempotent' bei HTTP-Methoden am ehesten?",
+  "options": {
+    "A": "Mehrfach gleiches Request führt zum gleichen Ergebniszustand",
+    "B": "Jeder Request erzeugt eine neue Ressource",
+    "C": "Die Methode ist per se sicher wie eine Decke"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! PUT/DELETE gelten als idempotent – mehrfach aufrufen sollte nicht eskalieren.",
+    "B": "Das wäre POST – fleißig, aber nicht idempotent. (Richtig: A)",
+    "C": "‚Safe‘ ist ein eigener Begriff (z. B. GET), nicht dasselbe. (Richtig: A)"
+  }
+}

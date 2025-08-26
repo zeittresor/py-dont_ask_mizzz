@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage zu TLS-Zertifikaten stimmt?",
+  "options": {
+    "A": "Sie werden von CAs signiert, um Identität zu bestätigen",
+    "B": "Sie sind nur hübsche Bilder im Browser",
+    "C": "Sie ersetzen immer das Passwort"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Die CA bürgt kryptographisch: 'Ja, das ist wirklich diese Domain.'",
+    "B": "Schön sind sie selten – wichtig sind sie sehr. (Richtig: A)",
+    "C": "Passwörter sind ein anderes Biest – TLS schützt den Transport. (Richtig: A)"
+  }
+}

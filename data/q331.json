@@ -1,0 +1,14 @@
+{
+  "question": "Was macht ein Load Balancer?",
+  "options": {
+    "A": "Verteilt Anfragen auf mehrere Backend-Server",
+    "B": "Defragmentiert Festplatten on the fly",
+    "C": "Konvertiert JSON in XML"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Er ist die Schankmaid für HTTP – jeder bekommt seinen Server-Schluck.",
+    "B": "Defrag ist Storage-Wellness, kein Balancing. (Richtig: A)",
+    "C": "Konvertieren darf dein Parser, nicht der Balancer. (Richtig: A)"
+  }
+}

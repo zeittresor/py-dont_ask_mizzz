@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Fluss fließt durch Paris?",
+  "options": {
+    "A": "Seine",
+    "B": "Themse",
+    "C": "Tiber"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Seine: Brücken, Boulevards und Baguette-Blick.",
+    "B": "Die Themse kuschelt London. (Richtig: A)",
+    "C": "Der Tiber streichelt Rom. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Gleichung beschreibt eine Kreislinie mit Radius r um (0,0)?",
+  "options": {
+    "A": "x^2 + y^2 = r^2",
+    "B": "y = mx + b",
+    "C": "x·y = r"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Der klassische Kreis: alle Punkte mit gleichem Abstand r vom Zentrum.",
+    "B": "Das ist die Gerade – Kreise mögen keine linearen Fesseln. (Richtig: A)",
+    "C": "Hyperbel-Feeling – kein Kreis. (Richtig: A)"
+  }
+}

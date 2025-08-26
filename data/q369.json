@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Kontinent hat die meisten Staaten?",
+  "options": {
+    "A": "Afrika",
+    "B": "Europa",
+    "C": "Südamerika"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Afrika ist politisch vielfältig – Flaggenfestival.",
+    "B": "Europa ist kleinteilig, aber nicht so zahlreich. (Richtig: A)",
+    "C": "Südamerika hat weniger Länder. (Richtig: A)"
+  }
+}

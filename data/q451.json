@@ -1,0 +1,14 @@
+{
+  "question": "Wie lautet die Energie eines Photons?",
+  "options": {
+    "A": "E = h·f",
+    "B": "E = m·a",
+    "C": "E = 1/2 m v²"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Planck lässt grüßen: Energie proportional zur Frequenz.",
+    "B": "m·a ist Kraft – nix Energie. (Richtig: A)",
+    "C": "½ m v² ist klassische kinetische Energie mit Masse – Photonen sind masselos. (Richtig: A)"
+  }
+}

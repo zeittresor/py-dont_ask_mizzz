@@ -1,0 +1,14 @@
+{
+  "question": "Welche ist KEINE echte Linux-Distribution?",
+  "options": {
+    "A": "Ubuntu",
+    "B": "Fedora",
+    "C": "Chihuahua"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Chihuahua ist ein Hund – allerdings mit Kernel-Panik bei Staubsaugern.",
+    "B": "Fedora ist Red-Hat-Stamm. (Richtig: A)",
+    "C": "Ubuntu ist Debian-Familie."
+  }
+}

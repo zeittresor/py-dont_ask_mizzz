@@ -1,0 +1,14 @@
+{
+  "question": "Welches Protokoll ist verbindungsorientiert mit Handshake?",
+  "options": {
+    "A": "TCP",
+    "B": "UDP",
+    "C": "ICMP"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! TCP: Dreiweg-Handshake, Zuverlässigkeit – wie höflich Klopfen vor dem Reingehen.",
+    "B": "UDP wirft Paket-Konfetti und hofft aufs Beste. (Richtig: A)",
+    "C": "ICMP ist Diagnose-Post – kein echter Daten-Transporter. (Richtig: A)"
+  }
+}

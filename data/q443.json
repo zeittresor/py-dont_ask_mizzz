@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Käse hat Blauschimmel-Adern?",
+  "options": {
+    "A": "Roquefort",
+    "B": "Mozzarella",
+    "C": "Gouda jung"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Roquefort ist die Blauschimmel-Diva.",
+    "B": "Mozzarella ist mild und weiß. (Richtig: A)",
+    "C": "Junger Gouda ist brav und gelb. (Richtig: A)"
+  }
+}

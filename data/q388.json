@@ -1,0 +1,14 @@
+{
+  "question": "Welche Stadt ist NICHT Hauptstadt eines deutschen Bundeslandes?",
+  "options": {
+    "A": "Frankfurt am Main",
+    "B": "München",
+    "C": "Stuttgart"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Frankfurt ist Finanzmetropole – Hauptstadt Hessens ist Wiesbaden.",
+    "B": "München regiert Bayern. (Richtig: A)",
+    "C": "Stuttgart regiert BaWü. (Richtig: A)"
+  }
+}

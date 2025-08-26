@@ -1,0 +1,14 @@
+{
+  "question": "Welche Zahl ist KEINE Zweierpotenz?",
+  "options": {
+    "A": "24",
+    "B": "32",
+    "C": "64"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! 24 ist ’ne Mischung (3×2³), aber keine 2^n.",
+    "B": "32 = 2^5 – ganz klar. (Richtig: A)",
+    "C": "64 = 2^6 – Lieblingszahl der NES-Ära. (Richtig: A)"
+  }
+}

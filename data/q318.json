@@ -1,0 +1,14 @@
+{
+  "question": "Welches Gebirge trennt Europa von Asien (eine gängige Konvention)?",
+  "options": {
+    "A": "Ural",
+    "B": "Alpen",
+    "C": "Kaukasus nur allein"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Ural gilt als Grenze – mit Graubereichen.",
+    "B": "Alpen sind Mitteleuropa – schöne Gipfel, falsche Grenze. (Richtig: A)",
+    "C": "Der Kaukasus ist ebenfalls Grenze in Teilen, aber nicht „allein“ die Konvention. (Richtig: A)"
+  }
+}

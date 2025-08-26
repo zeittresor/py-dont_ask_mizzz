@@ -1,0 +1,14 @@
+{
+  "question": "Welche Spielfigur trägt die Mütze mit L?",
+  "options": {
+    "A": "Luigi",
+    "B": "Wario",
+    "C": "Mario"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Grün, groß, unterschätzt – Luigi.",
+    "B": "Wario trägt W, Geld und schlechte Laune. (Richtig: A)",
+    "C": "Mario hat M – nicht L. (Richtig: A)"
+  }
+}

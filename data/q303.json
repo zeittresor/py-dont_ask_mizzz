@@ -1,0 +1,14 @@
+{
+  "question": "Welches Werk stammt von Kafka?",
+  "options": {
+    "A": "Die Verwandlung",
+    "B": "Der Zauberberg",
+    "C": "Die Räuber"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Gregor Samsa, Käfer, Montag – du kennst den Schmerz.",
+    "B": "Mann: Zauberberg – anderer Autor. (Richtig: A)",
+    "C": "Schiller: Die Räuber – Sturm und Drang. (Richtig: A)"
+  }
+}

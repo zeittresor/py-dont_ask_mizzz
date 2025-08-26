@@ -1,0 +1,14 @@
+{
+  "question": "Welche Taste öffnet in vielen Browsern die Entwicklertools?",
+  "options": {
+    "A": "F12",
+    "B": "F1",
+    "C": "F5"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! F12: Nerd-Modus mit Blick unter den Rock des DOM – ganz keusch, nur HTML.",
+    "B": "F1 ruft Hilfe – die nette Sorte. (Richtig: A)",
+    "C": "F5 lädt neu – Frischzellenkur. (Richtig: A)"
+  }
+}

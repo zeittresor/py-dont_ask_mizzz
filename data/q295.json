@@ -1,0 +1,14 @@
+{
+  "question": "Welche Zahl ist als 'Antwort auf alles' Popkultur?",
+  "options": {
+    "A": "42",
+    "B": "7",
+    "C": "13"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Douglas Adams hat’s uns gelehrt – Deep Thought lässt grüßen.",
+    "B": "7 ist ’ne Glückszahl, aber nicht 'die Antwort'. (Richtig: A)",
+    "C": "13 ist Dramaqueen, kein Universalschlüssel. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Datei listet bei Node.js Projekt-Abhängigkeiten?",
+  "options": {
+    "A": "package.json",
+    "B": "requirements.txt",
+    "C": "pom.xml"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! package.json: Skripte, Abhängigkeiten, ein bisschen Persönlichkeit.",
+    "B": "requirements.txt ist Python-Land. (Richtig: A)",
+    "C": "pom.xml ist Maven/Java – XML-Sauna. (Richtig: A)"
+  }
+}

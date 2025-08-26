@@ -1,0 +1,14 @@
+{
+  "question": "Welche Schreibweise ist Standard?",
+  "options": {
+    "A": "im Allgemeinen",
+    "B": "im allgemeinen",
+    "C": "Im Allgemeinen (ohne Satzanfang)"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Substantivierung groß: im Allgemeinen.",
+    "B": "So nicht. (Richtig: A)",
+    "C": "Am Satzanfang wäre 'Im' groß – hier nicht gemeint. (Richtig: A)"
+  }
+}

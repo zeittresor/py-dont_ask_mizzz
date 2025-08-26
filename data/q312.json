@@ -1,0 +1,14 @@
+{
+  "question": "Welche Zahl ist rational?",
+  "options": {
+    "A": "0,125",
+    "B": "π",
+    "C": "√2"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! 0,125 = 1/8 – sehr rational, sehr brav.",
+    "B": "Pi ist irrational – unendliche Nicht-Wiederholung. (Richtig: A)",
+    "C": "√2 ist auch irrational – Diagonalen mögen Drama. (Richtig: A)"
+  }
+}

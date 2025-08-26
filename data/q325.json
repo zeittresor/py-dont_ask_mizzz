@@ -1,0 +1,14 @@
+{
+  "question": "Woraus besteht klassisch Hummus?",
+  "options": {
+    "A": "Kichererbsen",
+    "B": "Kartoffeln",
+    "C": "Linsen"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Kichererbsen, Tahini, Zitrone, Knoblauch – cremige Diplomatie.",
+    "B": "Kartoffeln feiern bei Püree. (Richtig: A)",
+    "C": "Linsen kochen Eintopf, nicht Hummus. (Richtig: A)"
+  }
+}

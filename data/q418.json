@@ -1,0 +1,14 @@
+{
+  "question": "Was bedeutet 'jemandem Honig ums Maul schmieren'?",
+  "options": {
+    "A": "Schmeicheln",
+    "B": "Kritisieren",
+    "C": "Ignorieren"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Süße Worte, keine Bienen nötig.",
+    "B": "Das ist das Gegenteil. (Richtig: A)",
+    "C": "Ignorieren ist eher Honig entziehen. (Richtig: A)"
+  }
+}

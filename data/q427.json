@@ -1,0 +1,14 @@
+{
+  "question": "Welche Erfindung wird Johannes Gutenberg zugeschrieben?",
+  "options": {
+    "A": "Buchdruck mit beweglichen Metalllettern",
+    "B": "Dampfmaschine",
+    "C": "Telegraf"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Mainz, 15. Jh. – Wissen auf Speed.",
+    "B": "Dampfmaschine: später, andere Genies. (Richtig: A)",
+    "C": "Telegraf: 19. Jh., Morse winkt. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Käse stammt traditionell aus der Schweiz?",
+  "options": {
+    "A": "Emmentaler",
+    "B": "Cheddar",
+    "C": "Roquefort"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Schweizer Lochästhetik in Reinform.",
+    "B": "Cheddar ist britisch – Orange nur manchmal. (Richtig: A)",
+    "C": "Roquefort ist französisch und blaumütig. (Richtig: A)"
+  }
+}

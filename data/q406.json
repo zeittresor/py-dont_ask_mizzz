@@ -1,0 +1,14 @@
+{
+  "question": "Welche Küche ist für Kimchi berühmt?",
+  "options": {
+    "A": "Koreanische",
+    "B": "Japanische",
+    "C": "Thailändische"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Fermentiertes Gemüse – Korea liebt es scharf und lebendig.",
+    "B": "Japan hat Tsukemono – anderes Profil. (Richtig: A)",
+    "C": "Thailand hat Som Tam – Papayasalat, nicht Kimchi. (Richtig: A)"
+  }
+}

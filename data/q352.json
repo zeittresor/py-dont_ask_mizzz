@@ -1,0 +1,14 @@
+{
+  "question": "Welcher Stern ist uns am nächsten (außer der Sonne)?",
+  "options": {
+    "A": "Proxima Centauri",
+    "B": "Sirius",
+    "C": "Vega"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Proxima ist Nachbar im Alpha-Centauri-System.",
+    "B": "Sirius ist hell, aber weiter weg. (Richtig: A)",
+    "C": "Vega ist schön im Sommerdreieck, aber kein Nachbar. (Richtig: A)"
+  }
+}

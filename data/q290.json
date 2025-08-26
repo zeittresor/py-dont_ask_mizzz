@@ -1,0 +1,14 @@
+{
+  "question": "Welches Gericht ist klassisch 'Ei in Senfsoße'?",
+  "options": {
+    "A": "Eier in Senfsoße",
+    "B": "Huevos Rancheros",
+    "C": "Shakshuka"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Deutscher Küchenklassiker – Comfort Food mit Säurekick.",
+    "B": "Huevos Rancheros: mexikanisches Frühstück mit Salsa. (Richtig: A)",
+    "C": "Shakshuka: Eier in Tomaten-Paprika-Soße – Levante-Style. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Küche brachte traditionell 'Pho' hervor?",
+  "options": {
+    "A": "Vietnamesische",
+    "B": "Chinesische",
+    "C": "Indische"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Pho – duftende Brühe, Reisnudeln, Kräuter – Vietnam im Schüsselformat.",
+    "B": "Chinesische Nudelsuppen sind anders gewürzt. (Richtig: A)",
+    "C": "Indien hat Rasam/Sambar – ganz andere Aromen. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Welche Form ist korrekt?",
+  "options": {
+    "A": "Größer als ich",
+    "B": "Größer wie ich",
+    "C": "Größer als wie ich"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Vergleich mit 'als' – so freut sich der Duden.",
+    "B": "‚wie‘ für Gleichheit, nicht Vergleich. (Richtig: A)",
+    "C": "Beides vermischt – der Duden weint. (Richtig: A)"
+  }
+}

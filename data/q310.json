@@ -1,0 +1,14 @@
+{
+  "question": "Welches Paradigma steht bei Haskell im Fokus?",
+  "options": {
+    "A": "Funktionale Programmierung",
+    "B": "Prozedurale Programmierung",
+    "C": "Logikprogrammierung ausschließlich"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Pure Functions, fette Typen, Monaden – Kuschelkurs mit der Mathematik.",
+    "B": "Prozedural kann Haskell simulieren, ist aber nicht der Kern. (Richtig: A)",
+    "C": "Prolog macht Logik pur – Haskell nur am Rand. (Richtig: A)"
+  }
+}

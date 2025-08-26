@@ -1,0 +1,14 @@
+{
+  "question": "Welche Bezeichnung ist in der Foto-Technik seriös gemeint?",
+  "options": {
+    "A": "Bokeh",
+    "B": "Böckchen",
+    "C": "Bikini-Blende"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Bokeh beschreibt die Qualität unscharfer Bereiche – schön weich wie Marshmallow.",
+    "B": "Böckchen macht die Ziege, nicht die Kamera. (Richtig: A)",
+    "C": "Klingt sommerlich, existiert aber nicht als Fachbegriff. (Richtig: A)"
+  }
+}

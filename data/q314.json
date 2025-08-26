@@ -1,0 +1,14 @@
+{
+  "question": "Welche Pasta ist röhrenförmig?",
+  "options": {
+    "A": "Penne",
+    "B": "Spaghetti",
+    "C": "Farfalle"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Penne – röhrenförmig, geriffelt, saugt Sauce wie ein Staubsauger.",
+    "B": "Spaghetti sind lange Nudelsaiten. (Richtig: A)",
+    "C": "Farfalle sind Schleifchen – sehr modisch. (Richtig: A)"
+  }
+}

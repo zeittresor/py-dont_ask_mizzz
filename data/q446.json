@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage über 'const' in C/C++ ist korrekt (Basics)?",
+  "options": {
+    "A": "Markiert etwas als unveränderlich (sofern nicht gecastet)",
+    "B": "Erzwingt dynamische Speicherallokation",
+    "C": "Verhindert jede Pointer-Arithmetik"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! const ist ein Vertrag: Wir fassen das Ding nicht an (es sei denn, wir schummeln).",
+    "B": "Dazu sagt const nichts. (Richtig: A)",
+    "C": "Pointer tanzen trotzdem, nur mit Manieren. (Richtig: A)"
+  }
+}

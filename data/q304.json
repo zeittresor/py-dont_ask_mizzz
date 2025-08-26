@@ -1,0 +1,14 @@
+{
+  "question": "Welche Aussage ist korrekt?",
+  "options": {
+    "A": "Die Erde rotiert von West nach Ost",
+    "B": "Schatten sind Lichtquellen",
+    "C": "Schall ist schneller als Licht"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Deshalb geht die Sonne im Osten auf (scheinbar).",
+    "B": "Schatten entstehen durch blockiertes Licht, sie leuchten nicht. (Richtig: A)",
+    "C": "Licht ist schneller; Schall ist gemütlicher. (Richtig: A)"
+  }
+}

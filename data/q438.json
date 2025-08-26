@@ -1,0 +1,14 @@
+{
+  "question": "Welche Komplexität hat Binärsuche im Durchschnitt?",
+  "options": {
+    "A": "O(log n)",
+    "B": "O(n)",
+    "C": "O(1)"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Halbieren, halbieren, halbieren – Logarithmen lieben sowas.",
+    "B": "Linear ist bei 'ich schau alles durch' – nicht hier. (Richtig: A)",
+    "C": "O(1) wäre Zauberei – keine Magie, nur Mathe. (Richtig: A)"
+  }
+}

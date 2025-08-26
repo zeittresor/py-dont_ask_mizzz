@@ -1,0 +1,14 @@
+{
+  "question": "Welche Serie gehört NICHT zu Star Trek?",
+  "options": {
+    "A": "The Expanse",
+    "B": "Deep Space Nine",
+    "C": "Voyager"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! The Expanse ist eigene Hard-Sci-Fi – fantastisch, aber nicht Trek.",
+    "B": "DS9 bewacht das Wurmloch. (Richtig: A)",
+    "C": "Voyager verirrt sich im Delta-Quadranten. (Richtig: A)"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "question": "Wer komponierte die 'Mondscheinsonate'?",
+  "options": {
+    "A": "Ludwig van Beethoven",
+    "B": "Johann Sebastian Bach",
+    "C": "Frédéric Chopin"
+  },
+  "answer": "A",
+  "explanations": {
+    "A": "Korrekt! Beethoven: Op. 27 Nr. 2 – nachts, sehnsüchtig, legendär.",
+    "B": "Bach ist Barock – andere Baustellen. (Richtig: A)",
+    "C": "Chopin: Klavierpoesie, aber andere Werke. (Richtig: A)"
+  }
+}
