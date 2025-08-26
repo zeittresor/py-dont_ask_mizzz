@@ -1,14 +1,14 @@
 {
   "question": "Welche Mission landete 1969 Menschen auf dem Mond?",
   "options": {
-    "A": "Apollo 11",
-    "B": "Luna 2",
+    "B": "Apollo 11",
+    "A": "Luna 2",
     "C": "Voyager 1"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Armstrong & Aldrin – und ein Fußabdruck für die Geschichtsbücher.",
-    "B": "Luna 2 war eine sowjetische Sonde – keine Crew. (Richtig: A)",
-    "C": "Voyager 1 flog weit, aber nicht zum Mond. (Richtig: A)"
+    "B": "Richtig. „Apollo 11“ ist ein Land – genau das wird gefragt.",
+    "A": "Nein. „Luna 2“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Land). Richtig ist B – „Apollo 11“.",
+    "C": "Nein. „Voyager 1“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Land). Richtig ist B – „Apollo 11“."
   }
 }

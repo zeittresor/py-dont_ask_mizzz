@@ -1,14 +1,14 @@
 {
   "question": "Welche Größe beschreibt die elektrische Kapazität?",
   "options": {
-    "A": "Farad",
-    "B": "Ohm",
+    "B": "Farad",
+    "A": "Ohm",
     "C": "Henry"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Farad: wie viel Ladung pro Volt – der Kondensator als Hamster.",
-    "B": "Ohm ist Widerstand. (Richtig: A)",
-    "C": "Henry ist Induktivität. (Richtig: A)"
+    "B": "Richtig. „Farad“ passt zur Frage.",
+    "A": "Nein. „Ohm“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Farad“.",
+    "C": "Nein. „Henry“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Farad“."
   }
 }

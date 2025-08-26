@@ -1,14 +1,14 @@
 {
   "question": "Welche Firma entwickelte 'Half-Life'?",
   "options": {
-    "A": "Valve",
-    "B": "id Software",
+    "B": "Valve",
+    "A": "id Software",
     "C": "Epic Games"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Valve: Crowbar, Resonanzkaskade, Physik-Fimmel.",
-    "B": "id: Doom & Quake – andere Legenden. (Richtig: A)",
-    "C": "Epic: Unreal & Fortnite – andere Bühne. (Richtig: A)"
+    "B": "Richtig. „Valve“ passt zur Frage.",
+    "A": "Nein. „id Software“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Valve“.",
+    "C": "Nein. „Epic Games“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Valve“."
   }
 }

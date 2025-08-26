@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Commit = Fotoalbum deiner Historie – lokal, liebevoll, revertierbar.",
-    "B": "Fork ist ein neues Remote-Repo (Server-Seite), clone holt lokal. (Richtig: A)",
-    "C": "Push schiebt raus; 'pull' holt rein – the eternal tug of war. (Richtig: A)"
+    "A": "Richtig. „Ein 'commit' speichert einen Schnappschuss deiner Änderungen lokal“ passt zur Frage.",
+    "B": "Nein. „Ein 'fork' ist dasselbe wie 'clone'“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Ein 'commit' speichert einen Schnappschuss deiner Änderungen lokal“.",
+    "C": "Nein. „Ein 'push' holt Daten vom Remote“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Ein 'commit' speichert einen Schnappschuss deiner Änderungen lokal“."
   }
 }

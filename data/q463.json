@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! SYN, SYN-ACK, ACK – Networking macht Knigge.",
-    "B": "Mit Handschuhen ist’s warm, aber nicht TCP. (Richtig: A)",
-    "C": "Grußformeln sind Layer 8. (Richtig: A)"
+    "A": "Richtig. „Aushandlung von Verbindungsparametern“ passt zur Frage.",
+    "B": "Nein. „Begrüßung mit Handschuhen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Aushandlung von Verbindungsparametern“.",
+    "C": "Nein. „Ein höflicher E-Mail-Abschluss“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Aushandlung von Verbindungsparametern“."
   }
 }

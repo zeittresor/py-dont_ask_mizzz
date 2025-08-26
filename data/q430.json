@@ -1,14 +1,14 @@
 {
   "question": "Was ist ein Homonym?",
   "options": {
-    "A": "Ein Wort mit mehreren Bedeutungen (z. B. Bank)",
-    "B": "Ein besonders langes Wort",
+    "B": "Ein Wort mit mehreren Bedeutungen (z. B. Bank)",
+    "A": "Ein besonders langes Wort",
     "C": "Ein Übername"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Bank: Sitzmöbel oder Geldhaus – Kontext entscheidet.",
-    "B": "Länge ist egal. (Richtig: A)",
-    "C": "Übername ist Spitzname – nicht Homonym. (Richtig: A)"
+    "B": "Richtig. „Ein Wort mit mehreren Bedeutungen (z. B. Bank)“ passt zur Frage.",
+    "A": "Nein. „Ein besonders langes Wort“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Ein Wort mit mehreren Bedeutungen (z. B. Bank)“.",
+    "C": "Nein. „Ein Übername“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Ein Wort mit mehreren Bedeutungen (z. B. Bank)“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Wer führte Regie bei 'Blade Runner' (1982)?",
   "options": {
-    "A": "Ridley Scott",
-    "B": "James Cameron",
-    "C": "Steven Spielberg"
+    "C": "Ridley Scott",
+    "A": "James Cameron",
+    "B": "Steven Spielberg"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Neon, Regen, Replikanten – Ridley Scott.",
-    "B": "Cameron hat Terminator & Aliens 2. (Richtig: A)",
-    "C": "Spielberg hat E.T. & Jurassic – andere Dinos. (Richtig: A)"
+    "C": "Richtig. „Ridley Scott“ passt zur Frage.",
+    "A": "Nein. „James Cameron“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Ridley Scott“.",
+    "B": "Nein. „Steven Spielberg“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Ridley Scott“."
   }
 }

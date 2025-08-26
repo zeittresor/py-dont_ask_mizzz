@@ -1,14 +1,14 @@
 {
   "question": "Welches Kraut ist Kern von Pesto alla Genovese?",
   "options": {
-    "A": "Basilikum",
-    "B": "Petersilie",
-    "C": "Koriander"
+    "C": "Basilikum",
+    "A": "Petersilie",
+    "B": "Koriander"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Basilikum trägt grün und stolz.",
-    "B": "Petersilie kann Pesto, ist aber nicht der Klassiker. (Richtig: A)",
-    "C": "Koriander polarisiert – hier selten gemeint. (Richtig: A)"
+    "C": "Richtig. „Basilikum“ passt zur Frage.",
+    "A": "Nein. „Petersilie“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Basilikum“.",
+    "B": "Nein. „Koriander“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Basilikum“."
   }
 }

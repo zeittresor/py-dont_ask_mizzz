@@ -1,14 +1,14 @@
 {
   "question": "Welche Form ist korrekt?",
   "options": {
-    "A": "Größer als ich",
-    "B": "Größer wie ich",
+    "B": "Größer als ich",
+    "A": "Größer wie ich",
     "C": "Größer als wie ich"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Vergleich mit 'als' – so freut sich der Duden.",
-    "B": "‚wie‘ für Gleichheit, nicht Vergleich. (Richtig: A)",
-    "C": "Beides vermischt – der Duden weint. (Richtig: A)"
+    "B": "Richtig. „Größer als ich“ passt zur Frage.",
+    "A": "Nein. „Größer wie ich“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Größer als ich“.",
+    "C": "Nein. „Größer als wie ich“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Größer als ich“."
   }
 }

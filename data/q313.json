@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! tty = Teletype – Terminal-Device. Oldschool sexy.",
-    "B": "Das andere Wort gehört, wenn überhaupt, in ganz andere Kontexte. (Richtig: A)",
-    "C": "tini ist ein Init in Containern – aber nicht die Sonderdatei. (Richtig: A)"
+    "A": "Richtig. „tty“ passt zur Frage.",
+    "B": "Nein. „titty“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „tty“.",
+    "C": "Nein. „tini“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „tty“."
   }
 }

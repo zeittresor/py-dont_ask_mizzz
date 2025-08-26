@@ -1,14 +1,14 @@
 {
   "question": "Wer komponierte die 'Mondscheinsonate'?",
   "options": {
-    "A": "Ludwig van Beethoven",
-    "B": "Johann Sebastian Bach",
+    "B": "Ludwig van Beethoven",
+    "A": "Johann Sebastian Bach",
     "C": "Frédéric Chopin"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Beethoven: Op. 27 Nr. 2 – nachts, sehnsüchtig, legendär.",
-    "B": "Bach ist Barock – andere Baustellen. (Richtig: A)",
-    "C": "Chopin: Klavierpoesie, aber andere Werke. (Richtig: A)"
+    "B": "Richtig. „Ludwig van Beethoven“ ist ein Mond – genau das wird gefragt.",
+    "A": "Nein. „Johann Sebastian Bach“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Mond). Richtig ist B – „Ludwig van Beethoven“.",
+    "C": "Nein. „Frédéric Chopin“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Mond). Richtig ist B – „Ludwig van Beethoven“."
   }
 }

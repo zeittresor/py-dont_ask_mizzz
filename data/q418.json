@@ -1,14 +1,14 @@
 {
   "question": "Was bedeutet 'jemandem Honig ums Maul schmieren'?",
   "options": {
-    "A": "Schmeicheln",
-    "B": "Kritisieren",
-    "C": "Ignorieren"
+    "C": "Schmeicheln",
+    "A": "Kritisieren",
+    "B": "Ignorieren"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Süße Worte, keine Bienen nötig.",
-    "B": "Das ist das Gegenteil. (Richtig: A)",
-    "C": "Ignorieren ist eher Honig entziehen. (Richtig: A)"
+    "C": "Richtig. „Schmeicheln“ passt zur Frage.",
+    "A": "Nein. „Kritisieren“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Schmeicheln“.",
+    "B": "Nein. „Ignorieren“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Schmeicheln“."
   }
 }

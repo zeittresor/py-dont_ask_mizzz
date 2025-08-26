@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! const ist ein Vertrag: Wir fassen das Ding nicht an (es sei denn, wir schummeln).",
-    "B": "Dazu sagt const nichts. (Richtig: A)",
-    "C": "Pointer tanzen trotzdem, nur mit Manieren. (Richtig: A)"
+    "A": "Richtig. „Markiert etwas als unveränderlich (sofern nicht gecastet)“ passt zur Frage.",
+    "B": "Nein. „Erzwingt dynamische Speicherallokation“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Markiert etwas als unveränderlich (sofern nicht gecastet)“.",
+    "C": "Nein. „Verhindert jede Pointer-Arithmetik“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Markiert etwas als unveränderlich (sofern nicht gecastet)“."
   }
 }

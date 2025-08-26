@@ -1,14 +1,14 @@
 {
   "question": "Welche Zahl ist rational?",
   "options": {
-    "A": "0,125",
-    "B": "π",
+    "B": "0,125",
+    "A": "π",
     "C": "√2"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! 0,125 = 1/8 – sehr rational, sehr brav.",
-    "B": "Pi ist irrational – unendliche Nicht-Wiederholung. (Richtig: A)",
-    "C": "√2 ist auch irrational – Diagonalen mögen Drama. (Richtig: A)"
+    "B": "Richtig. „0,125“ ist ein Zahl – genau das wird gefragt.",
+    "A": "Nein. „π“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Zahl). Richtig ist B – „0,125“.",
+    "C": "Nein. „√2“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Zahl). Richtig ist B – „0,125“."
   }
 }

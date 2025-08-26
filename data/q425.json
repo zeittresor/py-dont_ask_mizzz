@@ -1,14 +1,14 @@
 {
   "question": "Welche Serie stammt aus dem Star-Wars-Universum?",
   "options": {
-    "A": "The Mandalorian",
-    "B": "The Orville",
-    "C": "The Boys"
+    "C": "The Mandalorian",
+    "A": "The Orville",
+    "B": "The Boys"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Mando & Grogu – Space-Western.",
-    "B": "The Orville ist Trek-Parodie/Hommage. (Richtig: A)",
-    "C": "The Boys: Superhelden-Satire – kein Weltraummärchen. (Richtig: A)"
+    "C": "Richtig. „The Mandalorian“ passt zur Frage.",
+    "A": "Nein. „The Orville“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „The Mandalorian“.",
+    "B": "Nein. „The Boys“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „The Mandalorian“."
   }
 }

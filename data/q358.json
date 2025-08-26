@@ -1,14 +1,14 @@
 {
   "question": "Wie heißt die KI-Begleitung in 'Portal'?",
   "options": {
-    "A": "GLaDOS",
-    "B": "Cortana",
-    "C": "Alyx"
+    "C": "GLaDOS",
+    "A": "Cortana",
+    "B": "Alyx"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! GLaDOS – sarkastisch, tückisch, kuchenaffin.",
-    "B": "Cortana lebt im Halo-Universum. (Richtig: A)",
-    "C": "Alyx ist Half-Life – tolle Frau, aber andere Serie. (Richtig: A)"
+    "C": "Richtig. „GLaDOS“ passt zur Frage.",
+    "A": "Nein. „Cortana“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „GLaDOS“.",
+    "B": "Nein. „Alyx“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „GLaDOS“."
   }
 }

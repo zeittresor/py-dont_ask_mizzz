@@ -1,14 +1,14 @@
 {
   "question": "Welches Statement beendet eine Schleife in vielen Sprachen sofort?",
   "options": {
-    "A": "break",
-    "B": "continue",
-    "C": "pass"
+    "C": "break",
+    "A": "continue",
+    "B": "pass"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! break = raus hier! Schluss mit lustig.",
-    "B": "continue = nächster Durchlauf, bitte weitergehen. (Richtig: A)",
-    "C": "pass ist Python für 'mach nichts und schau unschuldig'. (Richtig: A)"
+    "C": "Richtig. „break“ passt zur Frage.",
+    "A": "Nein. „continue“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „break“.",
+    "B": "Nein. „pass“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „break“."
   }
 }

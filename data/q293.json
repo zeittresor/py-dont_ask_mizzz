@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Die Global Interpreter Lock regelt Threads – geliebt, gehasst, diskutiert.",
-    "B": "Go macht Goroutinen ohne GIL-Tamtam. (Richtig: A)",
-    "C": "Rust macht Ownership statt GIL. (Richtig: A)"
+    "A": "Richtig. „Python“ passt zur Frage.",
+    "B": "Nein. „Go“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Python“.",
+    "C": "Nein. „Rust“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Python“."
   }
 }

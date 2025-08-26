@@ -1,14 +1,14 @@
 {
   "question": "Was ist die GIL in CPython?",
   "options": {
-    "A": "Global Interpreter Lock, das Bytecode-Ausführung pro Prozess thread-serialisiert",
-    "B": "Ein Garbage Collector",
+    "B": "Global Interpreter Lock, das Bytecode-Ausführung pro Prozess thread-serialisiert",
+    "A": "Ein Garbage Collector",
     "C": "Ein Build-System"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Die GIL sorgt dafür, dass nicht mehrere Threads gleichzeitig Python-Bytecode knabbern.",
-    "B": "GC existiert auch, ist aber eine andere Baustelle. (Richtig: A)",
-    "C": "Build-Systeme heißen anders (setuptools, poetry, make). (Richtig: A)"
+    "B": "Richtig. „Global Interpreter Lock, das Bytecode-Ausführung pro Prozess thread-serialisiert“ passt zur Frage.",
+    "A": "Nein. „Ein Garbage Collector“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Global Interpreter Lock, das Bytecode-Ausführung pro Prozess thread-serialisiert“.",
+    "C": "Nein. „Ein Build-System“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Global Interpreter Lock, das Bytecode-Ausführung pro Prozess thread-serialisiert“."
   }
 }

@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Linux: Kernel frei, Distributionen überall – von Server bis Toaster.",
-    "B": "Windows ist proprietär – andere Lizenzparty. (Richtig: A)",
-    "C": "macOS basiert auf Darwin/BSD, aber ist nicht offen wie Linux."
+    "A": "Richtig. „Linux“ passt zur Frage.",
+    "B": "Nein. „Windows“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Linux“.",
+    "C": "Nein. „macOS“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Linux“."
   }
 }

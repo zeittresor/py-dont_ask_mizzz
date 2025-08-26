@@ -1,14 +1,14 @@
 {
   "question": "Welche Aussage ist richtig?",
   "options": {
-    "A": "Die Erde dreht sich von West nach Ost",
-    "B": "Die Sonne kreist täglich um die Erde",
+    "B": "Die Erde dreht sich von West nach Ost",
+    "A": "Die Sonne kreist täglich um die Erde",
     "C": "Das Vakuum ist voller Luft"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Deshalb geht die Sonne im Osten auf – Perspektive und Rotation.",
-    "B": "Kopernikus hat da eine andere Meinung – zu Recht. (Richtig: A)",
-    "C": "Vakuum heißt leer – sonst wäre es keins. (Richtig: A)"
+    "B": "Richtig. „Die Erde dreht sich von West nach Ost“ passt zur Frage.",
+    "A": "Nein. „Die Sonne kreist täglich um die Erde“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Die Erde dreht sich von West nach Ost“.",
+    "C": "Nein. „Das Vakuum ist voller Luft“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Die Erde dreht sich von West nach Ost“."
   }
 }

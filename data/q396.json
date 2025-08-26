@@ -1,14 +1,14 @@
 {
   "question": "Welches Gas ist Hauptbestandteil der Erdatmosphäre (trocken)?",
   "options": {
-    "A": "Stickstoff",
-    "B": "Sauerstoff",
+    "B": "Stickstoff",
+    "A": "Sauerstoff",
     "C": "Argon"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Rund 78% Stickstoff – die stille Mehrheit.",
-    "B": "Sauerstoff ~21% – wichtig, aber nicht Chef. (Richtig: A)",
-    "C": "Argon ~1% – edel, aber schüchtern. (Richtig: A)"
+    "B": "Richtig. „Stickstoff“ passt zur Frage.",
+    "A": "Nein. „Sauerstoff“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Stickstoff“.",
+    "C": "Nein. „Argon“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Stickstoff“."
   }
 }

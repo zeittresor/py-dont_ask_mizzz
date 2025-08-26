@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! mount /mnt/backup – sehr unromantisch, sehr nützlich.",
-    "B": "Das ist Reiterei – im Rechenzentrum eher unüblich. (Richtig: A)",
-    "C": "Heben darfst du Server selten – Rücken sagt nein. (Richtig: A)"
+    "A": "Richtig. „Ein Dateisystem einhängen“ passt zur Frage.",
+    "B": "Nein. „Jemanden tragen wie ein Fohlen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Ein Dateisystem einhängen“.",
+    "C": "Nein. „Jemanden auf den Arm nehmen (wörtlich)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Ein Dateisystem einhängen“."
   }
 }

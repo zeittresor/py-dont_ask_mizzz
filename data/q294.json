@@ -1,14 +1,14 @@
 {
   "question": "Was ist ein 'Cronjob'?",
   "options": {
-    "A": "Zeitgesteuerter Task unter Unix/Linux",
-    "B": "Backup-Datei von Chrome",
+    "B": "Zeitgesteuerter Task unter Unix/Linux",
+    "A": "Backup-Datei von Chrome",
     "C": "Name für Docker-Netzwerk"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! crontab singt dir Aufgaben im Takt – minütlich bis jährlich.",
-    "B": "Chrome hat eigene Caches, aber 'Cron' ist kein Browser. (Richtig: A)",
-    "C": "Docker hat Netzwerke, aber so heißen sie nicht. (Richtig: A)"
+    "B": "Richtig. „Zeitgesteuerter Task unter Unix/Linux“ passt zur Frage.",
+    "A": "Nein. „Backup-Datei von Chrome“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Zeitgesteuerter Task unter Unix/Linux“.",
+    "C": "Nein. „Name für Docker-Netzwerk“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Zeitgesteuerter Task unter Unix/Linux“."
   }
 }

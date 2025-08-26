@@ -1,14 +1,14 @@
 {
   "question": "Was macht 'traceroute' bzw. 'tracert'?",
   "options": {
-    "A": "Zeigt die Stationen eines Pakets zum Ziel an",
-    "B": "Verschlüsselt Dateien auf der Festplatte",
-    "C": "Startet den Webserver neu"
+    "C": "Zeigt die Stationen eines Pakets zum Ziel an",
+    "A": "Verschlüsselt Dateien auf der Festplatte",
+    "B": "Startet den Webserver neu"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Hop für Hop wird sichtbar – Internet aufgedeckt, Trenchcoat inklusive.",
-    "B": "Das übernimmt eher VeraCrypt/BitLocker & Co. (Richtig: A)",
-    "C": "Das ist eher Aufgabe des Service-Managers (systemctl, iisreset …). (Richtig: A)"
+    "C": "Richtig. „Zeigt die Stationen eines Pakets zum Ziel an“ passt zur Frage.",
+    "A": "Nein. „Verschlüsselt Dateien auf der Festplatte“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Zeigt die Stationen eines Pakets zum Ziel an“.",
+    "B": "Nein. „Startet den Webserver neu“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Zeigt die Stationen eines Pakets zum Ziel an“."
   }
 }

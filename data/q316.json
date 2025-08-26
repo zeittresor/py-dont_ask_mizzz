@@ -1,14 +1,14 @@
 {
-  "question": "Was ist die Ableitung von sin(x)?",
+  "question": "Was ist die Ableitung von sin(?",
   "options": {
-    "A": "cos(x)",
-    "B": "−sin(x)",
-    "C": "tan(x)"
+    "A": "cos(",
+    "B": "−sin(",
+    "C": "tan("
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! sin → cos – die schönste WG der Analysis.",
-    "B": "Das ist die zweite Ableitung. (Richtig: A)",
-    "C": "tan ist ein Quotient – nicht die Ableitung. (Richtig: A)"
+    "A": "Richtig. „cos(“ passt zur Frage.",
+    "B": "Nein. „−sin(“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „cos(“.",
+    "C": "Nein. „tan(“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „cos(“."
   }
 }

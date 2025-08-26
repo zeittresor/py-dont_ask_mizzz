@@ -1,14 +1,14 @@
 {
   "question": "Welche HTTP-Methode ist idempotent laut Spezifikation?",
   "options": {
-    "A": "PUT",
-    "B": "POST",
-    "C": "PATCH"
+    "C": "PUT",
+    "A": "POST",
+    "B": "PATCH"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! PUT: Gleiches PUT mehrmals → gleicher Zustand. Wie Stoßlüften mit System.",
-    "B": "POST kann Nebenwirkungen stapeln – neue Ressourcen und so. (Richtig: A)",
-    "C": "PATCH ist teils idempotent – hängt vom Patch ab, aber nicht garantiert. (Richtig: A)"
+    "C": "Richtig. „PUT“ passt zur Frage.",
+    "A": "Nein. „POST“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „PUT“.",
+    "B": "Nein. „PATCH“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „PUT“."
   }
 }

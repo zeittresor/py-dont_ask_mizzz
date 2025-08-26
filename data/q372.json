@@ -1,5 +1,5 @@
 {
-  "question": "Welche Matrix ist invertierbar (über ℝ)?",
+  "question": "Welche Matrix ist invertierbar (über R)?",
   "options": {
     "A": "Determinante ≠ 0",
     "B": "Spur = 0",
@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! det(A) ≠ 0 – dann gibt’s eine Umkehrung. Mathemagie!",
-    "B": "Die Spur sagt nichts über Invertierbarkeit. (Richtig: A)",
-    "C": "Positivität hilft nicht zwingend – Linearalgebra kennt Gemeinheiten. (Richtig: A)"
+    "A": "Richtig. „Determinante ≠ 0“ passt zur Frage.",
+    "B": "Nein. „Spur = 0“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Determinante ≠ 0“.",
+    "C": "Nein. „Alle Einträge positiv“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Determinante ≠ 0“."
   }
 }

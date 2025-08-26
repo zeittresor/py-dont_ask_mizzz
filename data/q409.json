@@ -1,14 +1,14 @@
 {
   "question": "Wie heißt unser Heimatstern in der Spektralklasse?",
   "options": {
-    "A": "G2V (gelber Zwerg)",
-    "B": "M1 (roter Riese)",
-    "C": "O3 (blauer Riese)"
+    "C": "G2V (gelber Zwerg)",
+    "A": "M1 (roter Riese)",
+    "B": "O3 (blauer Riese)"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! G2V – solide, zuverlässig, noch viel Saft im Tank.",
-    "B": "Roter Riese wird die Sonne erst später mal. (Richtig: A)",
-    "C": "O-Klasse ist viel massereicher und heißer. (Richtig: A)"
+    "C": "Richtig. „G2V (gelber Zwerg)“ ist ein Stern – genau das wird gefragt.",
+    "A": "Nein. „M1 (roter Riese)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Stern). Richtig ist C – „G2V (gelber Zwerg)“.",
+    "B": "Nein. „O3 (blauer Riese)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Stern). Richtig ist C – „G2V (gelber Zwerg)“."
   }
 }

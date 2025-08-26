@@ -1,14 +1,14 @@
 {
   "question": "Was ist eine Metapher?",
   "options": {
-    "A": "Übertragene, bildhafte Bedeutung",
-    "B": "Wörtliche Beschreibung",
+    "B": "Übertragene, bildhafte Bedeutung",
+    "A": "Wörtliche Beschreibung",
     "C": "Mathematische Funktion"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Wörter tragen Kostüm und spielen jemand anders.",
-    "B": "Wörtlich ist langweilig – hier nicht. (Richtig: A)",
-    "C": "Mathe hat ihre eigenen Kostümbälle. (Richtig: A)"
+    "B": "Richtig. „Übertragene, bildhafte Bedeutung“ passt zur Frage.",
+    "A": "Nein. „Wörtliche Beschreibung“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Übertragene, bildhafte Bedeutung“.",
+    "C": "Nein. „Mathematische Funktion“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Übertragene, bildhafte Bedeutung“."
   }
 }

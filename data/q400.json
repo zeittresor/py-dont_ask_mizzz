@@ -1,14 +1,14 @@
 {
   "question": "Was ist e (Eulerzahl) ungefähr?",
   "options": {
-    "A": "2,718",
-    "B": "3,142",
-    "C": "1,618"
+    "C": "2,718",
+    "A": "3,142",
+    "B": "1,618"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Die Basis natürlicher Logarithmen – Wachstum in Reinform.",
-    "B": "3,142 ist Pi mit Hunger. (Richtig: A)",
-    "C": "1,618 ist der Goldene Schnitt – hübsch, aber anders. (Richtig: A)"
+    "C": "Richtig. „2,718“ ist ein Zahl – genau das wird gefragt.",
+    "A": "Nein. „3,142“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Zahl). Richtig ist C – „2,718“.",
+    "B": "Nein. „1,618“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Zahl). Richtig ist C – „2,718“."
   }
 }

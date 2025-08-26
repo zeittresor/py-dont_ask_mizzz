@@ -1,14 +1,14 @@
 {
   "question": "Welche Konsole nutzte GameCube-Discs (Mini-DVDs)?",
   "options": {
-    "A": "Nintendo GameCube",
-    "B": "Dreamcast",
-    "C": "PlayStation 2"
+    "C": "Nintendo GameCube",
+    "A": "Dreamcast",
+    "B": "PlayStation 2"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Lila Würfel mit Tragegriff – charakterstark.",
-    "B": "Dreamcast nutzt GD-ROM. (Richtig: A)",
-    "C": "PS2 nutzt DVD – normal groß. (Richtig: A)"
+    "C": "Richtig. „Nintendo GameCube“ passt zur Frage.",
+    "A": "Nein. „Dreamcast“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Nintendo GameCube“.",
+    "B": "Nein. „PlayStation 2“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Nintendo GameCube“."
   }
 }

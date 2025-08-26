@@ -1,14 +1,14 @@
 {
   "question": "Welche SQL-Operation verbindet Tabellen zeilenweise über Schlüssel?",
   "options": {
-    "A": "JOIN",
-    "B": "GROUP BY",
-    "C": "ORDER BY"
+    "C": "JOIN",
+    "A": "GROUP BY",
+    "B": "ORDER BY"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! JOIN lässt Tabellen Händchen halten – Beziehungskiste mit ON.",
-    "B": "GROUP BY macht Aggregate – Teambildung, nicht Heirat. (Richtig: A)",
-    "C": "ORDER BY stellt sich in Reih und Glied – keine Beziehung. (Richtig: A)"
+    "C": "Richtig. „JOIN“ passt zur Frage.",
+    "A": "Nein. „GROUP BY“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „JOIN“.",
+    "B": "Nein. „ORDER BY“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „JOIN“."
   }
 }

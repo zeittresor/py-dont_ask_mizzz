@@ -1,14 +1,14 @@
 {
   "question": "Welcher Fluss fließt durch Paris?",
   "options": {
-    "A": "Seine",
-    "B": "Themse",
-    "C": "Tiber"
+    "C": "Seine",
+    "A": "Themse",
+    "B": "Tiber"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Seine: Brücken, Boulevards und Baguette-Blick.",
-    "B": "Die Themse kuschelt London. (Richtig: A)",
-    "C": "Der Tiber streichelt Rom. (Richtig: A)"
+    "C": "Richtig. „Seine“ ist ein Fluss – genau das wird gefragt.",
+    "A": "Nein. „Themse“ ist ein Fluss; gesucht ist ein Fluss. Richtig ist C – „Seine“.",
+    "B": "Nein. „Tiber“ ist ein Fluss; gesucht ist ein Fluss. Richtig ist C – „Seine“."
   }
 }

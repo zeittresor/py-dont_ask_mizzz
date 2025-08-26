@@ -1,14 +1,14 @@
 {
   "question": "Welche Stadt ist NICHT Hauptstadt eines deutschen Bundeslandes?",
   "options": {
-    "A": "Frankfurt am Main",
-    "B": "München",
-    "C": "Stuttgart"
+    "C": "Frankfurt am Main",
+    "A": "München",
+    "B": "Stuttgart"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Frankfurt ist Finanzmetropole – Hauptstadt Hessens ist Wiesbaden.",
-    "B": "München regiert Bayern. (Richtig: A)",
-    "C": "Stuttgart regiert BaWü. (Richtig: A)"
+    "C": "Richtig. „Frankfurt am Main“ ist die gesuchte Hauptstadt.",
+    "A": "Nein. „München“ ist hier nicht die Hauptstadt von . Richtig ist C – „Frankfurt am Main“.",
+    "B": "Nein. „Stuttgart“ ist hier nicht die Hauptstadt von . Richtig ist C – „Frankfurt am Main“."
   }
 }

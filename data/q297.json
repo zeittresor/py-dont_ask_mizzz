@@ -1,14 +1,14 @@
 {
   "question": "Welche Struktur speichert in Relationen Datenzeilen?",
   "options": {
-    "A": "Tabelle",
-    "B": "Index",
+    "B": "Tabelle",
+    "A": "Index",
     "C": "Trigger"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Tabellen sind die Daten-Container – Zeilen, Spalten, manchmal Tränen.",
-    "B": "Indizes beschleunigen Suchen – Turbo, kein Lager. (Richtig: A)",
-    "C": "Trigger sind Automationen – reagieren, nicht speichern. (Richtig: A)"
+    "B": "Richtig. „Tabelle“ passt zur Frage.",
+    "A": "Nein. „Index“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Tabelle“.",
+    "C": "Nein. „Trigger“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Tabelle“."
   }
 }

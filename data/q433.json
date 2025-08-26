@@ -1,14 +1,14 @@
 {
   "question": "Welche Aussage zu TLS-Zertifikaten stimmt?",
   "options": {
-    "A": "Sie werden von CAs signiert, um Identität zu bestätigen",
-    "B": "Sie sind nur hübsche Bilder im Browser",
-    "C": "Sie ersetzen immer das Passwort"
+    "C": "Sie werden von CAs signiert, um Identität zu bestätigen",
+    "A": "Sie sind nur hübsche Bilder im Browser",
+    "B": "Sie ersetzen immer das Passwort"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Die CA bürgt kryptographisch: 'Ja, das ist wirklich diese Domain.'",
-    "B": "Schön sind sie selten – wichtig sind sie sehr. (Richtig: A)",
-    "C": "Passwörter sind ein anderes Biest – TLS schützt den Transport. (Richtig: A)"
+    "C": "Richtig. „Sie werden von CAs signiert, um Identität zu bestätigen“ passt zur Frage.",
+    "A": "Nein. „Sie sind nur hübsche Bilder im Browser“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Sie werden von CAs signiert, um Identität zu bestätigen“.",
+    "B": "Nein. „Sie ersetzen immer das Passwort“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Sie werden von CAs signiert, um Identität zu bestätigen“."
   }
 }

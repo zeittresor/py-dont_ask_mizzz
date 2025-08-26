@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Er ist die Schankmaid für HTTP – jeder bekommt seinen Server-Schluck.",
-    "B": "Defrag ist Storage-Wellness, kein Balancing. (Richtig: A)",
-    "C": "Konvertieren darf dein Parser, nicht der Balancer. (Richtig: A)"
+    "A": "Richtig. „Verteilt Anfragen auf mehrere Backend-Server“ passt zur Frage.",
+    "B": "Nein. „Defragmentiert Festplatten on the fly“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Verteilt Anfragen auf mehrere Backend-Server“.",
+    "C": "Nein. „Konvertiert JSON in XML“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Verteilt Anfragen auf mehrere Backend-Server“."
   }
 }

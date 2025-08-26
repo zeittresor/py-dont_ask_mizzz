@@ -1,14 +1,14 @@
 {
   "question": "Was ist der Mittelwert von 2, 4, 10?",
   "options": {
-    "A": "5,33",
-    "B": "4",
+    "B": "5,33",
+    "A": "4",
     "C": "6"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Summe 16 / 3 = 5,33 – nicht ganz 6, nicht ganz brav.",
-    "B": "4 ist der Median, nicht der Mittelwert. (Richtig: A)",
-    "C": "6 wäre bei 2, 4, 12 – hier nicht. (Richtig: A)"
+    "B": "Richtig. „5,33“ passt zur Frage.",
+    "A": "Nein. „4“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „5,33“.",
+    "C": "Nein. „6“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „5,33“."
   }
 }

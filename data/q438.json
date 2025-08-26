@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Halbieren, halbieren, halbieren – Logarithmen lieben sowas.",
-    "B": "Linear ist bei 'ich schau alles durch' – nicht hier. (Richtig: A)",
-    "C": "O(1) wäre Zauberei – keine Magie, nur Mathe. (Richtig: A)"
+    "A": "Richtig. „O(log n)“ passt zur Frage.",
+    "B": "Nein. „O(n)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „O(log n)“.",
+    "C": "Nein. „O(1)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „O(log n)“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Was ist ein Schwarzes Loch?",
   "options": {
-    "A": "Region, deren Fluchtgeschwindigkeit größer als Lichtgeschwindigkeit ist",
-    "B": "Ein Loch im Himmel",
+    "B": "Region, deren Fluchtgeschwindigkeit größer als Lichtgeschwindigkeit ist",
+    "A": "Ein Loch im Himmel",
     "C": "Ein dunkler Planet"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Nichts entkommt dem Ereignishorizont – nicht mal Licht.",
-    "B": "Der Himmel hat keine Stofflichkeit mit Löchern. (Richtig: A)",
-    "C": "Planeten sind schwach im Vergleich – keine Lichtfallen. (Richtig: A)"
+    "B": "Richtig. „Region, deren Fluchtgeschwindigkeit größer als Lichtgeschwindigkeit ist“ passt zur Frage.",
+    "A": "Nein. „Ein Loch im Himmel“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Region, deren Fluchtgeschwindigkeit größer als Lichtgeschwindigkeit ist“.",
+    "C": "Nein. „Ein dunkler Planet“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Region, deren Fluchtgeschwindigkeit größer als Lichtgeschwindigkeit ist“."
   }
 }

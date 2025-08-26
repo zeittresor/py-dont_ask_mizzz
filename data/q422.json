@@ -1,14 +1,14 @@
 {
   "question": "Wer malte 'Die Sternennacht'?",
   "options": {
-    "A": "Vincent van Gogh",
-    "B": "Claude Monet",
+    "B": "Vincent van Gogh",
+    "A": "Claude Monet",
     "C": "Pablo Picasso"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Van Gogh und der wirbelnde Himmel.",
-    "B": "Monet: Impression, Sonnenaufgang – anderer Stil. (Richtig: A)",
-    "C": "Picasso: Kubismus – andere Geometrie. (Richtig: A)"
+    "B": "Richtig. „Vincent van Gogh“ ist ein Stern – genau das wird gefragt.",
+    "A": "Nein. „Claude Monet“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Stern). Richtig ist B – „Vincent van Gogh“.",
+    "C": "Nein. „Pablo Picasso“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Stern). Richtig ist B – „Vincent van Gogh“."
   }
 }

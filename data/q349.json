@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Last In, First Out – wie Wäschekörbe in chaotischen Haushalten.",
-    "B": "Queue ist FIFO – brav und fair. (Richtig: A)",
-    "C": "Array ist nur ein Regal – LIFO/ FIFO sind Organisationsfragen. (Richtig: A)"
+    "A": "Richtig. „Stack“ passt zur Frage.",
+    "B": "Nein. „Queue“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Stack“.",
+    "C": "Nein. „Array“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Stack“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welche ist KEINE echte Linux-Distribution?",
   "options": {
-    "A": "Ubuntu",
-    "B": "Fedora",
-    "C": "Chihuahua"
+    "C": "Ubuntu",
+    "A": "Fedora",
+    "B": "Chihuahua"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Chihuahua ist ein Hund – allerdings mit Kernel-Panik bei Staubsaugern.",
-    "B": "Fedora ist Red-Hat-Stamm. (Richtig: A)",
-    "C": "Ubuntu ist Debian-Familie."
+    "C": "Richtig. „Ubuntu“ passt zur Frage.",
+    "A": "Nein. „Fedora“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Ubuntu“.",
+    "B": "Nein. „Chihuahua“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Ubuntu“."
   }
 }

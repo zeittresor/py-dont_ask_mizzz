@@ -1,14 +1,14 @@
 {
   "question": "Was ist die Summe der Innenwinkel eines Dreiecks?",
   "options": {
-    "A": "180°",
-    "B": "360°",
+    "B": "180°",
+    "A": "360°",
     "C": "90°"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Im euklidischen Raum: immer 180°. Auf einer Pizza auch.",
-    "B": "360° ist was für Kreise. (Richtig: A)",
-    "C": "90° ist der rechte Winkel – solo, nicht im Trio. (Richtig: A)"
+    "B": "Richtig. „180°“ passt zur Frage.",
+    "A": "Nein. „360°“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „180°“.",
+    "C": "Nein. „90°“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „180°“."
   }
 }

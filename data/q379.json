@@ -1,14 +1,14 @@
 {
   "question": "Welche Schreibweise ist Standard?",
   "options": {
-    "A": "im Allgemeinen",
-    "B": "im allgemeinen",
+    "B": "im Allgemeinen",
+    "A": "im allgemeinen",
     "C": "Im Allgemeinen (ohne Satzanfang)"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Substantivierung groß: im Allgemeinen.",
-    "B": "So nicht. (Richtig: A)",
-    "C": "Am Satzanfang wäre 'Im' groß – hier nicht gemeint. (Richtig: A)"
+    "B": "Richtig. „im Allgemeinen“ passt zur Frage.",
+    "A": "Nein. „im allgemeinen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „im Allgemeinen“.",
+    "C": "Nein. „Im Allgemeinen (ohne Satzanfang)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „im Allgemeinen“."
   }
 }

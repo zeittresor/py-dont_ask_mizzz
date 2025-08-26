@@ -1,14 +1,14 @@
 {
   "question": "Welches Land liegt NICHT in Skandinavien (eng gefasst)?",
   "options": {
-    "A": "Finnland",
-    "B": "Norwegen",
+    "B": "Finnland",
+    "A": "Norwegen",
     "C": "Schweden"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Im engen Sinn: Norwegen, Schweden, Dänemark. Finnland ist Nordisch, aber nicht Skandinavien pur.",
-    "B": "Norwegen ist dabei – Fjorde zum Verlieben. (Richtig: A)",
-    "C": "Schweden auch – mit Köttbullar-Lizenz. (Richtig: A)"
+    "B": "Richtig. „Finnland“ ist ein Land – genau das wird gefragt.",
+    "A": "Nein. „Norwegen“ ist ein Land; gesucht ist ein Land. Richtig ist B – „Finnland“.",
+    "C": "Nein. „Schweden“ ist ein Land; gesucht ist ein Land. Richtig ist B – „Finnland“."
   }
 }

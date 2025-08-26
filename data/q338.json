@@ -1,14 +1,14 @@
 {
   "question": "Was ist ein Pulsar?",
   "options": {
-    "A": "Schnell rotierender Neutronenstern mit Strahlungsbündeln",
-    "B": "Kleiner Planet mit Puls",
-    "C": "Roter Riese kurz vor der Supernova"
+    "C": "Schnell rotierender Neutronenstern mit Strahlungsbündeln",
+    "A": "Kleiner Planet mit Puls",
+    "B": "Roter Riese kurz vor der Supernova"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Lighthouse im All – pulsierendes Radiogeflacker.",
-    "B": "Planeten haben keinen Puls (medizinisch). (Richtig: A)",
-    "C": "Roter Riese kann später explodieren, ist aber kein Pulsar. (Richtig: A)"
+    "C": "Richtig. „Schnell rotierender Neutronenstern mit Strahlungsbündeln“ passt zur Frage.",
+    "A": "Nein. „Kleiner Planet mit Puls“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Schnell rotierender Neutronenstern mit Strahlungsbündeln“.",
+    "B": "Nein. „Roter Riese kurz vor der Supernova“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Schnell rotierender Neutronenstern mit Strahlungsbündeln“."
   }
 }

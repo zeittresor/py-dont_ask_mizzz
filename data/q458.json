@@ -1,14 +1,14 @@
 {
   "question": "Welche Schreibweise ist korrekt (Getrennt-/Zusammenschreibung)?",
   "options": {
-    "A": "kennen lernen (trad.), kennenlernen (neu)",
-    "B": "kennenlernen ist grundsätzlich falsch",
+    "B": "kennen lernen (trad.), kennenlernen (neu)",
+    "A": "kennenlernen ist grundsätzlich falsch",
     "C": "kennen lernen ist grundsätzlich falsch"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Beide sind möglich, 'kennenlernen' ist in neuer RS üblich.",
-    "B": "Nope. (Richtig: A)",
-    "C": "Auch falsch als Ausschließlichkeit. (Richtig: A)"
+    "B": "Richtig. „kennen lernen (trad.), kennenlernen (neu)“ passt zur Frage.",
+    "A": "Nein. „kennenlernen ist grundsätzlich falsch“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „kennen lernen (trad.), kennenlernen (neu)“.",
+    "C": "Nein. „kennen lernen ist grundsätzlich falsch“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „kennen lernen (trad.), kennenlernen (neu)“."
   }
 }

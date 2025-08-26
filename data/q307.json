@@ -1,14 +1,14 @@
 {
   "question": "Welche Interpunktion beendet eine direkte Frage?",
   "options": {
-    "A": "Fragezeichen",
-    "B": "Punkt",
+    "B": "Fragezeichen",
+    "A": "Punkt",
     "C": "Semikolon"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Klar. Oder? Eben!",
-    "B": "Punkt ist unneugierig. (Richtig: A)",
-    "C": "Semikolon ist das Snob-Komma. (Richtig: A)"
+    "B": "Richtig. „Fragezeichen“ passt zur Frage.",
+    "A": "Nein. „Punkt“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Fragezeichen“.",
+    "C": "Nein. „Semikolon“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Fragezeichen“."
   }
 }

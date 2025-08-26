@@ -1,14 +1,14 @@
 {
   "question": "Welche Datei beschreibt in Git die zu ignorierenden Pfade?",
   "options": {
-    "A": ".gitignore",
-    "B": ".gitkeep",
+    "B": ".gitignore",
+    "A": ".gitkeep",
     "C": "git.conf"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Alles, was die Bühne nicht betreten soll, kommt hier auf die Liste.",
-    "B": ".gitkeep ist ein Trickfile, keine Regelquelle. (Richtig: A)",
-    "C": "git.conf klingt seriös, existiert aber nicht so. (Richtig: A)"
+    "B": "Richtig. „.gitignore“ passt zur Frage.",
+    "A": "Nein. „.gitkeep“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „.gitignore“.",
+    "C": "Nein. „git.conf“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „.gitignore“."
   }
 }

@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Software-as-a-Service: einloggen, benutzen, fertig – wie ein gemachtes Bett.",
-    "B": "Infrastructure-as-a-Service: VMs & Netze – selber beziehen. (Richtig: A)",
-    "C": "Platform-as-a-Service: Laufzeitumgebung – du bringst den Code. (Richtig: A)"
+    "A": "Richtig. „SaaS“ passt zur Frage.",
+    "B": "Nein. „IaaS“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „SaaS“.",
+    "C": "Nein. „PaaS“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „SaaS“."
   }
 }
