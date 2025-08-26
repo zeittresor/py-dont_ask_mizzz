@@ -1,14 +1,14 @@
 {
   "question": "Welche Einheit misst Druck?",
   "options": {
-    "A": "Pascal",
-    "B": "Watt",
-    "C": "Lux"
+    "C": "Pascal",
+    "A": "Watt",
+    "B": "Lux"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Pascal: Kraft pro Fläche. Luft, Reifen, Unterwasserküsse – alles Druckfragen.",
-    "B": "Watt ist Leistung – nichts drückt hier. (Richtig: A)",
-    "C": "Lux misst, wie hell es auf einer Fläche ankommt. (Richtig: A)"
+    "C": "Richtig. „Pascal“ passt zur Frage.",
+    "A": "Nein. „Watt“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Pascal“.",
+    "B": "Nein. „Lux“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Pascal“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welche Aussage über Sternbilder stimmt?",
   "options": {
-    "A": "Scheinmuster aus unterschiedlich fernen Sternen",
-    "B": "Physische Sternhaufen",
+    "B": "Scheinmuster aus unterschiedlich fernen Sternen",
+    "A": "Physische Sternhaufen",
     "C": "Täglich komplett neu"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Am Himmel verbunden, im Raum getrennt – kosmische Pareidolie.",
-    "B": "Echte Haufen sind etwas anderes – und nicht zwingend figürlich. (Richtig: A)",
-    "C": "Die Eigenbewegung verändert Muster über Jahrtausende, nicht täglich. (Richtig: A)"
+    "B": "Richtig. „Scheinmuster aus unterschiedlich fernen Sternen“ ist ein Stern – genau das wird gefragt.",
+    "A": "Nein. „Physische Sternhaufen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Stern). Richtig ist B – „Scheinmuster aus unterschiedlich fernen Sternen“.",
+    "C": "Nein. „Täglich komplett neu“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Stern). Richtig ist B – „Scheinmuster aus unterschiedlich fernen Sternen“."
   }
 }

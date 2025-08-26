@@ -1,14 +1,14 @@
 {
   "question": "Welches Organ pumpt bei dir treu das Blut – auch wenn du gerade versuchst, eine Dockerfile zu debuggen?",
   "options": {
+    "C": "Herz",
     "A": "Leber",
-    "B": "Herz",
-    "C": "Milz"
+    "B": "Milz"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Die Leber filtert und metabolisiert – sie pumpt höchstens Stimmung, wenn der Kaffee alle ist.",
-    "B": "Das Herz: dein persönlicher Taktgeber. Sogar dann, wenn 'docker build' zum dritten Mal wegen eines fehlenden Semikolons heult. (Richtig: A)",
-    "C": "Die Milz ist immunologisch am Start, aber nicht als zentrales Pumpwerk. (Richtig: A)"
+    "C": "Richtig. „Herz“ passt zur Frage.",
+    "A": "Nein. „Leber“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Herz“.",
+    "B": "Nein. „Milz“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Herz“."
   }
 }

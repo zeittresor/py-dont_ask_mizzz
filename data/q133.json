@@ -1,14 +1,14 @@
 {
   "question": "Welche Einheit beschreibt die Frequenz?",
   "options": {
-    "A": "Hertz",
-    "B": "Pascal",
+    "B": "Hertz",
+    "A": "Pascal",
     "C": "Watt"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Hertz = Schwingungen pro Sekunde. Von Bass bis WLAN – alles wackelt.",
-    "B": "Pascal misst Druck – nicht Tempo des Wackelns. (Richtig: A)",
-    "C": "Watt ist Leistung – die Schubkraft hinterm Wackeln. (Richtig: A)"
+    "B": "Richtig. „Hertz“ passt zur Frage.",
+    "A": "Nein. „Pascal“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Hertz“.",
+    "C": "Nein. „Watt“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Hertz“."
   }
 }

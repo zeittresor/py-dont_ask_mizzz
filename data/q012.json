@@ -1,14 +1,14 @@
 {
   "question": "Welches Land hat die größte Bevölkerung weltweit?",
   "options": {
-    "A": "China – die längste Geschichte und das größte Volksfest",
-    "B": "Indien – das Land der Unterhaltungen",
-    "C": "USA – das Land der unbegrenzten Möglichkeiten"
+    "C": "China – die längste Geschichte und das größte Volksfest",
+    "A": "Indien – das Land der Unterhaltungen",
+    "B": "USA – das Land der unbegrenzten Möglichkeiten"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Richtig! China hat aktuell mehr als 1,4 Milliarde Menschen – damit die größte Bevölkerung der Welt.",
-    "B": "Indien hat ebenfalls rund 1,38 Milliarde Einwohner, liegt aber knapp hinter China. (Richtig: A)",
-    "C": "Die USA haben etwa 331 Millionen Menschen – deutlich weniger als China oder Indien. (Richtig: A)"
+    "C": "Richtig. „China – die längste Geschichte und das größte Volksfest“ ist ein Land – genau das wird gefragt.",
+    "A": "Nein. „Indien – das Land der Unterhaltungen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Land). Richtig ist C – „China – die längste Geschichte und das größte Volksfest“.",
+    "B": "Nein. „USA – das Land der unbegrenzten Möglichkeiten“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Land). Richtig ist C – „China – die längste Geschichte und das größte Volksfest“."
   }
 }

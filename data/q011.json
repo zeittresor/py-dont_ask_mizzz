@@ -1,14 +1,14 @@
 {
   "question": "Welche dieser Sprüche stammt von Albert Einstein?",
   "options": {
+    "B": "Alles ist relativ – selbst die Lust am Lachen.",
     "A": "Zeit ist ein Irrleuchtspektakel.",
-    "B": "Die Einzigartigkeit des Menschen liegt in seiner Unvollkommenheit.",
-    "C": "Alles ist relativ – selbst die Lust am Lachen."
+    "C": "Die Einzigartigkeit des Menschen liegt in seiner Unvollkommenheit."
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Dieser Spruch ist ein modernes Meme, nicht aus Einsteins Schriften.",
-    "B": "Einstein schrieb etwas Ähnliches, aber nicht exakt so. (Richtig: A)",
-    "C": "Richtig! Ein klassischer Einsteins‑Satz: „Alles ist relativ.“ (Richtig: A)"
+    "B": "Richtig. „Alles ist relativ – selbst die Lust am Lachen.“ passt zur Frage.",
+    "A": "Nein. „Zeit ist ein Irrleuchtspektakel.“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Alles ist relativ – selbst die Lust am Lachen.“.",
+    "C": "Nein. „Die Einzigartigkeit des Menschen liegt in seiner Unvollkommenheit.“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Alles ist relativ – selbst die Lust am Lachen.“."
   }
 }

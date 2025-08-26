@@ -1,14 +1,14 @@
 {
   "question": "Was macht ein Compiler?",
   "options": {
-    "A": "Übersetzt Quellcode in ausführbaren Code",
-    "B": "Formatiert Textdateien",
-    "C": "Komprimiert Bilder"
+    "C": "Übersetzt Quellcode in ausführbaren Code",
+    "A": "Formatiert Textdateien",
+    "B": "Komprimiert Bilder"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Vom Menschen- zum Maschinenkauderwelsch – mit Optimierungen und Fehlermeckern.",
-    "B": "Das machen Formatter, nicht Compiler. (Richtig: A)",
-    "C": "Bilder schrumpfen andere Tools – nicht der Compiler. (Richtig: A)"
+    "C": "Richtig. „Übersetzt Quellcode in ausführbaren Code“ passt zur Frage.",
+    "A": "Nein. „Formatiert Textdateien“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Übersetzt Quellcode in ausführbaren Code“.",
+    "B": "Nein. „Komprimiert Bilder“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Übersetzt Quellcode in ausführbaren Code“."
   }
 }

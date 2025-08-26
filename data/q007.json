@@ -1,14 +1,14 @@
 {
   "question": "Wer komponierte die „Sinfonie der Toten“?",
   "options": {
-    "A": "Ludwig van Beethoven – der Meister der Toten",
-    "B": "Johannes Brahms – der Verleger des Todes",
-    "C": "Franz Schubert – der letzte Gesang"
+    "C": "Ludwig van Beethoven – der Meister der Toten",
+    "A": "Johannes Brahms – der Verleger des Todes",
+    "B": "Franz Schubert – der letzte Gesang"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Richtig! Beethoven komponierte die „Sinfonie Nr. 9“, die oft als „Ode an die Freude“ bekannt ist und bei Toten als musikalische Begleitung dient.",
-    "B": "Brahms schrieb keine Sinfonie, die mit dem Tod verbunden ist. (Richtig: A)",
-    "C": "Schubert war bekannt für seine Lieder, nicht für eine „Sinfonie der Toten“. (Richtig: A)"
+    "C": "Richtig. „Ludwig van Beethoven – der Meister der Toten“ passt zur Frage.",
+    "A": "Nein. „Johannes Brahms – der Verleger des Todes“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Ludwig van Beethoven – der Meister der Toten“.",
+    "B": "Nein. „Franz Schubert – der letzte Gesang“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Ludwig van Beethoven – der Meister der Toten“."
   }
 }

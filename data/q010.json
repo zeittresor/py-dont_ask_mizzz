@@ -1,14 +1,14 @@
 {
   "question": "Wer war der erste Mensch, der den Mount Everest bestieg?",
   "options": {
-    "A": "Edmund Hillary – der Bergsteiger aus Neuseeland",
-    "B": "Tenzing Norgay – der Sherpa mit dem Glücksauge",
+    "B": "Edmund Hillary – der Bergsteiger aus Neuseeland",
+    "A": "Tenzing Norgay – der Sherpa mit dem Glücksauge",
     "C": "Sir Chris Bonington – der britische Abenteurer"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Richtig! Edmund Hillary und Tenzing Norgay bestiegen den Everest am 29. Mai 1953.",
-    "B": "Tenzing Norgay war sein Partner, nicht der erste. (Richtig: A)",
-    "C": "Sir Chris Bonington bestieg den Everest erst 1975. (Richtig: A)"
+    "B": "Richtig. „Edmund Hillary – der Bergsteiger aus Neuseeland“ passt zur Frage.",
+    "A": "Nein. „Tenzing Norgay – der Sherpa mit dem Glücksauge“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Edmund Hillary – der Bergsteiger aus Neuseeland“.",
+    "C": "Nein. „Sir Chris Bonington – der britische Abenteurer“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Edmund Hillary – der Bergsteiger aus Neuseeland“."
   }
 }

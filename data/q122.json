@@ -1,14 +1,14 @@
 {
   "question": "Welche Epoche gehört NICHT zur klassischen Dreiteilung der Steinzeit?",
   "options": {
+    "C": "Mittelalter",
     "A": "Neolithikum",
-    "B": "Mittelalter",
-    "C": "Mesolithikum"
+    "B": "Mesolithikum"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Neolithikum = Jungsteinzeit: Ackerbau, Sesshaftigkeit, Töpfe, Drama.",
-    "B": "Mittelalter kommt viel später, mit Rittern, Lehen und Laptops… äh… Lehnsherren. (Richtig: A)",
-    "C": "Mesolithikum = Mittelsteinzeit – die Sandwichphase. (Richtig: A)"
+    "C": "Richtig. „Mittelalter“ passt zur Frage.",
+    "A": "Nein. „Neolithikum“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Mittelalter“.",
+    "B": "Nein. „Mesolithikum“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Mittelalter“."
   }
 }

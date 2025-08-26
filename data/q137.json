@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Dezentral – jeder Clone ist ein vollständiges Repo. Offline-Committen like a pro.",
-    "B": "Zentral geht via Hosting, aber Git selbst ist nicht darauf festgenagelt. (Richtig: A)",
-    "C": "Git kann Binärdateien – nur diffen ist weniger romantisch. (Richtig: A)"
+    "A": "Richtig. „Git ist ein verteiltes Versionskontrollsystem“ passt zur Frage.",
+    "B": "Nein. „Git speichert nur auf einem zentralen Server“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Git ist ein verteiltes Versionskontrollsystem“.",
+    "C": "Nein. „Git kann nur Textdateien, keine Binärdateien“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Git ist ein verteiltes Versionskontrollsystem“."
   }
 }

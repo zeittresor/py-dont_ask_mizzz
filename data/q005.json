@@ -1,14 +1,14 @@
 {
   "question": "Welches Tier ist in der deutschen Nationalhymne erwähnt?",
   "options": {
-    "A": "Schwan – weil er elegant auf dem Fluss schwimmt",
-    "B": "Reiher – weil er die Luft liebt",
-    "C": "Schildkröte – weil sie die Zeit misst"
+    "A": "Schildkröte – weil sie die Zeit misst",
+    "B": "Schwan – weil er elegant auf dem Fluss schwimmt",
+    "C": "Reiher – weil er die Luft liebt"
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Der Schwan ist nicht in der Hymne, sondern in vielen Gedichten erwähnt.",
-    "B": "Der Reiher taucht im Text nicht auf. (Richtig: A)",
-    "C": "Richtig! Die deutsche Nationalhymne enthält die Zeile „… und der Schildkröte.“ (Richtig: A)"
+    "A": "Richtig. „Schildkröte – weil sie die Zeit misst“ passt zur Frage.",
+    "B": "Nein. „Schwan – weil er elegant auf dem Fluss schwimmt“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Schildkröte – weil sie die Zeit misst“.",
+    "C": "Nein. „Reiher – weil er die Luft liebt“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Schildkröte – weil sie die Zeit misst“."
   }
 }

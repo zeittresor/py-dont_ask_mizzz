@@ -1,14 +1,14 @@
 {
   "question": "Welche Programmiersprache steht hinter der Arduino-IDE (typisch)?",
   "options": {
-    "A": "C/C++",
-    "B": "Ruby",
-    "C": "PHP"
+    "C": "C/C++",
+    "A": "Ruby",
+    "B": "PHP"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Arduino skizziert in einer C++-Variante – Pins blinken am liebsten in geschweiften Klammern.",
-    "B": "Ruby ist liebenswert, aber nicht Arduinos Muttersprache. (Richtig: A)",
-    "C": "PHP ist im Web zu Hause, nicht auf dem Breadboard. (Richtig: A)"
+    "C": "Richtig. „C/C++“ passt zur Frage.",
+    "A": "Nein. „Ruby“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „C/C++“.",
+    "B": "Nein. „PHP“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „C/C++“."
   }
 }

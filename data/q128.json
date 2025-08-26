@@ -1,14 +1,14 @@
 {
   "question": "Welcher dieser Sterne ist unsere Sonne?",
   "options": {
-    "A": "G2V-Hauptreihenstern",
-    "B": "Roter Überriese",
+    "B": "G2V-Hauptreihenstern",
+    "A": "Roter Überriese",
     "C": "Weißer Zwerg"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! G2V = gelber Zwerg, Hauptreihe. Stabil wie ein deutsches Pflichtenheft.",
-    "B": "Roter Überriese – vielleicht später mal (Stichwort: andere Sterne), aber nicht unsere Sonne. (Richtig: A)",
-    "C": "Weißer Zwerg ist Spätstadium – erst wenn die Sonne die Rentenphase erreicht hat. (Richtig: A)"
+    "B": "Richtig. „G2V-Hauptreihenstern“ ist ein Stern – genau das wird gefragt.",
+    "A": "Nein. „Roter Überriese“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Stern). Richtig ist B – „G2V-Hauptreihenstern“.",
+    "C": "Nein. „Weißer Zwerg“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Stern). Richtig ist B – „G2V-Hauptreihenstern“."
   }
 }

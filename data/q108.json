@@ -1,14 +1,14 @@
 {
   "question": "Welche Konsole führte 1994 die CD-Technik populär im Mainstream ein (Europa-Launch 1995)?",
   "options": {
-    "A": "Sony PlayStation",
-    "B": "Nintendo 64",
+    "B": "Sony PlayStation",
+    "A": "Nintendo 64",
     "C": "Sega Mega Drive"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Die PlayStation fuhr mit CDs vor, und plötzlich hatten Spiele Soundtracks, die nicht nach Toaster klangen.",
-    "B": "N64 kam später mit Cartridges – schnell, aber begrenzt – wie ein Sprinter mit winzigem Rucksack. (Richtig: A)",
-    "C": "Mega Drive war Modul-Zeit. CDs gab’s erst mit Mega-CD-Zusatz – nice, aber Nische. (Richtig: A)"
+    "B": "Richtig. „Sony PlayStation“ passt zur Frage.",
+    "A": "Nein. „Nintendo 64“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Sony PlayStation“.",
+    "C": "Nein. „Sega Mega Drive“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Sony PlayStation“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welches dieser Tiere ist KEIN Beuteltier?",
   "options": {
+    "B": "Schnabeltier",
     "A": "Koala",
-    "B": "Känguru",
-    "C": "Schnabeltier"
+    "C": "Känguru"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Koalas tragen Nachwuchs im Beutel – und Eukalyptus als Lebensphilosophie.",
-    "B": "Kängurus ohne Beutel? Nur im Cartoon. (Richtig: A)",
-    "C": "Schnabeltiere sind eierlegende Säuger – Natur im Experimentiermodus. (Richtig: A)"
+    "B": "Richtig. „Schnabeltier“ passt zur Frage.",
+    "A": "Nein. „Koala“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Schnabeltier“.",
+    "C": "Nein. „Känguru“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Schnabeltier“."
   }
 }

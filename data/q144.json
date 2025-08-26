@@ -1,14 +1,14 @@
 {
   "question": "Welche Aussage über Brot ist korrekt?",
   "options": {
-    "A": "Sauerteig nutzt Milchsäurebakterien und Hefen",
-    "B": "Hefeteig funktioniert nur ohne Gärung",
-    "C": "Brot ohne Salz ist immer süß"
+    "C": "Sauerteig nutzt Milchsäurebakterien und Hefen",
+    "A": "Hefeteig funktioniert nur ohne Gärung",
+    "B": "Brot ohne Salz ist immer süß"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Milchsäurebakterien + Wildhefen = Geschmack und Trieb. Dein Laib, dein Labor.",
-    "B": "Hefeteig lebt von Gärung – sonst bleibt’s Mehltraurigkeit. (Richtig: A)",
-    "C": "Ohne Salz schmeckt’s fade, nicht automatisch süß – es sei denn, du kippst Zucker rein. (Richtig: A)"
+    "C": "Richtig. „Sauerteig nutzt Milchsäurebakterien und Hefen“ passt zur Frage.",
+    "A": "Nein. „Hefeteig funktioniert nur ohne Gärung“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Sauerteig nutzt Milchsäurebakterien und Hefen“.",
+    "B": "Nein. „Brot ohne Salz ist immer süß“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Sauerteig nutzt Milchsäurebakterien und Hefen“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "In welchem Jahr wurde die Berliner Mauer erstmals geöffnet?",
   "options": {
-    "A": "1989 – der Schweiß der letzten Jahre",
-    "B": "1990 – die Zeit der Übergangsphase",
-    "C": "1991 – die neue Ära der Freiheit"
+    "C": "1989 – der Schweiß der letzten Jahre",
+    "A": "1990 – die Zeit der Übergangsphase",
+    "B": "1991 – die neue Ära der Freiheit"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Richtig! Am 9. November 1989 wurde die Mauer geöffnet.",
-    "B": "1990 war das Jahr der Wiedervereinigung, nicht das Öffnungsjahr. (Richtig: A)",
-    "C": "1991 war das Jahr der neuen Verfassungsänderungen – die Mauer war schon geöffnet. (Richtig: A)"
+    "C": "Richtig. „1989 – der Schweiß der letzten Jahre“ ist ein Jahr – genau das wird gefragt.",
+    "A": "Nein. „1990 – die Zeit der Übergangsphase“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Jahr). Richtig ist C – „1989 – der Schweiß der letzten Jahre“.",
+    "B": "Nein. „1991 – die neue Ära der Freiheit“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Jahr). Richtig ist C – „1989 – der Schweiß der letzten Jahre“."
   }
 }

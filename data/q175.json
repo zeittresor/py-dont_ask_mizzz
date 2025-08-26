@@ -1,14 +1,14 @@
 {
   "question": "Wofür steht 'AU' in der Astronomie?",
   "options": {
-    "A": "Astronomische Einheit",
-    "B": "Asteroidische Umlaufbahn",
-    "C": "Absolute Umlaufzahl"
+    "C": "Astronomische Einheit",
+    "A": "Asteroidische Umlaufbahn",
+    "B": "Absolute Umlaufzahl"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Mittlerer Abstand Erde–Sonne. Die Messlatte unserer kosmischen Hausstrecke.",
-    "B": "Klingt fancy, ist aber frei erfunden. (Richtig: A)",
-    "C": "Das klingt mathematisch, aber nicht astronomisch gebräuchlich. (Richtig: A)"
+    "C": "Richtig. „Astronomische Einheit“ passt zur Frage.",
+    "A": "Nein. „Asteroidische Umlaufbahn“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Astronomische Einheit“.",
+    "B": "Nein. „Absolute Umlaufzahl“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Astronomische Einheit“."
   }
 }

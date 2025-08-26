@@ -1,14 +1,14 @@
 {
   "question": "Welche Aussage zur Kryptographie ist korrekt?",
   "options": {
-    "A": "Public-Key-Verfahren nutzen ein Schlüsselpaar für Ver- und Entschlüsselung",
-    "B": "Symmetrische Verfahren haben immer zwei Schlüssel",
-    "C": "Hashfunktionen sind reversible Verschlüsselungen"
+    "C": "Public-Key-Verfahren nutzen ein Schlüsselpaar für Ver- und Entschlüsselung",
+    "A": "Symmetrische Verfahren haben immer zwei Schlüssel",
+    "B": "Hashfunktionen sind reversible Verschlüsselungen"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Ein Schlüssel kommt raus in die Welt (Public), der andere bleibt zu Hause (Private).",
-    "B": "Symmetrisch = ein und derselbe Schlüssel. Partnerschaft auf Augenhöhe. (Richtig: A)",
-    "C": "Hashes sind Einweg – wie das Schoko-Croissant: einmal weg, nie wieder un-gefuttert. (Richtig: A)"
+    "C": "Richtig. „Public-Key-Verfahren nutzen ein Schlüsselpaar für Ver- und Entschlüsselung“ passt zur Frage.",
+    "A": "Nein. „Symmetrische Verfahren haben immer zwei Schlüssel“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Public-Key-Verfahren nutzen ein Schlüsselpaar für Ver- und Entschlüsselung“.",
+    "B": "Nein. „Hashfunktionen sind reversible Verschlüsselungen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Public-Key-Verfahren nutzen ein Schlüsselpaar für Ver- und Entschlüsselung“."
   }
 }

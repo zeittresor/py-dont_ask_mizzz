@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Exklusivitäts-Club für Elektronen: Gleiche Quantenzahlen am selben Ort? Hausordnung sagt: Nö.",
-    "B": "Klingt nach Paartherapie für Fermionen – ist aber was anderes. (Richtig: A)",
-    "C": "Orthogonalität ist sexy, aber kein Pauli-Gebot. (Richtig: A)"
+    "A": "Richtig. „Zwei Elektronen können nicht denselben Quantenzustand teilen“ passt zur Frage.",
+    "B": "Nein. „Teilchen dürfen nur in Paaren erscheinen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Zwei Elektronen können nicht denselben Quantenzustand teilen“.",
+    "C": "Nein. „Alle Felder müssen orthogonal sein, sonst weint die Symmetrie“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Zwei Elektronen können nicht denselben Quantenzustand teilen“."
   }
 }

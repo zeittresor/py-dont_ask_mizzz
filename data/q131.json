@@ -1,14 +1,14 @@
 {
   "question": "Welche deutsche Redewendung bedeutet sinngemäß 'Gas geben' im Sinne von 'Beeil dich'?",
   "options": {
-    "A": "Auf die Tube drücken",
-    "B": "Jemanden auf den Schlips treten",
+    "B": "Auf die Tube drücken",
+    "A": "Jemanden auf den Schlips treten",
     "C": "Die Zähne putzen"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Auf die Tube drücken – ursprünglich aus der Technik/Eisenbahn; heute überall dort, wo die Deadline dir hallo sagt.",
-    "B": "Auf den Schlips treten – beleidigen, nicht beschleunigen. (Richtig: A)",
-    "C": "Zähne putzen – wichtig, aber selten ein Sprintbefehl. (Richtig: A)"
+    "B": "Richtig. „Auf die Tube drücken“ passt zur Frage.",
+    "A": "Nein. „Jemanden auf den Schlips treten“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Auf die Tube drücken“.",
+    "C": "Nein. „Die Zähne putzen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Auf die Tube drücken“."
   }
 }

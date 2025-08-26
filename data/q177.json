@@ -1,14 +1,14 @@
 {
   "question": "Welches ist der Mond der Erde?",
   "options": {
-    "A": "Der Mond",
-    "B": "Phobos",
-    "C": "Titan"
+    "C": "Der Mond",
+    "A": "Phobos",
+    "B": "Titan"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Manchmal ist die Antwort wirklich so simpel. Ja: der Mond heißt… Mond.",
-    "B": "Phobos gehört zum Mars. (Richtig: A)",
-    "C": "Titan gehört zu Saturn – Methan-Wetter inklusive. (Richtig: A)"
+    "C": "Richtig. „Der Mond“ ist der Mond der Erde.",
+    "A": "Nein. „Phobos“ ist ein Mond des Planeten Mars; gesucht ist der Mond der Erde – „Der Mond“ (Antwort C).",
+    "B": "Nein. „Titan“ ist ein Mond des Planeten Saturn; gesucht ist der Mond der Erde – „Der Mond“ (Antwort C)."
   }
 }

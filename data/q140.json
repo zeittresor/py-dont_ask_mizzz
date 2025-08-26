@@ -1,14 +1,14 @@
 {
   "question": "Welche Sportart nutzt traditionell kein rundes Spielgerät?",
   "options": {
-    "A": "American Football",
-    "B": "Basketball",
-    "C": "Fußball"
+    "C": "American Football",
+    "A": "Basketball",
+    "B": "Fußball"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Das Ei. Weil man mit Ecken besser strategisch verzweifeln kann.",
-    "B": "Basketball ist rund – der Ball, nicht der Korb. (Richtig: A)",
-    "C": "Fußball ist… na ja… fuß- und ballrund. (Richtig: A)"
+    "C": "Richtig. „American Football“ passt zur Frage.",
+    "A": "Nein. „Basketball“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „American Football“.",
+    "B": "Nein. „Fußball“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „American Football“."
   }
 }

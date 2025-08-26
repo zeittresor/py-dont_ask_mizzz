@@ -1,14 +1,14 @@
 {
   "question": "Welche Einheit misst die elektrische Spannung?",
   "options": {
-    "A": "Volt",
-    "B": "Watt",
+    "B": "Volt",
+    "A": "Watt",
     "C": "Ohm"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Volt misst, wie sehr Elektronen gedrängelt werden – der Druck im Stromnetz.",
-    "B": "Watt ist Leistung: Was am Ende an Arbeit rauspurzelt. (Richtig: A)",
-    "C": "Ohm ist Widerstand – der Türsteher, nicht der Antreiber. (Richtig: A)"
+    "B": "Richtig. „Volt“ passt zur Frage.",
+    "A": "Nein. „Watt“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Volt“.",
+    "C": "Nein. „Ohm“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Volt“."
   }
 }

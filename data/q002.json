@@ -1,14 +1,14 @@
 {
   "question": "Welcher dieser Sportler hat die höchste Anzahl an Goldmedaillen bei den Olympischen Spielen?",
   "options": {
-    "A": "Michael Phelps – der Fisch mit dem goldenen Flossen‑Glanz",
-    "B": "Usain Bolt – der schnellste menschliche Rasen",
+    "B": "Michael Phelps – der Fisch mit dem goldenen Flossen‐Glanz",
+    "A": "Usain Bolt – der schnellste menschliche Rasen",
     "C": "Carl Lewis – der Springer, der die Welt nach Hause schleppt"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Richtig! Michael Phelps gewann bei den Olympischen Spielen 2008, 2012 und 2016 insgesamt 23 Goldmedaillen.",
-    "B": "Usain Bolt ist zwar der schnellste, hat aber nur 8 Goldmedaillen gewonnen. (Richtig: A)",
-    "C": "Carl Lewis hat 9 Goldmedaillen, aber das ist weniger als Phelps. (Richtig: A)"
+    "B": "Richtig. „Michael Phelps – der Fisch mit dem goldenen Flossen‐Glanz“ ist ein Zahl – genau das wird gefragt.",
+    "A": "Nein. „Usain Bolt – der schnellste menschliche Rasen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Zahl). Richtig ist B – „Michael Phelps – der Fisch mit dem goldenen Flossen‐Glanz“.",
+    "C": "Nein. „Carl Lewis – der Springer, der die Welt nach Hause schleppt“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Zahl). Richtig ist B – „Michael Phelps – der Fisch mit dem goldenen Flossen‐Glanz“."
   }
 }

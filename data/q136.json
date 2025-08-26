@@ -1,14 +1,14 @@
 {
   "question": "Welche Einheit ist die SI-Basiseinheit der Stoffmenge?",
   "options": {
-    "A": "Mol",
-    "B": "Pound",
-    "C": "Gallon"
+    "C": "Mol",
+    "A": "Pound",
+    "B": "Gallon"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Mol: 6,022×10^23 Teilchen. Eine Zahl, so groß wie dein Wunschzettel an die IT.",
-    "B": "Pound ist imperial – nützlich für Kuchen, weniger für Avogadro. (Richtig: A)",
-    "C": "Gallon: Volumenmaß – Stoffmenge bleibt unbeeindruckt. (Richtig: A)"
+    "C": "Richtig. „Mol“ passt zur Frage.",
+    "A": "Nein. „Pound“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Mol“.",
+    "B": "Nein. „Gallon“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Mol“."
   }
 }

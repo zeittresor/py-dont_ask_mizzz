@@ -1,14 +1,14 @@
 {
   "question": "Was ist das nationale Symbol von Schweden?",
   "options": {
+    "B": "Die Sonne – die die kalte Landschaft erleuchtet",
     "A": "Der Schmetterling – weil er die Freiheit verkündet",
-    "B": "Der Fuchs – weil er die Cleverness repräsentiert",
-    "C": "Die Sonne – die die kalte Landschaft erleuchtet"
+    "C": "Der Fuchs – weil er die Cleverness repräsentiert"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Der Schmetterling ist kein offizielles Symbol Schwedens.",
-    "B": "Der Fuchs steht für List, aber nicht für das nationale Symbol. (Richtig: A)",
-    "C": "Richtig! Die Sonne (Sveriges flagge) ist das Symbol des Landes. (Richtig: A)"
+    "B": "Richtig. „Die Sonne – die die kalte Landschaft erleuchtet“ ist ein chemisches Symbol – genau das wird gefragt.",
+    "A": "Nein. „Der Schmetterling – weil er die Freiheit verkündet“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (chemisches Symbol). Richtig ist B – „Die Sonne – die die kalte Landschaft erleuchtet“.",
+    "C": "Nein. „Der Fuchs – weil er die Cleverness repräsentiert“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (chemisches Symbol). Richtig ist B – „Die Sonne – die die kalte Landschaft erleuchtet“."
   }
 }

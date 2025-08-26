@@ -1,14 +1,14 @@
 {
   "question": "Welche Programmierschnittstelle ist typischerweise zustandslos?",
   "options": {
-    "A": "HTTP/REST",
-    "B": "FTP",
-    "C": "Telnet"
+    "C": "HTTP/REST",
+    "A": "FTP",
+    "B": "Telnet"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! REST baut auf HTTPs Zustandslosigkeit. Jeder Request steht auf eigenen Beinen, wie ein erwachsener API-Call.",
-    "B": "FTP hält Sitzungen – man loggt ein, dann geht’s los. (Richtig: A)",
-    "C": "Telnet ist ein anhaltender Stream – sehr stateful, sehr retro. (Richtig: A)"
+    "C": "Richtig. „HTTP/REST“ passt zur Frage.",
+    "A": "Nein. „FTP“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „HTTP/REST“.",
+    "B": "Nein. „Telnet“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „HTTP/REST“."
   }
 }

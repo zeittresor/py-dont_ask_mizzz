@@ -1,14 +1,14 @@
 {
   "question": "Welche Aussage über den pH-Wert ist korrekt?",
   "options": {
-    "A": "pH 7 ist neutral",
-    "B": "pH 0 ist stark basisch",
-    "C": "pH 14 ist stark sauer"
+    "C": "pH 7 ist neutral",
+    "A": "pH 0 ist stark basisch",
+    "B": "pH 14 ist stark sauer"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! 7 = neutral – das Switzerland der Säure-Base-Skala.",
-    "B": "pH 0 ist sauer genug, um schlechte Laune in Metall umzuwandeln. (Richtig: A)",
-    "C": "pH 14 ist die Basenparty – bring Handschuhe. (Richtig: A)"
+    "C": "Richtig. „pH 7 ist neutral“ passt zur Frage.",
+    "A": "Nein. „pH 0 ist stark basisch“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „pH 7 ist neutral“.",
+    "B": "Nein. „pH 14 ist stark sauer“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „pH 7 ist neutral“."
   }
 }

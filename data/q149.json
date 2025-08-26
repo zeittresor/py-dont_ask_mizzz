@@ -1,14 +1,14 @@
 {
   "question": "Welcher Stoff sorgt hauptsächlich für die Bitterkeit im Bier?",
   "options": {
-    "A": "Hopfen-Alphasäuren",
-    "B": "Eisen-II-Ionen",
-    "C": "CO₂"
+    "C": "Hopfen-Alphasäuren",
+    "A": "Eisen-II-Ionen",
+    "B": "CO2"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Isomerisierte Alphasäuren aus Hopfen geben die Bittere – die feine Kante im Schluck.",
-    "B": "Eisen macht Braumeister nervös, nicht bitter. (Richtig: A)",
-    "C": "CO₂ perlt nur – bitter ist es nicht, außer in der Steuer. (Richtig: A)"
+    "C": "Richtig. „Hopfen-Alphasäuren“ passt zur Frage.",
+    "A": "Nein. „Eisen-II-Ionen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Hopfen-Alphasäuren“.",
+    "B": "Nein. „CO2“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Hopfen-Alphasäuren“."
   }
 }

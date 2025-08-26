@@ -1,14 +1,14 @@
 {
   "question": "Wie viel Prozent des Ozeanwassers ist Süßwasser?",
   "options": {
-    "A": "1 %",
-    "B": "2 %",
-    "C": "3 %"
+    "A": "1 %",
+    "B": "2 %",
+    "C": "3 %"
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Richtig! Nur etwa 1 % des weltweiten Wassers ist Süßwasser.",
-    "B": "Falsch. Mehr als 95 % des Ozeanwassers ist Salzwasser. (Richtig: A)",
-    "C": "Falsch. Die 3 % gehören zu den Süßwasseranteilen, die im gesamten Ozean verteilt sind. (Richtig: A)"
+    "A": "Richtig. „1 %“ ist hier die passende Wahl.",
+    "B": "Nein. „2 %“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Ozean). Richtig ist A – „1 %“.",
+    "C": "Nein. „3 %“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Ozean). Richtig ist A – „1 %“."
   }
 }

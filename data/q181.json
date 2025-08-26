@@ -1,14 +1,14 @@
 {
   "question": "Was ist das 'Kraftwerk der Zelle' in der Schulbuch-Metapher?",
   "options": {
-    "A": "Mitochondrien",
-    "B": "Ribosomen",
-    "C": "Golgi-Apparat"
+    "C": "Mitochondrien",
+    "A": "Ribosomen",
+    "B": "Golgi-Apparat"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Mitochondrien erzeugen ATP – Energiebonbons fürs Zellleben.",
-    "B": "Ribosomen basteln Proteine – Werkbank, nicht Kraftwerk. (Richtig: A)",
-    "C": "Golgi verpackt und verschickt – DHL der Zelle. (Richtig: A)"
+    "C": "Richtig. „Mitochondrien“ passt zur Frage.",
+    "A": "Nein. „Ribosomen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Mitochondrien“.",
+    "B": "Nein. „Golgi-Apparat“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Mitochondrien“."
   }
 }

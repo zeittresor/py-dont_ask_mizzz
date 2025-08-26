@@ -1,14 +1,14 @@
 {
   "question": "Welches Dateisystem stammt klassisch von Microsoft (frühe PCs/DOS)?",
   "options": {
-    "A": "FAT",
-    "B": "ext4",
+    "B": "FAT",
+    "A": "ext4",
     "C": "APFS"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! File Allocation Table – Nostalgie in Tabellenform.",
-    "B": "ext4 ist Linux-Liebling – pingelig, aber modern. (Richtig: A)",
-    "C": "APFS wohnt bei Apple – iOS/macOS. (Richtig: A)"
+    "B": "Richtig. „FAT“ passt zur Frage.",
+    "A": "Nein. „ext4“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „FAT“.",
+    "C": "Nein. „APFS“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „FAT“."
   }
 }

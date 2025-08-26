@@ -1,14 +1,14 @@
 {
   "question": "Welche Einheit ist die SI-Einheit der Frequenz?",
   "options": {
-    "A": "Hertz",
-    "B": "Newton",
-    "C": "Joule"
+    "C": "Hertz",
+    "A": "Newton",
+    "B": "Joule"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Hertz: Schwingungen pro Sekunde. Vom Bass bis zur CPU.",
-    "B": "Newton ist Kraft. Andere Baustelle. (Richtig: A)",
-    "C": "Joule ist Energie. Ende der Durchsage. (Richtig: A)"
+    "C": "Richtig. „Hertz“ passt zur Frage.",
+    "A": "Nein. „Newton“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Hertz“.",
+    "B": "Nein. „Joule“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Hertz“."
   }
 }

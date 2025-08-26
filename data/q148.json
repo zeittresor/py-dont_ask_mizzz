@@ -1,14 +1,14 @@
 {
   "question": "Welche Aussage über SSDs ist korrekt?",
   "options": {
-    "A": "SSDs speichern Daten auch ohne Strom",
-    "B": "SSDs brauchen ständig Strom, sonst schmelzen Bits",
+    "B": "SSDs speichern Daten auch ohne Strom",
+    "A": "SSDs brauchen ständig Strom, sonst schmelzen Bits",
     "C": "SSDs sind grundsätzlich mechanisch wie HDDs"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Nichtflüchtiger Flash – die Bits bleiben artig sitzen, selbst wenn du den Stecker ziehst.",
-    "B": "Nur RAM ist so vergesslich. SSDs chillen auch stromlos. (Richtig: A)",
-    "C": "Keine rotierenden Scheiben – nur Elektronenballett. (Richtig: A)"
+    "B": "Richtig. „SSDs speichern Daten auch ohne Strom“ passt zur Frage.",
+    "A": "Nein. „SSDs brauchen ständig Strom, sonst schmelzen Bits“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „SSDs speichern Daten auch ohne Strom“.",
+    "C": "Nein. „SSDs sind grundsätzlich mechanisch wie HDDs“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „SSDs speichern Daten auch ohne Strom“."
   }
 }

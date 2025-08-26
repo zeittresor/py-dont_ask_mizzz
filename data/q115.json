@@ -1,14 +1,14 @@
 {
   "question": "Was bedeutet das 'S' in HTTPS?",
   "options": {
-    "A": "Secure",
-    "B": "Server",
+    "B": "Secure",
+    "A": "Server",
     "C": "Socket"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! HyperText Transfer Protocol Secure – das Schloss-Symbol deines Browsers kommt nicht aus dem Märchen.",
-    "B": "Server sind zwar beteiligt, aber das S steht nicht dafür. (Richtig: A)",
-    "C": "Sockets sind beteiligt, aber hier geht’s ums Sicherheitsläuten. (Richtig: A)"
+    "B": "Richtig. „Secure“ passt zur Frage.",
+    "A": "Nein. „Server“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Secure“.",
+    "C": "Nein. „Socket“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Secure“."
   }
 }

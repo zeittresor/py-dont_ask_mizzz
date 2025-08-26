@@ -1,14 +1,14 @@
 {
   "question": "Was ist Git im Kern?",
   "options": {
-    "A": "Verteiltes Versionskontrollsystem",
-    "B": "Zentraler Dateiserver",
-    "C": "Nur Cloud-Backup"
+    "C": "Verteiltes Versionskontrollsystem",
+    "A": "Zentraler Dateiserver",
+    "B": "Nur Cloud-Backup"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Git ist dezentral: jeder Clone ein volles Repo. Offline committen wie ein Einsiedlerkönig.",
-    "B": "Zentral geht, muss aber nicht – das ist nur Hosting-Mode. (Richtig: A)",
-    "C": "Backups sind nett, aber Git ist vor allem Historien-Magie. (Richtig: A)"
+    "C": "Richtig. „Verteiltes Versionskontrollsystem“ passt zur Frage.",
+    "A": "Nein. „Zentraler Dateiserver“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Verteiltes Versionskontrollsystem“.",
+    "B": "Nein. „Nur Cloud-Backup“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Verteiltes Versionskontrollsystem“."
   }
 }

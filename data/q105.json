@@ -1,14 +1,14 @@
 {
   "question": "Welches dieser Gewürze ist die getrocknete Rinde eines Baumes?",
   "options": {
-    "A": "Zimt",
-    "B": "Pfeffer",
-    "C": "Vanille"
+    "C": "Zimt",
+    "A": "Pfeffer",
+    "B": "Vanille"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Zimt: Rinde vom Zimtbaum, aufgerollt zur Stange. Botanical Cinnamon Rolls, quasi.",
-    "B": "Pfeffer sind Beeren – kleine scharfe Kugeln mit großem Ego. (Richtig: A)",
-    "C": "Vanille kommt aus der Schote der Orchidee. Rinde? Eher nicht. (Richtig: A)"
+    "C": "Richtig. „Zimt“ passt zur Frage.",
+    "A": "Nein. „Pfeffer“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Zimt“.",
+    "B": "Nein. „Vanille“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Zimt“."
   }
 }

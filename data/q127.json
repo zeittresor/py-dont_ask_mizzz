@@ -1,14 +1,14 @@
 {
   "question": "Welche Programmiersprache ist statisch typisiert?",
   "options": {
-    "A": "Go",
-    "B": "Python",
+    "B": "Go",
+    "A": "Python",
     "C": "JavaScript"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Go: Types sind früh festgelegt. Der Compiler ist wie ein strenger Türsteher mit Clipboard.",
-    "B": "Python: dynamisch – freundlich, aber dafür gibt’s mypy als Sicherheitsgurt. (Richtig: A)",
-    "C": "JavaScript: chaotisch charmant, aber dynamisch. ‚==‘ lässt grüßen. (Richtig: A)"
+    "B": "Richtig. „Go“ passt zur Frage.",
+    "A": "Nein. „Python“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Go“.",
+    "C": "Nein. „JavaScript“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Go“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Wie viele Chromosomen hat der Mensch in der Regel?",
   "options": {
-    "A": "46",
-    "B": "23",
-    "C": "92"
+    "C": "46",
+    "A": "23",
+    "B": "92"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! 46 gesamt in somatischen Zellen – 23er-Paare, Teamarbeit deluxe.",
-    "B": "23 findest du in Keimzellen einzeln – halbes Set. (Richtig: A)",
-    "C": "92 wäre 'doppelt geladen' – eher in speziellen Zellzyklen. (Richtig: A)"
+    "C": "Richtig. „46“ passt zur Frage.",
+    "A": "Nein. „23“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „46“.",
+    "B": "Nein. „92“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „46“."
   }
 }

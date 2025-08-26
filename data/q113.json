@@ -1,14 +1,14 @@
 {
   "question": "Welche Sprache gehört NICHT zur indogermanischen Familie?",
   "options": {
-    "A": "Finnisch",
-    "B": "Persisch",
+    "B": "Finnisch",
+    "A": "Persisch",
     "C": "Spanisch"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Finnisch gehört zur uralischen Familie. Grammatik zum Verlieben – oder Verzweifeln.",
-    "B": "Persisch ist indogermanisch (iranischer Zweig) – altehrwürdig und schön geschwungen. (Richtig: A)",
-    "C": "Spanisch: romanisch, also indogermanisch – olé. (Richtig: A)"
+    "B": "Richtig. „Finnisch“ passt zur Frage.",
+    "A": "Nein. „Persisch“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Finnisch“.",
+    "C": "Nein. „Spanisch“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Finnisch“."
   }
 }

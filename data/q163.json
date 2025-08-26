@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! 128 Bit: genug für Kühlschrank, Toaster und deine smarten Socken.",
-    "B": "Punkte hat IPv4. IPv6 liebt Doppelpunkte. (Richtig: A)",
-    "C": "IPv6 regelt Adressierung, nicht Verschlüsselung. (Richtig: A)"
+    "A": "Richtig. „Adressen sind 128 Bit lang“ passt zur Frage.",
+    "B": "Nein. „Jede Adresse hat Punkte“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Adressen sind 128 Bit lang“.",
+    "C": "Nein. „Es ersetzt TLS“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Adressen sind 128 Bit lang“."
   }
 }

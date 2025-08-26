@@ -1,14 +1,14 @@
 {
   "question": "Welche Kunstströmung ist mit Pixelgrafiken am ehesten verwandt?",
   "options": {
-    "A": "Pointillismus",
-    "B": "Kubismus",
-    "C": "Impressionismus"
+    "C": "Pointillismus",
+    "A": "Kubismus",
+    "B": "Impressionismus"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Punkte überall! Pointillismus hat quasi das Pixel im Blut – nur analog und ohne Anti-Aliasing.",
-    "B": "Kubismus zerlegt Formen – mehr Polygone als Pixel. (Richtig: A)",
-    "C": "Impressionismus ist flirrend – weniger Raster, mehr Pinsel-Slap. (Richtig: A)"
+    "C": "Richtig. „Pointillismus“ passt zur Frage.",
+    "A": "Nein. „Kubismus“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Pointillismus“.",
+    "B": "Nein. „Impressionismus“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Pointillismus“."
   }
 }

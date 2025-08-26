@@ -1,14 +1,14 @@
 {
   "question": "Welche Naturwissenschaft untersucht vorrangig die Zusammensetzung und Reaktionen von Stoffen?",
   "options": {
-    "A": "Chemie",
-    "B": "Geologie",
+    "B": "Chemie",
+    "A": "Geologie",
     "C": "Astronomie"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Chemie: Wenn’s zischt, riecht, färbt, schmilzt – und du plötzlich Aha sagst.",
-    "B": "Geologie schaut lieber auf Steine – die machen seltener bunte Reaktionen. (Richtig: A)",
-    "C": "Astronomie liebt Sterne – die reagieren auch, aber auf kosmischem Level. (Richtig: A)"
+    "B": "Richtig. „Chemie“ passt zur Frage.",
+    "A": "Nein. „Geologie“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Chemie“.",
+    "C": "Nein. „Astronomie“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Chemie“."
   }
 }

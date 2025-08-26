@@ -1,14 +1,14 @@
 {
   "question": "Welche Größe beschreibt F = m · a?",
   "options": {
-    "A": "Kraft",
-    "B": "Energie",
+    "B": "Kraft",
+    "A": "Energie",
     "C": "Impuls"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Kraft. Newton würde nicken, während der Apfel die Gravitation demonstriert.",
-    "B": "Energie ist eine andere Formelwelt (Joule und so). (Richtig: A)",
-    "C": "Impuls ist m·v – verwandter Cousin, nicht identisch. (Richtig: A)"
+    "B": "Richtig. „Kraft“ passt zur Frage.",
+    "A": "Nein. „Energie“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Kraft“.",
+    "C": "Nein. „Impuls“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Kraft“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welcher Planet ist der größte im Sonnensystem?",
   "options": {
-    "A": "Jupiter",
-    "B": "Saturn",
-    "C": "Neptun"
+    "C": "Jupiter",
+    "A": "Saturn",
+    "B": "Neptun"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Jupiter ist der Chef im Ring – massig, stürmisch, mit großem roten Pickel.",
-    "B": "Saturn hat die schöneren Ringe, aber weniger Masse. (Richtig: A)",
-    "C": "Neptun ist stürmisch, doch deutlich kleiner. (Richtig: A)"
+    "C": "Richtig. „Jupiter“ ist ein Planet – genau das wird gefragt.",
+    "A": "Nein. „Saturn“ ist ein Planet; gesucht ist ein Planet. Richtig ist C – „Jupiter“.",
+    "B": "Nein. „Neptun“ ist ein Planet; gesucht ist ein Planet. Richtig ist C – „Jupiter“."
   }
 }

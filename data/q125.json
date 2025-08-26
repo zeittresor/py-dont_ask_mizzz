@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! AUTOEXEC.BAT: Der Morgenmuffel-Butler, der bei jedem Start die gleichen Rituale abspult.",
-    "B": "config.sys war für Treiber und Konfiguration – die Werkbank im Hintergrund. (Richtig: A)",
-    "C": "system32.dll ist generisch – eine einzelne DLL hebt keine Autostarts an. (Richtig: A)"
+    "A": "Richtig. „AUTOEXEC.BAT“ passt zur Frage.",
+    "B": "Nein. „config.sys“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „AUTOEXEC.BAT“.",
+    "C": "Nein. „system32.dll“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „AUTOEXEC.BAT“."
   }
 }

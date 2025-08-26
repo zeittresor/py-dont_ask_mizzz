@@ -1,14 +1,14 @@
 {
   "question": "Was bedeutet RAM?",
   "options": {
-    "A": "Random Access Memory",
-    "B": "Read Always Memory",
-    "C": "Rapid Array Module"
+    "C": "Random Access Memory",
+    "A": "Read Always Memory",
+    "B": "Rapid Array Module"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Flüchtiger Arbeitsspeicher mit fixe Laune – schnell, aber vergesslich.",
-    "B": "Klingt nice, ist aber frei erfunden. (Richtig: A)",
-    "C": "Klingt schnell, ist aber ebenfalls Fantasie. (Richtig: A)"
+    "C": "Richtig. „Random Access Memory“ passt zur Frage.",
+    "A": "Nein. „Read Always Memory“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Random Access Memory“.",
+    "B": "Nein. „Rapid Array Module“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Random Access Memory“."
   }
 }

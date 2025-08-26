@@ -1,14 +1,14 @@
 {
   "question": "Was macht DNS in einem Satz am besten?",
   "options": {
-    "A": "Namen in IP-Adressen auflösen",
-    "B": "Daten verschlüsseln",
-    "C": "Websites hosten"
+    "C": "Namen in IP-Adressen auflösen",
+    "A": "Daten verschlüsseln",
+    "B": "Websites hosten"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! DNS ist das Telefonbuch des Netzes. Ohne würdest du IP-Mantra beten.",
-    "B": "Verschlüsseln macht TLS/HTTPS, nicht DNS (außer DoH/DoT für Transport). (Richtig: A)",
-    "C": "Hosten tun Webserver – DNS sagt nur, wo sie wohnen. (Richtig: A)"
+    "C": "Richtig. „Namen in IP-Adressen auflösen“ passt zur Frage.",
+    "A": "Nein. „Daten verschlüsseln“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Namen in IP-Adressen auflösen“.",
+    "B": "Nein. „Websites hosten“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Namen in IP-Adressen auflösen“."
   }
 }

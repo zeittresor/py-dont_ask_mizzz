@@ -1,14 +1,14 @@
 {
   "question": "Welches Vitamin wird bei Sonneneinstrahlung in der Haut gebildet?",
   "options": {
-    "A": "Vitamin D",
-    "B": "Vitamin C",
-    "C": "Vitamin B12"
+    "C": "Vitamin D",
+    "A": "Vitamin C",
+    "B": "Vitamin B12"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! UVB triggert die Vitamin-D-Produktion – Sonnenschutz trotzdem nicht vergessen.",
-    "B": "Vitamin C kommt über die Ernährung – sorry, Sonne. (Richtig: A)",
-    "C": "B12 kommt aus tierischen Quellen/Bakterien – Sonne hilft da nicht. (Richtig: A)"
+    "C": "Richtig. „Vitamin D“ passt zur Frage.",
+    "A": "Nein. „Vitamin C“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Vitamin D“.",
+    "B": "Nein. „Vitamin B12“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Vitamin D“."
   }
 }
