@@ -1,14 +1,14 @@
 {
   "question": "Welcher Kontinent hat die meisten Länder?",
   "options": {
-    "A": "Afrika",
-    "B": "Europa",
-    "C": "Südamerika"
+    "C": "Afrika",
+    "A": "Europa",
+    "B": "Südamerika"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Afrika sammelt Flaggen wie Sticker – politisch vielfältig.",
-    "B": "Europa ist klein, aber kompliziert – doch weniger Staaten. (Richtig: A)",
-    "C": "Südamerika hat weniger Länder als Afrika."
+    "C": "Richtig. „Afrika“ ist ein Kontinent – genau das wird gefragt.",
+    "A": "Nein. „Europa“ ist ein Mond (von Jupiter); gesucht ist ein Kontinent. Richtig ist C – „Afrika“.",
+    "B": "Nein. „Südamerika“ ist ein Kontinent; gesucht ist ein Kontinent. Richtig ist C – „Afrika“."
   }
 }

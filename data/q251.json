@@ -1,14 +1,14 @@
 {
   "question": "Welche Farbe entsteht additiv aus Rot und Grün?",
   "options": {
-    "A": "Gelb",
-    "B": "Magenta",
+    "B": "Gelb",
+    "A": "Magenta",
     "C": "Cyan"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Additiv (Licht): Rot+Grün=Gelb – dein Monitor nickt.",
-    "B": "Magenta = Rot+Blau. (Richtig: A)",
-    "C": "Cyan = Grün+Blau. (Richtig: A)"
+    "B": "Richtig. „Gelb“ ist ein Farbe – genau das wird gefragt.",
+    "A": "Nein. „Magenta“ ist ein Farbe; gesucht ist ein Farbe. Richtig ist B – „Gelb“.",
+    "C": "Nein. „Cyan“ ist ein Farbe; gesucht ist ein Farbe. Richtig ist B – „Gelb“."
   }
 }

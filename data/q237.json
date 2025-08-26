@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Singulär = nicht invertierbar, Determinante am Boden.",
-    "B": "Orthogonal hat Determinante ±1. (Richtig: A)",
-    "C": "Einheitsmatrix hat Determinante 1 – boring stabil. (Richtig: A)"
+    "A": "Richtig. „Eine singuläre Matrix“ passt zur Frage.",
+    "B": "Nein. „Eine orthogonale Matrix“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Eine singuläre Matrix“.",
+    "C": "Nein. „Eine Einheitsmatrix“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Eine singuläre Matrix“."
   }
 }

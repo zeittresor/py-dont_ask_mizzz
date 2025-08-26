@@ -1,14 +1,14 @@
 {
   "question": "Welches Element hat das Symbol 'Na'?",
   "options": {
-    "A": "Natrium",
-    "B": "Stickstoff",
-    "C": "Neon"
+    "C": "Natrium",
+    "A": "Stickstoff",
+    "B": "Neon"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Natrium: reagiert wie ein Teenager – heftig, wenn du Wasser dazu gibst.",
-    "B": "Stickstoff = N. Viel in der Luft, wenig in 'Na'. (Richtig: A)",
-    "C": "Neon = Ne – Disco im Glas. (Richtig: A)"
+    "C": "Richtig. „Natrium“ ist ein chemisches Symbol – genau das wird gefragt.",
+    "A": "Nein. „Stickstoff“ ist der Elementname (Symbol „N“). Gefragt war das Symbol. Richtig ist C – „Natrium“.",
+    "B": "Nein. „Neon“ ist der Elementname (Symbol „Ne“). Gefragt war das Symbol. Richtig ist C – „Natrium“."
   }
 }

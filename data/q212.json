@@ -1,14 +1,14 @@
 {
   "question": "Was ist ein Palindrom?",
   "options": {
-    "A": "Ein Wort/Satz, der vorwärts wie rückwärts gleich ist",
-    "B": "Ein besonders langer Satz",
-    "C": "Ein Zungenbrecher"
+    "C": "Ein Wort/Satz, der vorwärts wie rückwärts gleich ist",
+    "A": "Ein besonders langer Satz",
+    "B": "Ein Zungenbrecher"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Level, Otto, Reliefpfeiler – Spiegelspaß für Buchstaben.",
-    "B": "Länger hilft nicht beim Spiegeln. (Richtig: A)",
-    "C": "Zungenbrecher drehen Zungen, nicht Wörter. (Richtig: A)"
+    "C": "Richtig. „Ein Wort/Satz, der vorwärts wie rückwärts gleich ist“ passt zur Frage.",
+    "A": "Nein. „Ein besonders langer Satz“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Ein Wort/Satz, der vorwärts wie rückwärts gleich ist“.",
+    "B": "Nein. „Ein Zungenbrecher“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Ein Wort/Satz, der vorwärts wie rückwärts gleich ist“."
   }
 }

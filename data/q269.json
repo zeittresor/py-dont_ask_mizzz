@@ -1,14 +1,14 @@
 {
   "question": "Welche Teilchen tragen die negative Ladung im Atom?",
   "options": {
-    "A": "Elektronen",
-    "B": "Protonen",
-    "C": "Neutronen"
+    "C": "Elektronen",
+    "A": "Protonen",
+    "B": "Neutronen"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Elektronen sind die kleinen Ladungsträger – hyperaktiv und immer unterwegs.",
-    "B": "Protonen sind positiv – die Sonnenscheinchen im Kern. (Richtig: A)",
-    "C": "Neutronen sind neutral – diplomatisch korrekt. (Richtig: A)"
+    "C": "Richtig. „Elektronen“ passt zur Frage.",
+    "A": "Nein. „Protonen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Elektronen“.",
+    "B": "Nein. „Neutronen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Elektronen“."
   }
 }

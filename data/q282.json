@@ -1,14 +1,14 @@
 {
   "question": "Welche Redewendung bedeutet 'jemandem schmeicheln'?",
   "options": {
-    "A": "Jemandem Honig ums Maul schmieren",
-    "B": "Jemandem den Bären aufbinden",
-    "C": "Jemandem die kalte Schulter zeigen"
+    "C": "Jemandem Honig ums Maul schmieren",
+    "A": "Jemandem den Bären aufbinden",
+    "B": "Jemandem die kalte Schulter zeigen"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Süße Worte statt klebriger Finger – du weißt schon.",
-    "B": "Das heißt 'jemanden anlügen'. (Richtig: A)",
-    "C": "Das heißt 'jemanden ignorieren'. (Richtig: A)"
+    "C": "Richtig. „Jemandem Honig ums Maul schmieren“ passt zur Frage.",
+    "A": "Nein. „Jemandem den Bären aufbinden“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Jemandem Honig ums Maul schmieren“.",
+    "B": "Nein. „Jemandem die kalte Schulter zeigen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Jemandem Honig ums Maul schmieren“."
   }
 }

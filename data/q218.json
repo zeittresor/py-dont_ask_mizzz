@@ -1,14 +1,14 @@
 {
   "question": "Welche Aussage stimmt?",
   "options": {
-    "A": "Das ß wird nach langem Vokal benutzt",
-    "B": "ß ist Großbuchstabe S",
-    "C": "ß ist in der Schweiz Pflicht"
+    "C": "Das ß wird nach langem Vokal benutzt",
+    "A": "ß ist Großbuchstabe S",
+    "B": "ß ist in der Schweiz Pflicht"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Maß, Gruß, heiß – lang, scharf, ß.",
-    "B": "Großbuchstabe wäre 'ẞ', aber nicht einfach S. (Richtig: A)",
-    "C": "Die Schweiz nutzt praktisch kein ß – sie schreibt 'ss'. (Richtig: A)"
+    "C": "Richtig. „Das ß wird nach langem Vokal benutzt“ passt zur Frage.",
+    "A": "Nein. „ß ist Großbuchstabe S“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Das ß wird nach langem Vokal benutzt“.",
+    "B": "Nein. „ß ist in der Schweiz Pflicht“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Das ß wird nach langem Vokal benutzt“."
   }
 }

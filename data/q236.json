@@ -1,14 +1,14 @@
 {
   "question": "Was ist der Goldene Schnitt ungefähr?",
   "options": {
-    "A": "1,618",
-    "B": "3,141",
+    "B": "1,618",
+    "A": "3,141",
     "C": "2,718"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! φ ≈ 1,618 – hübsch in Kunst, Natur und UI-Layouts.",
-    "B": "3,141 ist Pi – anderer Superstar. (Richtig: A)",
-    "C": "2,718 ist e – die Lieblingszahl der Exponentialfreunde. (Richtig: A)"
+    "B": "Richtig. „1,618“ passt zur Frage.",
+    "A": "Nein. „3,141“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „1,618“.",
+    "C": "Nein. „2,718“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „1,618“."
   }
 }

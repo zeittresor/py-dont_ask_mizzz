@@ -1,14 +1,14 @@
 {
   "question": "Wie heißt der Master Chief in 'Halo' mit bürgerlichem Namen?",
   "options": {
-    "A": "John-117",
-    "B": "Gordon Freeman",
-    "C": "Doomguy"
+    "C": "John-117",
+    "A": "Gordon Freeman",
+    "B": "Doomguy"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! John-117, Spartan – Mann der wenigen Worte und vieler Kugeln.",
-    "B": "Gordon ist 'Half-Life'. Brechstange, kein Warthog. (Richtig: A)",
-    "C": "Doomguy ist… Doom. Kein Helm-Visor mit KI-Cortana. (Richtig: A)"
+    "C": "Richtig. „John-117“ passt zur Frage.",
+    "A": "Nein. „Gordon Freeman“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „John-117“.",
+    "B": "Nein. „Doomguy“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „John-117“."
   }
 }

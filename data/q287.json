@@ -1,14 +1,14 @@
 {
   "question": "Welche Zahl ist die kleinste dreistellige Primzahl?",
   "options": {
-    "A": "101",
-    "B": "103",
-    "C": "107"
+    "C": "101",
+    "A": "103",
+    "B": "107"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! 101 ist dreistellig und lässt außer 1 und 101 niemanden an sich ran.",
-    "B": "103 ist ebenfalls prim – aber nicht die kleinste dreistellige. (Richtig: A)",
-    "C": "107 ist auch prim – nur noch später dran. (Richtig: A)"
+    "C": "Richtig. „101“ ist ein Zahl – genau das wird gefragt.",
+    "A": "Nein. „103“ ist ein Zahl; gesucht ist ein Zahl. Richtig ist C – „101“.",
+    "B": "Nein. „107“ ist ein Zahl; gesucht ist ein Zahl. Richtig ist C – „101“."
   }
 }

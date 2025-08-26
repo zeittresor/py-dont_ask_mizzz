@@ -1,14 +1,14 @@
 {
   "question": "Welche Schreibung ist korrekt?",
   "options": {
-    "A": "im Allgemeinen",
-    "B": "im allgemeinen",
-    "C": "Im Allgemeinen"
+    "C": "im Allgemeinen",
+    "A": "im allgemeinen",
+    "B": "Im Allgemeinen"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Als Adverb groß? Nope. 'Allgemeinen' ist hier substantiviert – aber nach Präposition klein? Fiese Falle: korrekt ist 'im Allgemeinen' (Substantivierung groß).",
-    "B": "Kleinschreibung ist hier falsch. (Richtig: A)",
-    "C": "Satzanfang groß ginge – aber hier als Option nicht gemeint. (Richtig: A)"
+    "C": "Richtig. „im Allgemeinen“ passt zur Frage.",
+    "A": "Nein. „im allgemeinen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „im Allgemeinen“.",
+    "B": "Nein. „Im Allgemeinen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „im Allgemeinen“."
   }
 }

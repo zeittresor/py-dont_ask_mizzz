@@ -1,14 +1,14 @@
 {
   "question": "Welche Firma steht hinter der Serie 'The Mandalorian' (Produktion)?",
   "options": {
-    "A": "Lucasfilm",
-    "B": "Paramount",
-    "C": "Netflix"
+    "C": "Lucasfilm",
+    "A": "Paramount",
+    "B": "Netflix"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Lucasfilm, Baby Yoda, Western-Vibes.",
-    "B": "Paramount ist mehr bei Star Trek zu Hause. (Richtig: A)",
-    "C": "Netflix streamt viel, aber diese Serie ist woanders gestartet. (Richtig: A)"
+    "C": "Richtig. „Lucasfilm“ passt zur Frage.",
+    "A": "Nein. „Paramount“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Lucasfilm“.",
+    "B": "Nein. „Netflix“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Lucasfilm“."
   }
 }

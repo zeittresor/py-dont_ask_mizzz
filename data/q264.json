@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Kollisionen sollen selten und schwer zu finden sein – sonst wäre es 'Crashfunktion'.",
-    "B": "Ja, Hashes geben eine feste Länge aus – egal wie lange der Input ist. (Richtig: A)",
-    "C": "Genau: Eine kleine Änderung → völlig anderes Ergebnis – sehr dramatisch, sehr gewollt. (Richtig: A)"
+    "A": "Richtig. „Kollisionen leicht erzeugen“ passt zur Frage.",
+    "B": "Nein. „Fixe Ausgabelänge produzieren“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Kollisionen leicht erzeugen“.",
+    "C": "Nein. „Schon kleine Änderungen stark ändern (Lawineneffekt)“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Kollisionen leicht erzeugen“."
   }
 }

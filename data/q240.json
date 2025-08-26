@@ -1,14 +1,14 @@
 {
-  "question": "Was ist die Ableitung von x²?",
+  "question": "Was ist die Ableitung von x2?",
   "options": {
-    "A": "2x",
-    "B": "x",
-    "C": "x³"
+    "C": "2x",
+    "A": "x",
+    "B": "x3"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Schulbuch-Glücksmoment: 2x.",
-    "B": "x ist von (1/2)x² – falsche Richtung. (Richtig: A)",
-    "C": "x³ ist weiter weg – so 3 Kilometer. (Richtig: A)"
+    "C": "Richtig. „2x“ passt zur Frage.",
+    "A": "Nein. „x“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „2x“.",
+    "B": "Nein. „x3“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „2x“."
   }
 }

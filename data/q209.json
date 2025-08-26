@@ -1,14 +1,14 @@
 {
   "question": "Wer war der erste Mensch auf dem Mond?",
   "options": {
-    "A": "Neil Armstrong",
-    "B": "Buzz Aldrin",
-    "C": "Yuri Gagarin"
+    "C": "Neil Armstrong",
+    "A": "Buzz Aldrin",
+    "B": "Yuri Gagarin"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! „Ein kleiner Schritt…“ – und ein großer PR-Stunt für die Raumfahrt.",
-    "B": "Aldrin war Nummer zwei – immer noch Weltruhm. (Richtig: A)",
-    "C": "Gagarin war erster im Orbit, nicht auf dem Mond. (Richtig: A)"
+    "C": "Richtig. „Neil Armstrong“ ist ein Mond – genau das wird gefragt.",
+    "A": "Nein. „Buzz Aldrin“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Mond). Richtig ist C – „Neil Armstrong“.",
+    "B": "Nein. „Yuri Gagarin“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Mond). Richtig ist C – „Neil Armstrong“."
   }
 }

@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! HTTPS = HTTP über TLS. Schloss auf, Lauscher raus.",
-    "B": "FTP ist unverschlüsselt wie eine Postkarte aus 1991. (Richtig: A)",
-    "C": "Telnet ist Retro-Chat mit dem Server – und mit allen, die mithören. (Richtig: A)"
+    "A": "Richtig. „TLS/HTTPS“ passt zur Frage.",
+    "B": "Nein. „FTP“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „TLS/HTTPS“.",
+    "C": "Nein. „Telnet“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „TLS/HTTPS“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welche Darstellung zeigt Zahlenbasis 16?",
   "options": {
-    "A": "Hexadezimal",
-    "B": "Oktal",
+    "B": "Hexadezimal",
+    "A": "Oktal",
     "C": "Duodezimal"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! 0–9 und A–F – die Lieblingssprache der Farbwerte.",
-    "B": "Oktal ist Basis 8 – nostalgisch nach 0o. (Richtig: A)",
-    "C": "Duodezimal ist Basis 12 – es lebt vor allem in Uhren-Mythen. (Richtig: A)"
+    "B": "Richtig. „Hexadezimal“ ist ein Zahl – genau das wird gefragt.",
+    "A": "Nein. „Oktal“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Zahl). Richtig ist B – „Hexadezimal“.",
+    "C": "Nein. „Duodezimal“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Zahl). Richtig ist B – „Hexadezimal“."
   }
 }

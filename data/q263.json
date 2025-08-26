@@ -1,14 +1,14 @@
 {
   "question": "Welche Speicherart ist flüchtig?",
   "options": {
-    "A": "RAM",
-    "B": "SSD",
+    "B": "RAM",
+    "A": "SSD",
     "C": "HDD"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! RAM vergisst alles, wenn der Stecker traurig wird – dafür sauschnell.",
-    "B": "SSDs behalten Daten ohne Strom (nichtflüchtig). (Richtig: A)",
-    "C": "HDDs behalten auch – solange die Platte nicht Karaoke singt. (Richtig: A)"
+    "B": "Richtig. „RAM“ passt zur Frage.",
+    "A": "Nein. „SSD“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „RAM“.",
+    "C": "Nein. „HDD“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „RAM“."
   }
 }

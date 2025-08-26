@@ -1,14 +1,14 @@
 {
   "question": "Welche Dateiendung steht typischerweise für komprimierte Tar-Archive unter Linux?",
   "options": {
-    "A": ".tar.gz",
-    "B": ".iso",
+    "B": ".tar.gz",
+    "A": ".iso",
     "C": ".exe"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! tarball + gzip = .tar.gz – die Bento-Box im Schrumpfmodus.",
-    "B": ".iso ist Abbilderei von Datenträgern. (Richtig: A)",
-    "C": ".exe ist ausführbar auf Windows – kein Archiv. (Richtig: A)"
+    "B": "Richtig. „.tar.gz“ passt zur Frage.",
+    "A": "Nein. „.iso“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „.tar.gz“.",
+    "C": "Nein. „.exe“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „.tar.gz“."
   }
 }

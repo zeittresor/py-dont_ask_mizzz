@@ -1,14 +1,14 @@
 {
   "question": "Welche Hauptstadt gehört zu Deutschland?",
   "options": {
-    "A": "Berlin",
-    "B": "München",
-    "C": "Frankfurt"
+    "C": "Berlin",
+    "A": "München",
+    "B": "Frankfurt"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Berlin: Hauptstadt mit Ampelmännchen und Regierungsmusik.",
-    "B": "München ist Landeshauptstadt von Bayern – Bierkrone, aber nicht Bund. (Richtig: A)",
-    "C": "Frankfurt ist Finanzzentrum – Hauptstadt Hessens ist Wiesbaden. (Richtig: A)"
+    "C": "Richtig. „Berlin“ ist die gesuchte Hauptstadt.",
+    "A": "Nein. „München“ ist hier nicht die Hauptstadt von . Richtig ist C – „Berlin“.",
+    "B": "Nein. „Frankfurt“ ist hier nicht die Hauptstadt von . Richtig ist C – „Berlin“."
   }
 }

@@ -1,14 +1,14 @@
 {
   "question": "Welche Form ist Standardsprache?",
   "options": {
-    "A": "wegen des Wetters",
-    "B": "wegen dem Wetter",
+    "B": "wegen des Wetters",
+    "A": "wegen dem Wetter",
     "C": "wegen das Wetter"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Genitiv rockt hier die Bühne.",
-    "B": "Umgangssprachlich geduldet, aber nicht Standard. (Richtig: A)",
-    "C": "Das tut dem Duden weh. (Richtig: A)"
+    "B": "Richtig. „wegen des Wetters“ passt zur Frage.",
+    "A": "Nein. „wegen dem Wetter“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „wegen des Wetters“.",
+    "C": "Nein. „wegen das Wetter“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „wegen des Wetters“."
   }
 }

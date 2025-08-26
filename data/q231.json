@@ -1,14 +1,14 @@
 {
   "question": "Wie viel ist 0! (Null Fakultät)?",
   "options": {
-    "A": "1",
-    "B": "0",
+    "B": "1",
+    "A": "0",
     "C": "unendlich"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Per Definition 1 – damit die Kombinatorik nicht heulend zusammenbricht.",
-    "B": "Das wäre schön simpel, aber falsch. (Richtig: A)",
-    "C": "Unendlich ist ein Gefühl, keine Fakultät. (Richtig: A)"
+    "B": "Richtig. „1“ passt zur Frage.",
+    "A": "Nein. „0“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „1“.",
+    "C": "Nein. „unendlich“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „1“."
   }
 }

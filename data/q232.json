@@ -1,14 +1,14 @@
 {
   "question": "Welche Zahl ist eine Primzahl?",
   "options": {
-    "A": "101",
-    "B": "105",
+    "B": "101",
+    "A": "105",
     "C": "111"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! 101 ist störrisch allein.",
-    "B": "105 = 3×5×7 – ein Gruppenfoto. (Richtig: A)",
-    "C": "111 = 3×37 – überraschend teilbar. (Richtig: A)"
+    "B": "Richtig. „101“ ist ein Zahl – genau das wird gefragt.",
+    "A": "Nein. „105“ ist ein Zahl; gesucht ist ein Zahl. Richtig ist B – „101“.",
+    "C": "Nein. „111“ ist ein Zahl; gesucht ist ein Zahl. Richtig ist B – „101“."
   }
 }

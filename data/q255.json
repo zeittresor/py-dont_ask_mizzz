@@ -1,14 +1,14 @@
 {
   "question": "Welche Stadt nennt man 'Big Apple'?",
   "options": {
-    "A": "New York City",
-    "B": "Los Angeles",
-    "C": "Chicago"
+    "C": "New York City",
+    "A": "Los Angeles",
+    "B": "Chicago"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! NYC – die Stadt, die nie schläft, nur gähnt.",
-    "B": "LA ist die Stadt der Autos und Drehbücher. (Richtig: A)",
-    "C": "Chicago ist Wind und Jazz – anderer Obstkorb. (Richtig: A)"
+    "C": "Richtig. „New York City“ ist ein Stadt – genau das wird gefragt.",
+    "A": "Nein. „Los Angeles“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Stadt). Richtig ist C – „New York City“.",
+    "B": "Nein. „Chicago“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Stadt). Richtig ist C – „New York City“."
   }
 }

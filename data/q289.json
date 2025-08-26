@@ -1,14 +1,14 @@
 {
   "question": "Welche Reihe konvergiert?",
   "options": {
-    "A": "1/2 + 1/4 + 1/8 + …",
-    "B": "1 + 1 + 1 + …",
-    "C": "1 + 1/2 + 1/3 + …"
+    "A": "1/2 + 1/4 + 1/8 + ...",
+    "B": "1 + 1 + 1 + ...",
+    "C": "1 + 1/2 + 1/3 + ..."
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Geometrische Reihe mit q=1/2 – nähert sich lieb 1 an.",
-    "B": "Klingt nach unendlicher Geduld – aber divergent. (Richtig: A)",
-    "C": "Harmonische Reihe divergierrt langsam, aber sicher. (Richtig: A)"
+    "A": "Richtig. „1/2 + 1/4 + 1/8 + ...“ passt zur Frage.",
+    "B": "Nein. „1 + 1 + 1 + ...“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „1/2 + 1/4 + 1/8 + ...“.",
+    "C": "Nein. „1 + 1/2 + 1/3 + ...“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „1/2 + 1/4 + 1/8 + ...“."
   }
 }

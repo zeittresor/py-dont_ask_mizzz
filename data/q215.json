@@ -1,14 +1,14 @@
 {
   "question": "Was bedeutet 'jemandem einen Bären aufbinden'?",
   "options": {
-    "A": "Jemanden anlügen/aufsitzen lassen",
-    "B": "Jemanden reich beschenken",
-    "C": "Jemanden erschrecken"
+    "C": "Jemanden anlügen/aufsitzen lassen",
+    "A": "Jemanden reich beschenken",
+    "B": "Jemanden erschrecken"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Eine hübsche Lüge mit Schleife – und plötzlich trägt der andere den Bären spazieren.",
-    "B": "Reiche Geschenke haben andere Redensarten. (Richtig: A)",
-    "C": "Erschrecken geht mit 'einen Schrecken einjagen'. (Richtig: A)"
+    "C": "Richtig. „Jemanden anlügen/aufsitzen lassen“ passt zur Frage.",
+    "A": "Nein. „Jemanden reich beschenken“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Jemanden anlügen/aufsitzen lassen“.",
+    "B": "Nein. „Jemanden erschrecken“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Jemanden anlügen/aufsitzen lassen“."
   }
 }

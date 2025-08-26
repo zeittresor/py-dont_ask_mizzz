@@ -1,14 +1,14 @@
 {
   "question": "Welche Aussage zur Andromedagalaxie stimmt?",
   "options": {
-    "A": "Sie nähert sich der Milchstraße an",
-    "B": "Sie entfernt sich von der Milchstraße",
+    "B": "Sie nähert sich der Milchstraße an",
+    "A": "Sie entfernt sich von der Milchstraße",
     "C": "Sie kreist als Satellit um die Milchstraße"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Blauverschiebung verrät: Rendezvous in ein paar Milliarden Jahren – bring Kuchen mit.",
-    "B": "Nope, ausnahmsweise mal nicht weg. (Richtig: A)",
-    "C": "Sie ist selbst eine große Nachbarin, kein Satellit. (Richtig: A)"
+    "B": "Richtig. „Sie nähert sich der Milchstraße an“ passt zur Frage.",
+    "A": "Nein. „Sie entfernt sich von der Milchstraße“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Sie nähert sich der Milchstraße an“.",
+    "C": "Nein. „Sie kreist als Satellit um die Milchstraße“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Sie nähert sich der Milchstraße an“."
   }
 }

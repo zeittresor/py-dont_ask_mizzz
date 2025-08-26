@@ -1,14 +1,14 @@
 {
   "question": "Welcher Fluss fließt durch Budapest?",
   "options": {
-    "A": "Donau",
-    "B": "Rhein",
+    "B": "Donau",
+    "A": "Rhein",
     "C": "Seine"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Budapest sitzt an der Donau – Postkartenmotiv inklusive.",
-    "B": "Rhein grüßt Köln und Basel – aber nicht Budapest. (Richtig: A)",
-    "C": "Seine kuschelt Paris, nicht Ungarn. (Richtig: A)"
+    "B": "Richtig. „Donau“ ist ein Fluss – genau das wird gefragt.",
+    "A": "Nein. „Rhein“ ist ein Fluss; gesucht ist ein Fluss. Richtig ist B – „Donau“.",
+    "C": "Nein. „Seine“ ist ein Fluss; gesucht ist ein Fluss. Richtig ist B – „Donau“."
   }
 }

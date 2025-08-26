@@ -1,14 +1,14 @@
 {
   "question": "Welcher Berg ist der höchste über dem Meeresspiegel?",
   "options": {
-    "A": "Mount Everest",
-    "B": "K2",
+    "B": "Mount Everest",
+    "A": "K2",
     "C": "Mont Blanc"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Everest ist der Dachdecker der Welt.",
-    "B": "K2 ist fieser zu besteigen – aber etwas niedriger. (Richtig: A)",
-    "C": "Mont Blanc ist höchster Alpe, nicht der Welt. (Richtig: A)"
+    "B": "Richtig. „Mount Everest“ ist ein Meer – genau das wird gefragt.",
+    "A": "Nein. „K2“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Meer). Richtig ist B – „Mount Everest“.",
+    "C": "Nein. „Mont Blanc“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Meer). Richtig ist B – „Mount Everest“."
   }
 }

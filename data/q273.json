@@ -1,14 +1,14 @@
 {
   "question": "Welches Gas macht den größten Anteil an trockener Luft aus?",
   "options": {
-    "A": "Stickstoff",
-    "B": "Sauerstoff",
-    "C": "Argon"
+    "C": "Stickstoff",
+    "A": "Sauerstoff",
+    "B": "Argon"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Rund 78 % Stickstoff – die große, stille Mehrheit.",
-    "B": "Sauerstoff ~21 % – wichtig, aber nicht Chef im Ring. (Richtig: A)",
-    "C": "Argon ~1 % – der noble Statist. (Richtig: A)"
+    "C": "Richtig. „Stickstoff“ passt zur Frage.",
+    "A": "Nein. „Sauerstoff“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Stickstoff“.",
+    "B": "Nein. „Argon“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Stickstoff“."
   }
 }

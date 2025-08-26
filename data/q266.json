@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Im gängigen Szenario schickst du mit Public zu, entschlüsselst mit Private – wie Briefkasten vs. Wohnungsschlüssel.",
-    "B": "Public darf öffentlich sein, Überraschung. (Richtig: A)",
-    "C": "Das wäre symmetrisch – hier arbeiten zwei zusammen, nicht einer allein. (Richtig: A)"
+    "A": "Richtig. „Der öffentliche Schlüssel verschlüsselt, der private entschlüsselt (typisch)“ passt zur Frage.",
+    "B": "Nein. „Beide Schlüssel müssen geheim bleiben“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Der öffentliche Schlüssel verschlüsselt, der private entschlüsselt (typisch)“.",
+    "C": "Nein. „Es gibt nur einen einzigen Schlüssel“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Der öffentliche Schlüssel verschlüsselt, der private entschlüsselt (typisch)“."
   }
 }

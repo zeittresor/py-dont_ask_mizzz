@@ -1,14 +1,14 @@
 {
   "question": "Welche Zutat macht Brot zu Sauerteigbrot?",
   "options": {
-    "A": "Sauerteig (Milchsäurebakterien + Hefen)",
-    "B": "Backpulver",
+    "B": "Sauerteig (Milchsäurebakterien + Hefen)",
+    "A": "Backpulver",
     "C": "Vanillezucker"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Die wilde WG aus Bakterien & Hefen sorgt für Aroma und Trieb.",
-    "B": "Backpulver kann heben – aber nicht wie Sauerteig schmecken. (Richtig: A)",
-    "C": "Vanillezucker ist fürs Dessert zuständig. (Richtig: A)"
+    "B": "Richtig. „Sauerteig (Milchsäurebakterien + Hefen)“ passt zur Frage.",
+    "A": "Nein. „Backpulver“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Sauerteig (Milchsäurebakterien + Hefen)“.",
+    "C": "Nein. „Vanillezucker“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Sauerteig (Milchsäurebakterien + Hefen)“."
   }
 }

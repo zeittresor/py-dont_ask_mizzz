@@ -1,14 +1,14 @@
 {
   "question": "Welche Käsesorte hat typischerweise Blauschimmeladern?",
   "options": {
-    "A": "Gorgonzola",
-    "B": "Mozzarella",
+    "B": "Gorgonzola",
+    "A": "Mozzarella",
     "C": "Gouda jung"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Blaue Adern wie ein nobles Marmormuster – kräftig, cremig, charakterstark.",
-    "B": "Mozzarella ist frisch und brav. (Richtig: A)",
-    "C": "Gouda jung ist mild – kein Blau, nur Gelb. (Richtig: A)"
+    "B": "Richtig. „Gorgonzola“ passt zur Frage.",
+    "A": "Nein. „Mozzarella“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Gorgonzola“.",
+    "C": "Nein. „Gouda jung“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Gorgonzola“."
   }
 }

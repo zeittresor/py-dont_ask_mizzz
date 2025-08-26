@@ -1,14 +1,14 @@
 {
   "question": "Was passierte 1066 in England?",
   "options": {
-    "A": "Schlacht bei Hastings",
-    "B": "Magna Carta",
+    "B": "Schlacht bei Hastings",
+    "A": "Magna Carta",
     "C": "Große Pest"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Normannen kommen, Könige gehen – neue Dynastie, neue Steuerformulare.",
-    "B": "Magna Carta war 1215. (Richtig: A)",
-    "C": "Die Schwarze Pest wütete im 14. Jh. (Richtig: A)"
+    "B": "Richtig. „Schlacht bei Hastings“ ist ein Land – genau das wird gefragt.",
+    "A": "Nein. „Magna Carta“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Land). Richtig ist B – „Schlacht bei Hastings“.",
+    "C": "Nein. „Große Pest“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Land). Richtig ist B – „Schlacht bei Hastings“."
   }
 }

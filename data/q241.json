@@ -1,14 +1,14 @@
 {
   "question": "Woraus besteht klassische Guacamole hauptsächlich?",
   "options": {
-    "A": "Avocado",
-    "B": "Erbsen",
+    "B": "Avocado",
+    "A": "Erbsen",
     "C": "Zucchini"
   },
-  "answer": "A",
+  "answer": "B",
   "explanations": {
-    "A": "Korrekt! Avocado + Limette + Salz + optional Drama – fertig.",
-    "B": "Erbsen-Guac ist ein Skandal für Puristen. (Richtig: A)",
-    "C": "Zucchini macht anderes Gemüse glücklich. (Richtig: A)"
+    "B": "Richtig. „Avocado“ passt zur Frage.",
+    "A": "Nein. „Erbsen“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Avocado“.",
+    "C": "Nein. „Zucchini“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist B – „Avocado“."
   }
 }

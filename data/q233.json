@@ -1,14 +1,14 @@
 {
   "question": "Was besagt der Satz des Pythagoras?",
   "options": {
-    "A": "a² + b² = c² im rechtwinkligen Dreieck",
-    "B": "a+b=c in jedem Dreieck",
-    "C": "a²=b² in gleichseitigen Dreiecken"
+    "C": "a2 + b2 = c2 im rechtwinkligen Dreieck",
+    "A": "a+b=c in jedem Dreieck",
+    "B": "a2=b2 in gleichseitigen Dreiecken"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Quadrate auf Katheten addiert ergeben Hypotenusenquadrat – Geometrie mit Style.",
-    "B": "Klingt romantisch, ist aber falsch. (Richtig: A)",
-    "C": "Gleichseitig hat andere Schönheiten, aber nicht diese Gleichung. (Richtig: A)"
+    "C": "Richtig. „a2 + b2 = c2 im rechtwinkligen Dreieck“ passt zur Frage.",
+    "A": "Nein. „a+b=c in jedem Dreieck“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „a2 + b2 = c2 im rechtwinkligen Dreieck“.",
+    "B": "Nein. „a2=b2 in gleichseitigen Dreiecken“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „a2 + b2 = c2 im rechtwinkligen Dreieck“."
   }
 }

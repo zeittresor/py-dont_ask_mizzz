@@ -1,14 +1,14 @@
 {
   "question": "Welche Firma entwickelte 'The Witcher 3'?",
   "options": {
-    "A": "CD Projekt RED",
-    "B": "Bethesda",
-    "C": "BioWare"
+    "C": "CD Projekt RED",
+    "A": "Bethesda",
+    "B": "BioWare"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! CDPR: Slawische Märchen, viel Bartöl, viele Mods.",
-    "B": "Bethesda macht Elder Scrolls/Fallout – anderes Rollenspielchaos. (Richtig: A)",
-    "C": "BioWare hat Mass Effect/Dragon Age – andere Romanzen. (Richtig: A)"
+    "C": "Richtig. „CD Projekt RED“ passt zur Frage.",
+    "A": "Nein. „Bethesda“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „CD Projekt RED“.",
+    "B": "Nein. „BioWare“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „CD Projekt RED“."
   }
 }

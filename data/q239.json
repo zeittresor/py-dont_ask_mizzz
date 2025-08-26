@@ -1,14 +1,14 @@
 {
   "question": "Welche Aussage zu Logarithmen stimmt?",
   "options": {
-    "A": "log(a·b)=log a + log b",
-    "B": "log(a+b)=log a + log b",
-    "C": "log(a)=1/a"
+    "C": "log(a·b)=log a + log b",
+    "A": "log(a+b)=log a + log b",
+    "B": "log(a)=1/a"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Produkte werden zu Summen – das ist der ganze Zauber.",
-    "B": "So einfach ist’s leider nicht. (Richtig: A)",
-    "C": "1/a ist die Ableitung von ln(a) – aber nicht der Log selbst. (Richtig: A)"
+    "C": "Richtig. „log(a·b)=log a + log b“ passt zur Frage.",
+    "A": "Nein. „log(a+b)=log a + log b“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „log(a·b)=log a + log b“.",
+    "B": "Nein. „log(a)=1/a“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „log(a·b)=log a + log b“."
   }
 }

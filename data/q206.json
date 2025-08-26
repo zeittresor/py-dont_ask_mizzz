@@ -1,14 +1,14 @@
 {
   "question": "Wer schrieb 'Faust'?",
   "options": {
-    "A": "Johann Wolfgang von Goethe",
-    "B": "Friedrich Schiller",
-    "C": "Thomas Mann"
+    "C": "Johann Wolfgang von Goethe",
+    "A": "Friedrich Schiller",
+    "B": "Thomas Mann"
   },
-  "answer": "A",
+  "answer": "C",
   "explanations": {
-    "A": "Korrekt! Goethe, der Mann für Deals mit dem Teufel und schöne Verse.",
-    "B": "Schiller gab uns Räuber, Glocke und Freiheitspoesie. (Richtig: A)",
-    "C": "Thomas Mann kommt später – Zauberberg statt Teufelspakt. (Richtig: A)"
+    "C": "Richtig. „Johann Wolfgang von Goethe“ passt zur Frage.",
+    "A": "Nein. „Friedrich Schiller“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Johann Wolfgang von Goethe“.",
+    "B": "Nein. „Thomas Mann“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist C – „Johann Wolfgang von Goethe“."
   }
 }

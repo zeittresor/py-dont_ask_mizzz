@@ -7,8 +7,8 @@
   },
   "answer": "A",
   "explanations": {
-    "A": "Korrekt! Richtig: Container isolieren Prozesse, nutzen aber denselben Kernel – leicht wie Salat ohne Dressing.",
-    "B": "Das ist das VM-Prinzip – schwerer, vollständiger, aber nicht dasselbe. (Richtig: A)",
-    "C": "Nope. Sie laufen auch auf Linux, macOS (über Linux-VM) und in der Cloud. (Richtig: A)"
+    "A": "Richtig. „Container teilen sich den Kernel des Hostsystems“ passt zur Frage.",
+    "B": "Nein. „Container enthalten ihren eigenen Kernel wie VMs“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Container teilen sich den Kernel des Hostsystems“.",
+    "C": "Nein. „Container laufen nur auf Windows“ erfüllt nicht, wonach die Frage ausdrücklich verlangt (Begriff). Richtig ist A – „Container teilen sich den Kernel des Hostsystems“."
   }
 }
